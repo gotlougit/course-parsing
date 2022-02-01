@@ -8,6 +8,8 @@ The code is fairly messy and does need to be cleaned up, and the output itself i
 
 Hence care should be used while using the tool, and it is strongly recommended to go through the output once.
 
+The tool can automatically detect certain unnecessary lines in the input (lines with just a newline character, ones with just ---, etc.) but it's not perfect.
+
 ## Requirements
 
 No external modules are used; the standard packages are enough
