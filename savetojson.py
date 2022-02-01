@@ -14,7 +14,7 @@ def writeLines(lines, entry, key, start):
             except IndexError:
                 return start - 1
         else:
-            entry[key] += "\n" + processVal(lines[i])
+            entry[key] += "" + processVal(lines[i])
             i+=1
     return i-1
 
@@ -25,9 +25,6 @@ def processVal(val):
         val = ""
     val = val.title()
     return val
-
-def setVal(entry, key, val):
-    entry[key] = processVal(val)
 
 def resetEntry():
     return {"course code": "", "course title": "", "prerequisites": "", "course type": "", "course learning objectives":"", "course content":"", "course outcomes":"", "credits":"", "reference books": ""}
