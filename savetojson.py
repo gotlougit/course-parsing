@@ -70,24 +70,23 @@ with open(fname) as f:
     iters = 1 
     nlines = []
     for l in lines:
-        if l != "\n":
-            """
+        if l != "\n" or "---" not in l:
+            l = l.lower()
             for term in parsingTerms:
-                if term in line:
-                    lines[lineno] = preprocess(line, term)
+                if term in l:
+                    l = preprocess(l, term)
                 else:
                     orig = term
                     term = term.replace(" ","")
-                    if term in line:
-                        lines[lineno] = preprocess(line, orig)
-            """
+                    if term in l:
+                        l = preprocess(l, orig)
             nlines.append(l)
          
     lines = nlines
     n = len(lines) 
     while lineno < n:
         flag = 0
-        lline = lines[lineno].lower()
+        lline = lines[lineno]
         for term in parsingTerms:
             if term in lline:
                 flag = 1
