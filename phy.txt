@@ -1,0 +1,618 @@
+CourseCode : PHIR11
+CourseTitle : Physics –I (Theory)
+Credits : 3 (2L +1T)
+Prerequisites : -
+CourseType : EPR
+
+
+Course Learning Objectives:
+   To develop the understanding of fundamentals of Physics essential for engineering and technology.
+
+   To introduce engineering relevance of Quantum mechanics, Electromagnetic theory, Crystal Physics, Optics, Theory of relativity, Lasers and Nuclear technology.
+
+
+Course Content
+                                             UNIT-I
+QUANTUM MECHANICS: Basics of quantum mechanics, De-Broglie’s hypothesis,
+Uncertainty principle, Probability and Wave function, Postulates of quantum mechanics, Time-
+dependent and Time-independent Schrodinger wave equation, Particle in a box.
+
+ELECTRO MAGNETIC THEORY: Maxwell’s equations in vacuum and medium,
+Electromagnetic Waves, Propagation Energy and Poynting Vector.
+
+                                             UNIT-II
+SOLID STATE PHYSICS: Space Lattice, unit cell and translation vectors; Miller indices,
+Simple and close-packed crystal structures with examples, Origin of energy bands, Kronig
+Penney Model (qualitative), E-K diagram, Brillouin Zones, Concept of effective mass and holes,
+Classification into metals, Semiconductors and insulators, Liquid crystals, Hall effect.
+                                            UNIT-III
+SPECIAL THEORY OF RELATIVITY: The Michelson-Morley experiment, relativistic
+transformations, length contraction, time dilation, variation of mass with velocity, mass-energy
+equivalence.
+NUCLEAR TECHNOLOGY: Interaction of radiation with matter, Nuclear reactors,
+Moderators, Reactor criticality & Neutron cross-section
+                                           UNIT-IV
+ENGINEERING OPTICS: Basics of Interference, Diffraction and Polarization. Lasers and
+characteristics, Einstein’s coefficients, He-Ne laser, semiconductor lasers, Applications of
+Lasers, Optical fibres; Numerical aperture, Classification of optical fibres, fibre Losses, fibre
+manufacturing, Applications of optical fibre in industry and communication. 
+
+Reference Books 
+%1. D.J. Griffiths, Introduction to Electrodynamics, PHI Learning Publishers, New Delhi,
+       2012 %2. H.D Young and R.A Freedman, University Physics with Modern Pearsons publications,
+2012. 3. S.O.Pillai, Solid state Physics, New age International publishers, 2012 4. A. Beiser, Concepts of Modern Physics, McGraw-Hill, 2008. 5. John Lilley, Nuclear Physics, Principles and applications, Wiley, 2016
+
+
+Course Outcomes:
+   Students will be able to understand the basics of quantum mechanics and electromagnetic theory for technological applications.
+   Students will be able to solve engineering problems on solid state materials and nuclear reactors
+   Students will get knowledge of latest developments in Lasers and fibre optics and their applications in technology.
+                     B. TECH. 1ST SEMESTER PHYSICS PRACTICALS
+
+CourseCode : PHIR11 L
+CourseTitle : Physics –I (Practical)
+Credits : 1
+Prerequisites    : -
+CourseType : EPR
+
+
+LIST OF EXPERIMENTS %1. To find the wavelength of Sodium light by using diffraction grating.
+2. To find the wavelength of different colours of white light by using diffraction grating.
+3. To study Polarization of light and verification of Malus’s law.
+4. To find the wavelength of light by using Newton’s rings.
+5. To find the specific rotation of a solution by using a polarimeter.
+6. To find the temperature coefficient of resistance of platinum by using platinum
+        resistance thermometer.
+7. To study the variation of magnetic field along the axis of a circular coil carrying
+        current and to estimate the radius of the coil.
+8. To find the frequency of AC mains using sonometer.
+9. To plot a graph between the difference of temperature of two junctions and thermo
+        e.m.f. for a thermocouple using a potentiometer.
+10. To study I-V characteristics and rectification properties of a semiconductor diode.
+11. To find high resistance by leakage method.
+12. To find a) the wavelength of sodium light b) the thickness of a thin transparent sheet
+        by Michelson’s interferometer.
+13. Wavelength, angle of divergence and Particle size determination using Diode Laser.
+14. To determine the acceptance angle and numerical aperture of an optical fibre.
+15. To study the characteristics of a GM Tube and determination of its operating voltage
+        and Plateau length.
+---
+COURSE CODE : PHIR12A
+CourseTitle : B. Tech. Physics-II (CE, ME &PR)
+Credits : 3(2L +1T)
+Prerequisites : -
+CourseType : EPR
+
+
+Course Learning Objectives
+      To understand mechanical properties of materials, Physics of Magnetic Materials and
+       Superconductors, Thermal Physics and Physics of Nanotechnology.
+      To develop the approach to handle engineering problems on various materials.
+      To prepare the students to take up the future engineering challenges related to materials.
+
+
+Course Content
+                                              UNIT-I
+
+MECHANICAL PROPERTIES OF MATERIALS: Phase diagram, Gibbs phase rule, Binary
+phase diagram its types, solid solution: Hume Rothery Rules, Concepts of stress and strain,
+Stress-Strain diagrams; Tensile test; Elastic deformation, Plastic deformation. Impact Testing &
+toughness behavior. Hardness of materials, Imperfections and dislocations
+
+                                             UNIT-II
+
+
+THERMAL PHYSICS: Seebeck effect, Peltier effect, Thomson effect, Kelvin relationships,
+Wiedemann-Franz law, Thermal equilibrium, Entropy, The laws of thermodynamics, Thermal
+conductivity of bulk materials, Phonons: lattice vibration heat transfer, specific heat of solids,
+classical, Einstein and Debye Model, Ideal quantum gases: Maxwell-Boltazmann, Bose–
+Einstein, Fermi-Dirac statistics, Carnot efficiency.
+
+                                             UNIT-III
+
+
+MAGNETIC MATERIALS AND SUPERCONDUCTORS: Orbital diamagnetism, Magnetic
+moments, orbital diamagnetism, Classical theory of Paramagnetism, Ferromagnetism, molecular
+field theory and domains, applications of magnetic materials, Type I and II Superconductors,
+London equation, Applications of superconductivity.
+                                           UNIT-IV
+NANOTECHNOLOGY: Classifications of nanomaterials (3D, 2D, 1D and 0D) and their
+density of states, nanocomposites, carbon nanotubes (CNTs), graphene, nanoclusters, structural,
+thermal and mechanical properties of nanomaterials, bottom up and bottom down synthesis
+processes, basic characterization techniques for nanomaterials, Applications of nanotechnology.
+
+Reference Books
+1. Schroeder, Daniel V. "An introduction to thermal physics, 1999
+2. Garg, Bansal. Thermal physics, Tata McGraw-Hill Education, 2013
+3. Wole Soboyejo, Mechanical Properties of Engineered Materials, Marcel Dekker, 2003 4. D. K. Bhattacharya, Engineering Physics, Oxford University Press, 2015
+5. Charles P. Poole, Jr and Frank J. Owens, Introduction to Nanotechnology, John Wiley & Sons,2006
+Course Outcomes
+    Students will be able to solve the practical problems related to the technological applications of materials.
+    Students will be able to design and develop materials for industrial applications
+---
+COURSE CODE : PHIR12B
+CourseTitle : PHYSICS – II (EE & ECE)
+Credits : 3 (2L+1T)
+Prerequisites : -
+CourseType : EPR
+
+
+Course Learning Objectives
+
+      To gain knowledge of the electronic, dielectric and magnetic properties of materials.
+      To understand theories relevant to the engineering principles of materials and devices.
+      To solve problems related to semiconductor device operation in technology.
+
+
+Course Content
+                                               UNIT-I
+ELECTRONIC PROPERTIES OF MATERIALS: Drude and Sommerfeld’s Free Electron
+theory of Metals, Concept of Fermi level, Fermi-Dirac distribution function, Charge carrier
+densities.
+
+NANOTECHNOLOGY: Classifications of nanomaterials (3D, 2D, 1D and 0D) and their
+density of states, Quantum confinement, Manifestation of quantum confinement on optical,
+electrical and mechanical properties, basic characterization techniques for nanomaterials,
+Applications of nanotechnology.
+
+                                              UNIT-II
+
+
+DIELECTRIC PROPERTIES OF MATERIALS: Polarization, Bound Charges, Electric
+displacement, susceptibility, dielectric coefficient, permittivity & various relations between
+these, Dielectrics in ac fields, Dielectric loss factor, effect of temperature and frequency on
+dielectric constant and dielectrics loss factor (qualitative description), Applications of dielectrics.
+
+                                              UNIT-III
+SEMICONDUCTING PROPERTIES OF MATERIALS: Direct and indirect Band gap
+semiconductors, Elemental and compound semiconductors, Equilibrium and extrinsic carrier
+concentration, carrier transport, Drift and Diffusion current, mobility, Excess carrier generation
+and recombination, tunnel diode, solar cell, LEDs
+
+                                            UNIT-IV
+MAGNETIC MATERIALS AND SUPERCONDUCTORS: Orbital diamagnetism, Atomic
+magnetic moments, orbital diamagnetism, Classical theory of Paramagnetism, Ferromagnetism,
+molecular field theory and domains, applications of magnetic materials, Type I and II
+Superconductors, London equation, Applications of superconductivity. 
+
+Reference Books 
+%1. Arthur Beiser, Tata McGraw Hill, Concept of Modern Physics, publication, 2003 2. Charles Kittel, John Wiley, Introduction to Solid State Physics, publication, 2013 3. Ben G. Streetman, Prentice-Hall of India, Solid State Electronic Devices, 2012 4. Jaspreet Singh, John Wiley, Semiconductor Devices-Basic Principles, publication 2008 5. D. K. Bhattacharya, Oxford University Press, Engineering Physics, 2015
+
+
+Course Outcomes
+      Students will understand the physics underlying the electronic and magnetic behavior of
+       materials.
+      Students will be able to estimate materials properties and engineer these.
+      Students will understand the operation mechanism of basic components of various
+       electrical and electronic devices.
+---
+COURSE CODE : PHIR12C
+CourseTitle : Physics –II (CS & IT)
+
+Credits : 3(2L +1T)
+Prerequisites : -
+CourseType : IR
+
+Course Learning Objectives
+
+
+   To understand the basics of quantum computing
+   To understand the fundamental concepts of optoelectronic devices for information technology
+   To understand the behavior of emerging magnetic materials for data storage devices and nanomaterials 
+
+Course Content
+                                            UNIT-I
+
+PHYSICS OF QUANTUM COMPUTING: Quantum theory- simple concepts, Wave function
+and its physical significance, applications of Schrödinger wave equations, concept of spin, qubits
+and quantum computing
+
+                                           UNIT –II
+
+OPTOELECTRONIC DEVICES: Optoelectronic processes and systems, Photoconductive
+devices, Photoemissive devices, Photovoltaic devices, Photodetectors, Light Emitting Diode,
+Liquid Crystal Display, Plasma display panel.
+
+                                           UNIT- III
+
+
+MAGNETIC MATERIALS AND DEVICES: Molecular field theory and domains, basic ideas
+of Magnetoresistance, types and applications of Magnetoresistance, spintronics, fundamental
+concepts of magnetic data storage: writing and read head sensors.
+                                            UNIT-IV
+NANOTECHNOLOGY: Classification             of nanomaterials (3D, 2D, 1D and 0D) and their
+density of states, nanocomposites, carbon nanotubes (CNTs), graphene, nanoclusters, structural,
+thermal and mechanical properties of nanomaterials, bottom up and bottom down synthesis
+processes, basic characterization techniques for nanomaterials, Applications of nanotechnology.
+
+Reference Books 
+%1. Alastair I. M. Rae, Quantum Mechanics, Taylor and Francis, 2011 2. S. O. Kasap, Principles of Electronic Materials and Devices, McGraw Hill, 2006. 3. John Wilson and John Hawkes, Optoelectronics: an introduction, Prentice Hall, 1997. 4. S. L. Gupta, V. Kumar, A Hand Book of Electronics, Pragati Prakashan, 2012. 5. Katsuaki Sato and Eiji Saitoh (Editors), Fundamentals of Magnetoresistance Effects, John
+       Wiley publication, 2016 %6. Charles P. Poole, Jr, Frank J. Owens, Introduction to Nanotechnology, Wiley, 2016
+
+
+Course Outcomes
+   Students will understand quantum computing for information technology.
+   Students will be able to use the Physics of optoelectronic devices, fiber optics in engineering applications
+   Students will be able to develop new magnetic materials and devices used for data storage
+                        B. TECH. 2nd SEMESTER PHYSICS PRACTICALS
+
+
+CourseCode : PHIR12 L
+CourseTitle : Physics –II (Practical)
+Credits : 1
+Prerequisites : -
+CourseType : EPR
+
+
+LIST OF EXPERIMENTS %1. To find the value of Planck’s constant by photo electric cell.
+2. To calibrate an electromagnet using Guoy’s balance.
+3. To measure Hall’s co-efficient of Germanium and calculation of charge carrier concentration.
+4. To measure the velocity of ultrasonic waves in organic liquids.
+5. To study the decay of charge on a capacitor and to find its capacitance.
+6. To determine the resistivity of a semiconductor by four probe method.
+7. To determine the band gap of germanium from the variation of its resistivity with temperature.
+8. To study the intensity response of a cadmium sulphide cell.
+9. To calibrate a voltmeter by using potentiometer.
+10. To study the shunting effect of a voltmeter on voltage measurement
+11. To measure i) Saturation magnetization ii) coercivity and iii) retentivity in a given ferromagnetic material.
+12. To study the dielectric properties of a dielectric at different frequencies by resonance method.
+13. To draw the I-V characteristics of a solar cell under constant illumination.
+14. To verify Stefan’s radiation law by using incandescent filament.
+15. To verify the inverse square law of gamma ray using GM counter
+---
+COURSE CODE : PHOE10
+CourseTitle : LASER TECHNOLOGY
+Credits : 3
+Prerequisites : -
+CourseType : OE
+
+
+Course Learning Objectives
+
+   To familiarize the students in the field of laser physics and their spectroscopic applications in different fields of science and technology.
+   To understand the interaction of light and matter and physical principles underlying the fabrication of laser systems.
+
+
+Course Content
+                                             UNIT-I
+
+Laser Fundamentals: Concept of Laser emission, Characteristics of Lasers, Main components
+of Laser system, Necessary and sufficient conditions for Laser action, Einstein coefficients,
+population inversion, laser pumping, two, three and four level laser systems.
+
+                                            UNIT-II
+
+Laser Beam Propagation and Transformation: Optical cavities, Types of optical resonator,
+Stability criterion (stable and unstable resonator), Threshold gain coefficient, Resonator modes
+(longitudinal and transverse modes), Threshold condition of laser oscillation, Q-switching and
+mode locking.
+
+                                            UNIT-III
+
+Types of Laser: Solid State laser (Ruby laser, Nd: YAG, Nd: Glass etc), Gas laser (CO2 and
+Argon ion laser) and Dye laser, Excimer laser, Free electron laser, Chemical laser and
+Semiconductor laser, Homojunction Laser (Laser Diode) and Heterojunction Laser.
+                                            UNIT-IV
+Laser Applications: Laser in materials processing and industry, Lasers in Micro- and Nano-
+fabrication and metrology, Lasers in spectroscopy, Lasers in communication and Holography,
+Lasers induced fusion, Laser systems for biomedical and remote sensing applications.
+
+Reference Books 
+%1. W.T. Silfvast: Laser Fundamentals, Cambridge University Press, 2004 2. B.B. Laud: Lasers and Non-linear Optics, Wiley Eastern Limited, 2nd Edition 1991 3. Laser in Bioscience, Industry, and Defence by Mansharamani Narain, Defence Research & Development Organisation (India) 2012 4. Principle of Lasers, 5th Edition, Orazio Svelto, Springer New York 2010 5. Lasers: Fundamentals and Applications, K Thyagarajan and Ajoy Ghatak, Springer, USA, 2010 6. Fiber Optics and Lasers: The two revolutions, Ajay Ghatak and K. Thyagarajan, Macmillan India, 2006, Reprint 2008-09 7. Modern Physics, G.Kaur and Gary R. Pickrell, McGraw Hill education, 2014
+
+Course Outcomes
+    Students will become aware of latest developments in laser technology and their
+       applications in science, technology and research.
+      Students will be able to understand the utilization of laser technology modern devices and
+       technologies based on lasers.
+      Students will be able to use laser technology in spectroscopic and industrial applications.
+---
+COURSE CODE : PHOE11
+CourseTitle : NUCLEAR TECHNOLOGY
+Credits : 3
+Prerequisites : -
+CourseType : OE
+
+Course Learning Objectives
+
+   To gain knowledge of nuclear physics and implement it in Science and Technology.
+   To learn about nuclear radiations and their detection and understand the biological effect of radiation.
+   To learn about nuclear physics and instrumentation in different fields of science, technology and research.
+
+
+Course Content
+
+                                               UNIT-I
+
+General Properties of Atomic Nucleus: Alpha, Beta and Gamma radiation and their properties.
+Properties of Nucleus, Binding Energy, Nuclear stability, Radioactivity: Natural and artificial,
+half life, Mean life, Laws of radioactivity, Radioactive equilibrium.
+
+
+                                         UNIT-II
+Interaction and Detection of Nuclear Radiation: Interaction of radiation with matter (Charge
+particle, Electromagnetic and Neutron) Stopping Power, cross section, Gas filled radiation
+detectors, Scintillation detectors, Semiconductor detectors, SSNTD and their applications.
+
+
+                                         UNIT-III
+Nuclear Reactors: Nuclear reaction and their type, Conservation laws, Direct and compound
+nucleus reaction, Nuclear fission, fission products, Mass and energy distribution of fission
+products, nuclear fission reactors, Fast Breeder reactor, Nuclear Fuel, Control rods, nuclear
+fusion–controlled thermonuclear reactions.
+                                              UNIT-IV
+Accelerators and their applications: Accelerators: Cyclotron, Tandem, LINAC and Pelletron,
+Ion source, Role of accelerators in research and Technology.
+Radiation dosimetry: Radiation monitoring and dosimeters, Physical and biological effects.
+Applications of radiation in medical and forensic sciences, Radiation Therapy.
+
+Reference Books 
+%1. Glenn F Knoll, Jhon Wiley & Sons Inc. Singapore,                Radiation detection and measurement, 2012 2. R M Singru, Wiley Eastern Pvt. Ltd ,New Delhi, Experimental Nuclear Physics, 2011 3. Roy and Nigam, Himalaya Publishing House, Nuclear Physics: Theory and Experiment,
+       2016 %4. D C Tayal, John Wiley & Sons Ltd; Nuclear Physics, 2015
+
+
+Course Outcomes
+      Students will be able to understand the nuclear processes and reactions in various
+       phenomena.
+      Students will learn to apply nuclear physics in research and devolvement for science and
+       technology.
+      Students will become aware of latest developments in nuclear reactors and detectors and
+       their applications in science, technology and research.
+
+Course code             PHOE 12
+Course Title            Industrial Physics
+Credits                 3
+Prerequisite            -
+Course Type             OE
+
+Course Learning Objectives
+
+      To gain current knowledge of energy generation techniques, environmental effects and
+       its industrial impact
+      To understand basic Physics and chemistry behind various industrial devices/ processes.
+      To gain knowledge in designing of emerging devices/ processes
+
+
+Course Content
+                                             UNIT-I
+
+Energy- environment and its industrial impact: Energy and power- principles, demands
+outlook, transformation of energy and its cost, thermal pollution, electrical energy from fossil
+fuels, hydroelectric generation- principles and problems, costs, capacity, storage, reserves,
+efficiency, new environmental effects, electrical energy from nuclear reactors, fusion power,
+solar power, biomass, etc.
+
+                                             UNIT-II
+
+Chemical energy scavenging: Absolute activities of joint dilute solution in common solvent,
+Volta potential, equilibrium, non-cosmic membrane and contact examples of electrochemical,
+general treatment of electromotive force-electrochemical transport, fuel cells.
+
+                                            UNIT- III
+
+Lithography and nano-devices: Nano-manipulation, E beam lithography Ion beam lithography,
+Deep UV lithography, X-ray based lithography, Dip pen lithography, diffraction effects in
+nanolithography, MEM/ NEMS- basics and fabrication, NEMS/MEMS based oscillators, sensors
+and detector
+                                             UNIT-IV
+
+Industrial application of vacuum: Fundamentals of vacuum science, Vacuum measurements,
+Vacuum coating, vacuum impregnation, freeze drying, space simulation, ion implantation,
+vacuum distillation,
+Sensors: Fabrication of sensors, gas sensors, magnetic sensors, piezoelectric sensors, optical
+sensors, etc., sensing mechanisms in different sensors 
+
+Reference Books 
+%1. Kenneth J. Skipka, Louis Theodore, Energy Resources: Availability, Management, and
+       Environmental Impacts, CRC Press, 2014 %2. Sugiyama, Masakazu, Fujii, Katsushi, Nakamura, Shinichiro (Eds.), Solar to Chemical Energy
+       Conversion- Theory and Application, Springer, 2016 %3. Sergy Edward Lyshevski, Micro-Electro Mechanical and Nano-Electro Mechanical Systems, CRC
+       Press, 2005 %4. Mick Wilson et al, Nanotechnology-Basic Science and Emerging Technologies, Overseas Press,
+       2002 %5. A. Roth, Vacuum Technology, A. Roth, Elsevier, 1990 
+
+Course Outcomes
+
+      Student will understand various energy generation techniques, environmental effects and
+       its economics
+      Student will be able to solve technical problems on various industrial devices/ processes.
+      Student will be able to design emerging devices of current industrial importance.
+Course code             PHOE13
+Course Title            Physics of Energy Harvesting Technologies
+Credits                 3
+Prerequisite            -
+Course Type             OE
+
+Course Learning Objectives
+
+      To gain current knowledge of various energy harvesting approaches.
+      To understand basic physics behind various energy harvesting systems.
+      To understand hybrid approaches and design emerging energy harvesting systems
+
+
+Course Content
+                                              UNIT-I
+
+Introduction to energy harvesting, Available energy, Experimental characterization
+techniques, Applications
+Photovoltaic energy harvesting: Background physics, Solar cell design and strategies for
+optimizing figure of merit, Various types of solar cells, Future directions
+
+
+                                             UNIT-II
+
+Thermoelectric energy harvesting: Background physics, Semiconductors and thermoelectrics,
+Bulk thermoelectric materials performance, Strategies for optimizing figure of merit (ZT),
+Thermoelectric modules, Future directions
+
+
+                                             UNIT-III
+
+Piezoelectric energy harvesting: Background physics, Piezoelectric harvester design, Modeling
+of piezoelectric harvesters, Strategies for optimizing figure of merit, Future directions
+Magnetostrictive energy harvesting: Background physics, Magnetostrictive harvester design,
+Modeling of magnetostrictive harvesters, Strategies for optimizing figure of merit, Future
+directions
+                                           UNIT-IV
+
+Hybrid and emerging energy harvesting approaches: Solar-thermal energy harvesting, energy
+for garbage, emerging nanotechnology based approaches of energy harvesting
+Introduction to other energy harvesting approaches: Bio-inspired energy harvesting
+approaches, Dielectric elastomer based harvesters, Electrostatic energy harvesters, Electrets
+based harvesters
+
+
+Reference Books 
+%1. D . M . Rowe (Ed.), Thermoelectrics Handbook- Macro to Nano, CRC Press, 2005 2. Antonio Luque and Steven Hegedus Handbook of Photovoltaic science and engineering,
+       Wiley, 2010 %3. T. J. Kazmierski and S. Beeby, Energy Harvesting Systems: Principles, Modeling and
+       Applications, Springer-Verlag, 2011 %4. S. Priya, D. J. Inman (Eds.), Energy Harvesting Technologies, Springer, 2009
+
+Course Outcomes
+    Students will have knowledge of the physics of various energy harvesting approaches.
+      Students will be able to analyze practical problems on various energy harvesting
+       techniques.
+      Students will be able to design energy harvesting systems
+Course code            PHOE14
+Course Title           Ultrasonics and Applications
+Credits                3
+Prerequisite           -
+Course Type            OE
+
+Course Learning Objectives
+      To gain knowledge about the Physics of ultrasonics
+      To gain skills of ultrasonics instrumentation
+      To have insight of applications of ultrasonics in industry
+
+Course Content:
+
+                                                UNIT- I
+
+Concept of Ultrasonics: Physics of ultrasonics-wave motion, velocity of propagation,
+characteristic impedance, reflection, attenuation and transmission through layers, Acousto-optic
+effect, Acoustic Grating, Ultrasonic velocity and thickness measurement
+                                             Unit II
+Production of Ultrasonics: Ultrasonic transducers: piezoelectric and magnetostrictive
+transducers, Equivalent circuits, Impedance matching, High and low power devices.
+
+
+                                            Unit III
+Ultrasonic Instrumentation: Detection of Ultrasonic, Instrumentation and applications:
+Ultrasonic sensing using plus echo and Doppler techniques, SONAR, Industrial processing units,
+Ultrasonic measurement and control; Limitation of Ultrasonics.
+
+                                            Unit IV
+Ultrasonic Industry Application: Industrial Ultrasonic: Drilling, welding and soldering,
+Ultrasonic testing, Cavitation, Ultrasonic cleaning, Flaw detection diagnostic: Pulse–echo and
+Transmission technique, Echocardiogram, Laser Ultrasonics, Ultrasonic Microscopy, Ultrasonic
+imaging and therapy.
+
+Reference Books
+1. J. David & N. Checke, Fundamental and Applications of Ultrasonics, 2nd Edition, CRC Press, 2017.
+2. Ensminger, Ultrasonics Fundamental, Technology & Applications, CRC Press, 2011
+3. K C Shrivastava, Ultrasonic Testing, 2003
+
+Course Outcomes
+ Students will able to understand the concept of ultrasonics and its industrial applications
+    Students will gain knowledge of ultrasonic instrumentation
+    Students will be able to solve industrial problems and design instruments on ultrasonics
+---
+COURSE CODE : PHOE15
+CourseTitle : Nanoscience and Technology
+Credits : 3
+Prerequisites : -
+CourseType : OE
+
+Course Learning Objectives:
+      To understand the fundamentals of Nanoscience and Technology.
+
+      To impart knowledge about various synthesis and characterization techniques involved in
+       Nanoscience and Technology.
+
+      To familiarize the students with nanotechnology potentials and its applications in
+       different fields.
+
+Course Content:
+                                             UNIT I
+
+BASICS OF NANO SCIENCE AND TECHNOLOGY: Basic concepts of Nanoscience:
+Quantum dot, Potential barrier, Background of Nanotechnology, types of Nanotechnology and
+nano-machines, top down and bottom up techniques, atomic manipulation, self-assembly
+monolayers, Time and length scale in structures, Dimensionality and size dependent phenomena,
+Surface to volume ratio, Fraction of surface atoms, Properties at nanoscale (electronic, magnetic,
+optical and mechanical).
+
+                                            UNIT II
+
+SYNTHESIS METHODS OF NANOMATERIALS: Introduction to Nanomaterials, Synthesis
+of nanomaterials: Sol-gels techniques, Co-precipitation and Hydrothermal method, Lithography:
+Photolithography, Electron beam lithography, Focused Ion Beam Lithography (FIB); Dip-Pen
+Nanolithography, Template Synthesis; Self Assembly and Bio/Chemical Methods, Chemical
+Vapor Deposition(CVD); Electron beam evaporation, Pulse laser deposition (PLD), DC/RF
+Magnetron Sputtering, Molecular Beam Epitaxy (MBE).
+
+                                           UNIT-III
+CHARACTERIZATION                TECHNIQUES         FOR      NANOMATERIALS: Structural
+Characterization: X-Ray Diffraction (XRD), Surface Characterization: Scanning Electron
+Microscopy (SEM), High Resolution Transmission Electron Microscope (HRTEM), Scanning
+Probe Microscope (STM, AFM, MFM), Raman Spectrometry.
+                                              UNIT-IV
+
+POTENTIAL APPLICATIONS: Applications of Nanomaterials: Data storage, Water
+purification, Photocatalytic degradation, Targeted drug delivery, Hyperthermia, Solar energy
+conversion and catalysis, Molecular electronics and nanoelectronics, Nanomedicine and
+Nanobiotechnology: Nanotoxicology challenges, Cosmetics, Building construction, Heat transfer
+etc.
+
+Reference Books:
+1. Pradeep T., “A Textbook of Nanoscience and Nanotechnology”, Tata McGraw Hill
+          Education Pvt. Ltd., %2012.        %2. Hari Singh Nalwa, “Nanostructured Materials and Nanotechnology”, Academic Press,
+2002.        %3. Nabok A., “Organic and Inorganic Nanostructures”, Artech House, 2005.
+4. 4. Dupas C., Houdy P., Lahmani M., “Nanoscience: Nanotechnologies and
+          Nanophysics”, Springer-Verlag Berlin Heidelberg, %2007. 
+
+Course Outcomes:
+1. Students will be able to understand engineering of the properties at nanoscale materials.
+2. Students will be able to synthesize and characterize the nanomaterials of different shapes
+          and sizes.
+3. Students will be able to design and develop the nanotechnology based devices based on
+          the learned fundamentals.
+---
+COURSE CODE : PHOE16
+CourseTitle : SENSORS-SCIENCE AND TECHNOLOGY
+Credits : 3
+Prerequisites : -
+CourseType : OE
+
+Course Learning Objectives
+
+      To gain knowledge about the working principle of different types of sensors used in
+       various applications.
+      To gain skills about the modelling and calibration of different types of sensors.
+      To gain knowledge of the sensor materials and technology at nano-scale.
+
+
+Course Content
+                                             UNIT-I
+Principles of Physical and Chemical Sensors: Sensors Fundamentals and Characteristics,
+Sensing mechanism of Mechanical, Electrical, Thermal, Magnetic, Optical, Chemical and
+Biological Sensors.
+                                            UNIT-II
+Sensor Characteristics and Calibration: Static and Dynamic Characteristics, Sensor reliability,
+aging test, failure mechanisms and their evaluation and stability study.
+                                            UNIT-III
+Fabrication methods: Sensor configurations and geometries, Use of nano-materials in sensors,
+Thin/thick film formation techniques (physical, chemical and Langmuir-Blodgett film formation
+techniques),
+                                            UNIT-IV
+Sensor Modeling: Numerical modeling techniques, Modeling effects on different parameters of
+sensing mechanisms (Mechanical, Electrical, Thermal, Magnetic, Optical, Chemical and
+Biological) and examples of modeling. Sensors applications. 
+
+Reference Books
+1. J. Fraden, Handbook of Modern Sensors: Physical, Designs, and Applications, AIP Press,
+  Springer, %2010. %2. D. Patranabis, Sensors and Transducers, PHI Publication, New Delhi, 2003.
+3. Ganesh S. Hegde, Mechatronics, University Science Press, 2008.
+4. P.T. Moseley, B.C. Toefield, Solid State Gas Sensors’, CRC Press, 1987.
+5. M. Meyyappan, Carbon Nanotubes Science and Applications, CRC Press, 2014.
+Course Outcomes
+  Students will be able to model and design various sensors.
+   Students will be familiarized to the practical approaches for different sensors.
+   Students will learn about various materials and methods of fabrication of sensors.

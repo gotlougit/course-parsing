@@ -1,0 +1,3202 @@
+
+COURSE CODE : ECIR11
+Course Title : Introduction to Electronics and communication Engg.
+Number of Credits : 2
+Prerequisites : None
+Course Type : EPR
+
+
+course learning objectives:
+To learn basic concepts of various active and passive components, Signals, Op-Amp and their
+applications, Digital Electronics and their applications and fundamental aspects of communication
+engineering.
+
+course content
+UNIT I
+OVERVIEW OF ELECTRONIC COMPONENTS & SIGNALS: Passive Active Components:
+Resistances, Capacitors, Inductors, Diodes, Transistors, FET, MOS and CMOS and their
+Applications.
+Signals: DC/AC, voltage/current, periodic/non-periodic signals, average, rms, peak values,
+different types of signal waveforms, Ideal/non-ideal voltage/current sources,
+independent/dependent voltage current sources.
+UNIT II
+OVERVIEW OF ANALOG CIRCUITS: Operational Amplifiers-Ideal Op-Amp, Practical op-
+amp., Open loop and closed loop configurations, Application of Op-Amp as amplifier, adder,
+differentiator and integrator.
+UNIT III
+OVERVIEW OF DIGITAL ELECTRONICS: Introduction to Boolean Algebra, Electronic
+Implementation of Boolean Operations, Gates-Functional Block Approach, Storage Elements-Flip
+Flops-A Functional block approach, Counters: Ripple, Up/down and decade, Introduction to
+digital IC Gates (of TTL Type).
+  : 2
+UNIT IV
+OVERVIEW OF COMMUNICATION ENGINEERING: Overview of analog, digital and wireless
+communication, need of modulation, Block diagram of a communication system brief introduction
+of AM, FM, PM, Pulse modulation, PAM, PWM, PPM, ASK, PSK, and FSK and latest trends in
+communication.
+Note: Mathematical derivations are not included in this syllabus (Only qualitative discussion and
+description)
+
+
+reference books:
+1. Electronic Devices and Circuits by S. Salivahanan, N. Suresh Kumar, A Vallavraj, Tata Mcgraw Hill 3rd Ed
+2. Network Analysis by Van Valkenburg, PHI 3rd Ed
+3. Malvino & Leach , Digital Electronics , Tata McGraw Hill. 3rd ED
+4. Electronic Communication Systems by G. Kennedy. 4th Ed 
+
+Course outcomes 
+At the end of the course, the students will be able to… 1. Understand the basic circuit elements 2. Understand different types of signal waveforms. 3. Understand logic gates and apply them in various electronic circuits. 4. Understand the basic concepts of op-amps , and their applications. 5. Acquire knowledge about various digital modulation techniques and their applications. 6. Acquire knowledge about various analog modulation techniques and their applications.
+
+
+COURSE CODE : ECPC10
+Course Title : Introduction to semiconductors
+Number of Credits : 3
+Prerequisites : ECIR11
+Course Type : PC
+
+
+Course Learning Objectives
+Understand various semiconductors, their characteristics and carrier transport mechanism.
+
+Course Content
+UNIT I
+Review of Atomic Structure and Statistical Mechanics: - Ideas on Atomic Structure, Quantum
+Mechanics, The Schrodinger Wave Equation, Statistical Mechanics, Bonding of atoms, Crystalline
+state, Energy bands in solids.
+Elemental and compound semiconductors, Intrinsic and Extrinsic semiconductors, Energy band
+model, Equilibrium concentrations of electrons and holes inside the energy bands, Fermi level and
+energy distribution of carriers inside the bands, Heavily doped semiconductors.
+UNIT II
+Carrier Transport in Semiconductors: – Drift and Diffusion currents. The Hall Effect, Einstein
+Relations, Excess carriers in semiconductors, Generation and Recombination, Excess carriers and
+Quasi-Fermi Levels, Basic equations for semiconductor device operation, Solution of carrier
+transport equation.
+UNIT III
+P-N Junctions: - The abrupt junction (Electric field, potential, capacitance), V-I characteristic of
+an ideal diode, a real diode.
+Introduction to Diode Family: - Zenner diode, Tunnel diode, Schottky Barrier diode, P-I-N diode,
+Solar cell, Photo diode, Light emitting diode, Laser, Hetero-junctions.
+UNIT IV
+Bipolar Junction Transistor: Structure, principle of operation, ideal transistor, I-V Characteristics,
+Introduction to BJT as an amplifier.
+
+JFET: Basic Structure, Operating Principle, I-V characteristics.
+MOSFET: Basic Structure, Enhancement & Depletion type MOSFET, Condition of Inversion, I-
+V Characteristics, C-V Characteristics.
+.
+Reference Books:
+  : %1. Tyagi M.S., “Introduction to Semiconductor Materials and Devices”, John
+  : Wiley & Sons, %1993.                %2. Streetman B.G., Banerjee, S.K, “Solid State Electronic Devices”, Pearson
+  : Education, 6th Edition %2006.                %3. Sze S.M., “Semiconductor Devices Physics and Technology” John Wiley &
+  : Sons, 2nd Edition %2002. 
+ 
+Course outcomes
+At the end of the course student will be able to… 1) Understand Atomic structure and Statistical Mechanics 2) Understand various semiconductors and their characteristics. 3) Apprehend carrier transport in semiconductor. 4) Analyze PN junction diode and its characteristics for various applications. 5) Understand various types of diode and its characteristics. 6) Analyze characteristics of BJT, JFET and MOSFET.
+
+
+COURSE CODE : ECPC11
+Course Title : Circuit Theory
+Number of Credits : 04
+Prerequisites : MAIR11
+Course Type : PC
+
+Course Learning Objectives
+The aim of this course is to make student competent in analyzing electrical circuits, apply
+Kirchhoff’s current and voltage laws to circuits in order to determine voltage, current and power
+in branches of any circuits excited by DC voltages and current sources.
+Course Content
+UNIT I
+BASIC CIRCUITS ANALYSIS
+Ohm’s Law – Kirchoffs laws – DC and AC Circuits – Resistors in series and parallel circuits –
+Mesh current and node voltage method of analysis for D.C and A.C. circuits – Phasor Diagram –
+Power, Power Factor and Energy. Initial conditions.
+
+
+UNIT II
+NETWORK REDUCTION AND NETWORK THEOREMS FOR DC AND AC
+CIRCUITS
+Network reduction: voltage and current division, source transformation – star delta conversion.
+Theorems: Thevenin’s and Norton’s, Superposition, Maximum power transfer, Substitution, and
+Reciprocity Theorems.
+
+
+UNIT III
+RESONANCE AND COUPLED CIRCUITS
+Series and parallel resonance – their frequency response – Quality factor and Bandwidth – Self
+and mutual inductance – Coefficient of coupling – Tuned circuits – Single tuned circuits.
+  : 7
+UNIT IV
+TRANSIENT RESPONSE FOR DC CIRCUITS
+Transient response of RL, RC and RLC Circuits using Laplace transform for DC input and A.C.
+with sinusoidal input.
+
+
+REFERENCE reference books:
+1. William H. Hayt Jr, Jack E. Kemmerly and Steven M. Durbin, “Engineering Circuits
+Analysis”, Tata McGraw Hill publishers, 6 th edition, New Delhi, %2003. %2. Joseph A. Edminister, Mahmood Nahri, “Electric circuits”, Schaum’s series, Tata McGraw-
+Hill, New Delhi, %2001. 4th ED
+
+
+Course outcomes
+On completion of this course you should be able to: %1. Apply KCL and KVL in electrical circuits to calculate currents, voltages and powers in
+  : typical linear electric circuits %2. Apply circuit theorems 3.   Analyze AC and DC Circuits 4.   Reduce more complicated circuits into the Thevenin’s and Norton’s equivalent circuits. 5.   Describe circuit elements in phasor domain and perform steady-state analysis using
+  : phasors. %6. Analyze resonance Circuits
+
+COURSE CODE : ECPC12
+Course Title : Signals And Systems
+Number of Credits : 04
+Prerequisites : MAIR11
+Course Type : PC 
+
+Course Learning Objectives
+To understand LTI systems, analysis of periodic signals, analysis of aperiodic signals, Laplace
+transform.
+
+
+Course Content
+UNIT I
+LTI SYSTEMS: Continuous time and discrete time signals, Even and Odd signals. Elementary
+continuous time and discrete time signals. Classification of signals, causality; stability, time
+invariance, linearity. Continuous time and Discrete time LTI Systems, convolution Integral and
+convolution sum, Properties of LTI Systems. Differential and Difference equations. Singularity
+functions.
+UNIT II
+ANALYSIS OF PERIODIC SIGNALS: Fourier series representation of CTPS, convergence of
+FS. Properties of CTFS. Fourier series representation of DTPS. Properties of DTFS. Fourier
+series and LTI Systems. Filtering, RC low pass and high pass filters. Recursive and Non recursive
+Discrete Time filters.
+Sampling theorem, sampling of continuous time signal with impulse train. Aliasing, Discrete-time
+processing of continuous time signals.
+UNIT III
+ANALYSIS OF APERIODIC SIGNALS: Continuous Time Fourier Transform (CTFT),
+Convergence of FT. Properties of CTFT. Discrete time Fourier Transform (DTFT). Properties of
+DTFT. Systems characterized by Linear constant co-efficient differential equation and difference
+equations. Magnitude and phase spectrum, group delay.
+
+UNIT IV
+LAPLACE TRANSFORM: The Laplace transform; Region of convergence for Laplace transform,
+Inverse Laplace transform. Geometric evaluation of Fourier transform from pole zero plot, First
+order, second order and all pass systems. Properties of Laplace transform, Analysis and
+characterization of LTI systems using the Laplace transform. Causality, stability, Differential
+equations, Butterworth filters. Unilateral Laplace transform, its properties and uses.
+
+Reference Books:
+1. Oppenheim Willsky and Nawab, Signals and Systems, PHI. 4th Ed
+2. Simon Haykin , Signals and Systems, John Wiley 4th Ed
+3. Taub and Schilling, Principles of Communication Systems, TMH. 4th Ed
+
+Course outcomes
+1. Utilize the concepts of Discrete time and Continuous time signals and their transformations.
+2. Analyze the Fourier series of periodic and Fourier transform of non-periodic discrete time and continuous time signals.
+3. Understand and apply the concepts of bandwidth .
+4. Apply the Laplace transform for various applications.
+5. Understand and apply the concepts of fourier series.
+6. Understand and apply the concepts of fourier transform.
+  : 10
+
+
+COURSE CODE : ECPC30
+Course Title : Electronic Devices and Circuits
+Number of Credits : 04
+Prerequisites : ECIR11, ECPC10
+Course Type : PC
+
+Course Learning Objectives
+To enable the students to understand the working principle of diodes and transistors for circuit
+applications.
+
+Course Content
+UNIT I
+Review of P-N JUNCTIONS: abrupt and linearly graded junctions. V-I characteristic, C-V
+characteristic, Zener and Avalanche Breakdown. Diode circuit model.
+P-N junction applications: Rectifiers, Clipping and Clamping Circuits, Varactor, Varistor, Voltage
+Regulator, Demodulator, Solar cells.
+UNIT II
+BJT: Ideal and Real transistor, I-V Characteristics, Small signal equivalent circuits, High
+frequency and Switching Transistors. Power transistors. BJT as an amplifier – Biasing, small
+Signal analysis. Frequency response. BJT equivalent circuit models- DC model, h-parameter
+model, re-model and hybrid- model.
+UNIT III
+Theory of field effect transistors: Static characteristics of JFETs and MOSFETs; Analysis of MOS
+structure, I-V and C-V characteristics, Depletion width, Threshold voltage, Body bias. Short
+channel effects: SS, DIBL, surface mobility, CLM. Small signal model.
+Single stage Amplifiers, Load line, Biasing, Frequency Response.
+UNIT IV
+JFET and MOSFET single stage amplifiers: Biasing, Small signal analysis, Frequency Response.
+Feedback Amplifiers and Oscillators.
+
+Reference Books: 
+%1. J. Millman and C. Halkias, Integrated Electronics, McGraw Hill, 2nd Edition, 2009. 2.   Behzad Razavi, Design of analog CMOS Integrated circuits, McGraw Hill, 2002. 3.   Tyagi M.S., “Introduction to Semiconductor Materials and Devices”, John Wiley & Sons,
+  : %1993. 4.   Streetman B.G., Banerjee, S.K, “Solid State Electronic Devices”, Pearson Education, 6th
+  : Edition %2006. 5.   A. Sedra and C. Smith, Microelectronic Circuits: Theory and Applications, Oxford
+  : University Press, 6th Edition, %2013. 
+
+Course outcomes
+
+At the end of the course student will be able to 1) Understand working principle of P-N junction diode, BJT, JFET, MOSFET. 2) Understand the short channel effects in MOS devices. 3) Understand the circuit applications of BJT, JFET, MOSFET. 4) Learn small signal analysis of BJT and MOSFET. 5) Design single stage amplifiers. 6) Design and analyze feedback and oscillator circuits.
+
+
+COURSE CODE : ECPC31
+Course Title : Fields & Waves
+Number of Credits : 4
+Prerequisites : MAIR 11, MAIR12
+Course Type : PC
+
+Course Learning Objectives
+
+To understand the electric and magnetic fields, time varying fields and Maxwell’s equations, the
+uniform plane wave, transmission lines and waveguides.
+
+Course Content
+UNIT I
+REVIEW OF ELECTRIC AND MAGNETIC FIELDS: Coulomb’s law, electric field intensity,
+field due to a continuous volume charge distribution, field of a line charge, field of a sheet of
+charge, electric flux density, Gauss’s law and applications, electric potential, the dipole, current
+density, continuity of current, metallic conductors, conductor properties and boundary conditions,
+the method of images, the nature of dielectric materials, boundary conditions for perfect dielectric
+materials, capacitance of two wire line, Poisson’s and Laplace’s equations, uniqueness theorem.
+Biot-Savart law, Ampere’s law, magnetic vector potentials, force on a moving charge, differential
+current element, force and torque on a closed circuit, the boundary conditions, the magnetic circuit,
+potential energy and forces on magnetic materials.
+
+
+UNIT II
+TIME VARYING FIELDS AND MAXWELL’S EQUATIONS: Faraday’s law, Maxwell’s
+equations in point form and integral form Maxwell’s equations for sinusoidal variations, retarded
+potentials.
+UNIT III
+THE UNIFORM PLANE WAVE: Wave motion in free space and perfect dielectrics, plane waves
+in lossy dielectrics, Poynting vector and power considerations, propagation in good conductors,
+skin effect, reflection of uniform plane waves, SWR.
+UNIT IV
+TRANSMISSION LINES AND WAVEGUIDES: The transmission line equations, graphical
+methods, Smith chart, Stub Matching, Time domain and frequency domain analysis. TE, TM and
+TEM waves, TE and TM modes in rectangular and Circular wave guides, cut-off and guide
+wavelength, wave impedance and characteristic impedance, dominant modes, power flow in wave
+guides, excitation of wave guides, dielectric waveguides.
+
+
+Reference Books:
+1. E. C. Jordan and K. G. Balmain, Electromagnetic Waves and Radiating Systems, PHI, 3rd Ed..
+2. David & Chang, Field and Wave Electromagnetics, Addison Wesley, 3rd Ed..
+3. W. H. Hayt, Engineering Electromagnetics, JR. Tata Mc-Graw Hill Edition, Fifth edition.
+
+
+Course outcomes
+At the end of the course student will be able to…
+1. Review the basics of electromagnetic theory related to static electric and magnetic field along with basic theorems, boundary conditions and their effects.
+2. Comprehend the effects of sinusoidal time variation in both electric and magnetic fields using Maxwell equations and retarded potentials.
+3. Understand the propagation of electromagnetic waves through different media using the concept of uniform plane waves, their reflection and associated measurements.
+4. Apply the above knowledge to understand working of transmission lines and waveguides using graphical methods like Smith Chart. Learn various types, modes, excitation, power flow and characteristics of waveguides.
+5. Apply the above knowledge to understand working of waveguides using graphical methods like Smith Chart.
+6. To learn various types, modes, excitation, power flow and characteristics of waveguides.
+
+
+COURSE CODE : ECPC32
+Course Title : Random Variables & Stochastic Processes
+Number of Credits : 4
+Prerequisites : MAIR11, MAIR12
+Course Type : PC
+
+Course Learning Objectives
+To understand Random Variables, Standard Distribution Functions Several Random Variables,
+Random Processes.
+
+Course Content
+UNIT I
+RANDOM VARIABLES: Sample space and events, Probability, Conditional Probability,
+definition of random variables, cumulative distribution function, probability density function,
+discrete random variables, continuous random variables, mathematical expectation, moments of
+random variables. Chebyshev inequality.
+UNIT II
+STANDARD DISTRIBUTION FUNCTIONS: uniform, triangular, Gaussian, Bernoulli,
+binomial, negative binomial, geometric, Poissoins, Exponential, Weibul, Gamma, Erlang,
+Rayleigh, Rice, lognormal, chi square and other useful disribution functions. Functions of random
+variables.
+UNIT III
+SEVERAL RANDOM VARIABLES: Joint distribution Functions, marginal and conditional
+distributions, Expectations, Joint Statistics, Conditional Statistics, independence, Sum of random
+variables, Central Limit Theorem, Functions of random variables & random vectors, Joint density
+function, mean, variance, correlation, covariance, moments, joint moments, Characteristic
+Functions, Convergence of a sequence of random variables,
+UNIT IV
+RANDOM PROCESSES: Definition and description of Random Processes, Classification of
+random processes, statistical characterization, mean, correlation and covariance functions,
+
+Stationary random processes, Ergodicity, Power Spectral density, Weiner-khintchine theorem,
+Response of memory- less and linear systems to random inputs, discrete time stochastic processes,
+Cyclostationary processes, Gaussian, Poisson, Markov processes.
+
+Reference Books:
+1. Papoulis, A. Probability, Random Variables and Stochastic Processes, MGH, 3rd Ed.
+2. Gray, R.M. Davission,L.D,Introduction to Statistical Signal Processing- Web Edition-1999.
+3. Sundarapandian, V. Probability, Statistics and Queueing Theory, PHI Learning Private
+Limited, 3rd Ed.
+
+Course outcomes
+1. Understand the basics of probability, events, sample space and how to use them to real life problems.
+2. Characterize probability models and function of random variables based on single & multiples random variables.
+3. Evaluate and apply moments & characteristic functions and understand the concept of inequalities and probabilistic limits.
+4. Understanding of autocorrelation and its relation with power density spectrum and its properties
+5. Understand the concept of random processes and determine covariance and spectral density of stationary random processes.
+6. Demonstrate the specific applications to Poisson and Gaussian processes and representation of low pass and band pass noise models.
+
+COURSE CODE : ECPC33
+Course Title : Measurement and Instrumentation
+Number of Credits : 03
+Prerequisites : ECPC11
+Course Type : PC
+
+Course Learning Objectives:
+To understand the various measurement techniques, basic working of instruments used for
+measurement and errors in measurements and their rectification.
+
+Course Content:
+UNIT I
+
+Measurements and Errors: Principles of measurement, accuracy, precision, types of Errors,
+limiting Errors, Bridge Measurements (AC and DC bridges), analysis of Linear Systems, time
+domain response, Pressure Gauge-Measurement of Flow.
+
+UNIT II
+
+Electromechanical & Digital Indicating Instruments: PMMC Mechanism, DC Ammeters and
+Voltmeters, Series and Shunt Type Ohmmeter, Alternating Current Indicating Instruments
+(Moving Iron instruments, electrodynamometer instrument), D/A and A/D Converters Digital
+Voltmeters, Vector Voltmeter, Guarding Techniques, Automation in Voltmeter.
+
+UNIT III
+
+Signal Generation and Analysis: Sine Wave Generator, Sweep Frequency Generator, Pulse and
+Square wave Generator, Function Generator Analyzer, Wave Analyzer, Distortion Analyzer,
+Harmonic Distortion Analyzer, Spectrum Analyzer, and Logic Analyzer.
+
+UNIT IV
+
+Measurement systems for non-electrical quantities: Basics of telemetry; Different types of
+transducers and displays; Data acquisition system basics. Oscilloscopes and recorders.
+Reference Books: %1. Albert.D. Helfrick and William. D. Cooper, Modern Electronic Instrumentation and Measurement Techniques, PHI.Learning Private Limited, 2010. 2. H. S. Kalsi, Electronic Instrumentation, 3rd Edition, Tata McGraw Hill Publishing Company Ltd., 2010. 3. Earnest .O Doeblin, Measurement Systems Application and Design, 5th Edition, McGraw Hill International editions, 2009. 4. A.K.Sawhney, A course in electrical and electronic measurements and instrumentation, Dhanapat Rai & Sons, 2000.
+Course outcomes:
+At the end of the course student will be able to: %1. Understand the fundamentals of electronic instrumentation. 2. Measure various electrical parameters with accuracy, precision, resolution. 3. Use AC and DC bridges for relevant parameter measurement. 4. Select appropriate passive or active transducers for measurement of physical phenomenon. 5. Use Signal Generator, frequency counter, CRO and digital IC tester for appropriate measurement. 6. Ability to measure frequency, phase with Oscilloscope
+
+COURSE CODE : ECPC34
+Course Title : Digital Design
+Number of Credits : 4
+Prerequisites : ECIR11
+Course Type : PC
+
+
+Course Learning Objectives
+To familiarize students with the importance of digital logic design and develop the understanding
+towards the need of digital logics in computers and real world applications.
+Course Content
+UNIT I
+Number systems and codes, Laws of Boolean algebra, Theorems of Boolean algebra, Switching
+functions, Realization of functions using logic gates. Electronic logic gates, Positive and negative
+logic, Logic families, Algebraic methods, Canonical forms of Boolean functions, Minimization of
+functions using Karnaugh maps , Minimization of functions using Quine-McClusky method.
+UNIT II
+Combinational Logic: Combinational circuits, analysis procedure, design procedure, binary adder-
+subtractor, decimal adder, Ripple carry adder and Carry look ahead adder, binary multiplier,
+magnitude comparator, decoders, encoders, multiplexers.
+UNIT III
+Sequential Circuit Elements: Latches –RS latch and JK latch, Flip-flops-RS, JK, T and D flip flops,
+Master-slave flip flops, Edge-triggered flip-flops. FSM – Moore machine and Mealy machine,
+Flip-flops, Next state equations, Next state maps, State table and State transition diagram, Design
+of sequential circuits – State transition diagram, State table, Next state maps, Output maps,
+Expressions for flip-flop inputs and Expressions for circuit outputs.
+UNIT IV
+Moore and Mealy state graphs for sequence detection, Methods for reduction of state tables,
+Methods for state assignment. Registers and counters: Shift registers, ripple counter, synchronous
+Counter, other counters. Memory and programmable logic: RAM, ROM, PLA, PAL.
+
+Reference Books 
+%1. M. Morris Mano and M. D. Ciletti, “Digital Design”, 4th Edition, Pearson Education. 2. Hill & Peterson, “Switching Circuit & Logic Design”, Wiley. 3. Mohammad A. Karim and Xinghao Chen, “Digital Design-Basic concepts and Principles”, CRC Press Taylor & Francis group, 2010. 4. C. H. Roth, Fundamental s of Logic design, Jaico Publishers, 1998. 5. V. P. Nelson, H.T. Nagle, E.D. Caroll and J.D. Irwin, Digital Logic Circuit Analysis and Design, Prentice Hall International, 1995.
+
+
+Course outcomes
+At the end of the course student will be able to… %1. Understand the number systems and Laws of Boolean algebra. 2. Learn the minimization of functions using Karnaugh maps and Quine-McClusky method. 3. Understand the basics of digital design. 4. Design the hardware of various arithmetic logics. 5. Design the hardware using sequential circuit elements 6. Design various digital machines/circuitsto address the need of real world.
+
+
+COURSE CODE : ECPC35
+Course Title : Communication Engineering
+Number of credits: 4
+Prerequisites : ECIR11, ECPC12 and ECPC32
+Course Type : PC
+
+Course Learning Objectives
+To understand modulation, demodulation and major building blocks of Communication
+system. Also, develop a clear insight into the input and output ac signals at various stages
+of a transmitter and a receiver of AM & FM systems.
+
+Course Content
+
+UNIT I
+
+AMPLITUDE MODULATION: Need for modulation, linear modulation schemes,
+Frequency translation, FDM, Modulation and demodulation of DSBSC, SSB and VSB
+signals.
+ANGLE MODULATION: Basic concepts, Phase modulation, Frequency Modulation,
+Single tone frequency modulation, Spectrum Analysis of Sinusoidal FM Wave, Narrow
+band FM, Wide band FM, Transmission bandwidth of FM Wave - Generation of FM
+Waves, Detection of FM , Balanced Frequency discriminator, Zero crossing detector, Phase
+locked loop, Comparison of FM and AM.
+
+UNIT II
+
+NOISE: Resistive Noise Source (Thermal), Arbitrary noise Sources, Effective Noise
+Temperature, Average Noise Figures, Average Noise Figure of cascaded networks, Narrow
+Band noise, Quadrature representation of narrow band noise & its properties. Noise in
+Analog communication Systems: Noise in DSBSC and SSB Systems, Noise in AM
+System, Noise in Angle Modulation System, Threshold effect in Angle Modulation
+System, Pre-emphasis and de-emphasis.
+
+UNIT III
+RECEIVERS: Types of Radio Receiver, Tuned radio frequency receiver, Super
+heterodyne receiver, RF section and characteristics - Frequency tuning and tracking,
+Intermediate frequency, AGC, FM Receiver, Comparison with AM Receiver, Amplitude
+limiting.
+
+UNIT IV 
+PULSE MODULATION: Sampling theorem, sampling process, Quantization process, quantization noise, Types of Pulse modulation, PAM, PWM, PPM: Generation and demodulation of pulse modulated signals, Time Division Multiplexing. PCM,  Law and A- law compressors. Line codes, Noise in PCM, DPCM, DM, delta sigma modulator, ADM.
+
+Reference books:
+1. Simon Haykins , Communication Systems , Wiley & Sons , 4th Edition.
+2. Taub & Schilling, Principles of Communication Systems, TMH.
+3. B.P. Lathi , Modern Digital and Analog Communications, Oxford.
+4. George Kennedy and Bernard Davis ,Electronics & Communication Systems. 
+
+Course outcomes 
+At the end of the course student will be able to…
+1. Understand effect of noise on analog communication systems.
+2. Analyze energy and power spectral density of the signal.
+3. Evaluate analog modulated waveform in time /frequency domain.
+4. Analyze different characteristics of receiver.
+5. Generate pulse modulated signals
+6. Draw the block diagram of AM and FM receiver.
+
+
+COURSE CODE : ECPC40
+Course Title : Analog Electronics
+Number of credits: 4
+Prerequisites : ECPC30
+Course Type : PC 
+
+Course Learning Objectives
+To enable the students to design multistage amplifiers, oscillators and OP-AMP based linear and non-linear circuits.
+
+
+Course Content
+
+UNIT I
+Analysis and design of single stage RC- coupled amplifier, Classification of amplifiers,
+Direct coupled amplifiers, Multistage amplifiers, Frequency response of amplifiers.
+
+UNIT II
+Current Mirrors, Differential Amplifiers (Balanced and Unbalanced output), frequency
+response. Introduction to OP-AMP.
+
+UNIT III
+OP-AMP with Negatives Feedback and Frequency Response (Open loop and Closed loop)
+Compensating network, Circuit stability, slew rate. Operational Transconductance
+Amplifier.
+
+UNIT IV
+Applications: DC, AC amplifiers, peaking amplifier, summing, sealing, averaging and
+instrumentation amplifier, differential input output amplifier, V-I and I-V converter,
+integration and differential circuit, wave shaping circuit, active filters, oscillators.
+
+Reference Books:
+1. A. Sedra and C. Smith, Microelectronic Circuits: Theory and Applications, Oxford University Press, 6th Edition, 2013.
+2. J. Millman and C. Halkias, Integrated Electronics, McGraw Hill, 2nd Edition, 2009.
+3. BehzadRazavi, Design of analog CMOS Integrated circuits, McGraw Hill, 2002.
+4. R. A. Gayakwaed, OP-amps and Linear Integrated circuits, Prentice Hall India Learning Private Limited, 4th Edition 2002.
+5. K. R. Botkar, Integrated circuits, Khanna Publishers, 2004.
+
+Course outcomes
+At the end of the course student will be able to
+1. Design single and multistage amplifiers.
+2. Understand the kay issues in the designing of differential amplifiers.
+3. Understand the design of current mirrors
+4. Understand the terminal characteristics of op-amps and design /analyze
+  : fundamental circuits based on op-amps.
+5. Understand the use of op-amps in different types of applications.
+6. Design integration, differential circuit and wave shaping circuits.
+
+
+COURSE CODE : ECPC42
+Course Title : Microprocessor And Microcontroller
+Number of credits: 3
+Prerequisites : ECPC34
+Course Type : PC
+
+Course Learning Objectives
+ To learn importance of microprocessors and microcontrollers, understand architecture and
+programming of 8086 processors, interfacing techniques like memory and I/O Interfacing
+with microprocessor and microcontroller.
+
+Course Content
+
+UNIT I
+INTRODUCTION TO MICROPROCESSOR AND MICROCONTROLLER: Evolution
+of microprocessors, technological trends in microprocessor development, The Intel family
+tree, applications of Microprocessors.
+
+INTRODUCTION TO 16-BIT MICROPROCESSOR ARCHITECTURE:
+: 8086 Block diagram; description of data registers, address registers; pointer and index
+registers, PSW, Queue, BIU and EU, 8086 Pin diagram descriptions. Microprocessor BUS
+types and buffering techniques, 8086 minimum mode and maximum mode CPU module.
+8086 CPU Read/Write timing diagrams in minimum mode and maximum mode.
+
+UNIT II
+8086 INSTRUCTION SET: Instruction formats, addressing modes, Data transfer
+instructions, string instructions, logical instructions, arithmetic instructions, transfer of
+control instructions; process control instructions; Assembler directives, writing assembly
+Language programs for logical processing, arithmetic processing, timing delays; loops,
+data conversions, Writing procedures; Data tables, modular programming, Macros.
+
+
+UNIT III
+INTERFACING AND PROGRAMMABLE DEVICES: Basic interfacing concepts and
+address decoding techniques., Interfacing output displays, memory, D/A & A/D
+converters, Programmable interval timer, programmable peripheral interface %8255. 
+  : 27
+INTERRUPTS AND DMA: Interrupt driven I/O. 8086 Interrupt mechanism; interrupt
+types and interrupt vector table, Programmable interrupt controller 8259, programmable
+DMA controller %8237. 
+UNIT IV
+INTRODUCTION TO MICRO CONTROLLERS (8051): Micro controllers & Embedded
+processors, Overview of 8051 family, Instruction set, Introduction to 8051 assembly
+language programming, Program counter, data types & directives, flag, Registers, Stack,
+Hardware Description, I/O Port programming, Timer and counter programming, Serial
+communication, Interrupt programming, Interfacing, 16 & 32 bit micro controllers, PIC
+and ARM controllers
+
+Reference Books:
+1. D.V.Hall , Microprocessors and Interfacing , McGraw Hill 2nd ed.
+2. M A Mazidi, J G Mazidi, R D Mc Kinlay “The 8051 Micro controllers & Embedded Systems”, 2nd Indian reprint, Pearson education, (2002).
+3. J Uffenbeck , The 8086/8088 family, (PHI).
+4. Liu,Gibson , Microcomputer Systems – The 8086/8088 family, (2nd Ed-PHI).
+5. Kenneth J, Ayala, “8051 Microcontroller: Architecture, Programming and Application,” 2nd edition, Delmar Learning.
+6. John Morton “The PIC Microcontroller: Your Personal Introductory Course”, Newnes (an imprint of Butterworth-Heinemann Ltd); 3rd Revised Edition (2005).
+
+Course outcomes
+At the end of the course, the student will be able to:
+1. Develop the basic understanding of 16-bit microprocessor architecture.
+2. Program a microprocessor system using assembly language.
+3. Understand and capable of interfacing the microprocessor to the I/O devices.
+4. Develop simple applications on microprocessor and microcontroller -based systems.
+5: Interpret specifications for any microprocessor or peripheral chip.
+6: Use compilers and assemblers from open source, third party, and microprocessor/ microcontroller providers
+
+
+COURSE CODE : ECPC43
+Course Title : Control System Engineering
+Number of credits: 4
+
+Prerequisites : MAIR-11, MAIR-12
+
+Course Type : PC Course Learning Objectives
+ To understand the control system and components, time response analysis, stability, the
+root locus technique, frequency response analysis, stability in frequency domain, state
+variable analysis.
+
+Course Content
+
+UNIT I
+INTRODUCTION: The control system, historical development of automatic control
+system, mathematical models of physical systems, Differential equation of physical
+systems, transfer function, block diagram algebra, signal flow-graphs, feedback
+characteristics of control systems, Feedback and non-feedback systems, reduction of
+parameter variations by use of feedback, Control over system dynamics by use of feedback,
+control of the effect of disturbance signal by use of feedback.
+
+UNIT II
+CONTROL SYSTEM AND COMPONENTS: Linear approximation of non-linear
+systems, electrical systems, stepper Motor.
+TIME RESPONSE ANALYSIS: Standard test signals, time response of first order and
+second order systems, steady-state errors and error constants, design specification of
+second-order-systems.
+STABILITY: The concept of stability necessary conditions for stability, Hurwitz stability
+criterion, Routh stability criterion, Relative stability analysis.
+THE ROOT LOCUS TECHNIQUE:The Root locus concept, construction of root loci, root
+contours.
+
+UNIT III
+FREQUENCY RESPONSE ANALYSIS: Correlation between time and frequency
+response, Polar Plots, Bode Plots, experimental determination of transfer function.
+  : 29
+STABILITY IN FREQUENCY DOMAIN: Nyquist stability criterion, relative stability
+using Nyquist Criterion, closed-loop frequency response.
+
+UNIT IV
+INTRODUCTION TO DESIGN: Considerations of classical design, realization of basic
+compensators, cascade compensation in time domain, cascade compensation in frequency
+domain, feedback compensation.
+STATE VARIABLE ANALYSIS: Concept of state,state variable and state model, state
+models for linear continuous time systems, Diagonalization solution of state equations,
+Concept of controllability and observability, Pole placement by state feedback.
+
+Reference Books:
+1. I.J.Nagrath and M.Gopal, Control Systems Engineering.
+2. B.C.Kuo, Automatic Control Systems.
+
+Course outcomes %1. Characterize various types of control systems along with their historical development. 2. Learn to accomplish mathematical modeling of various control systems and understand various effects on them in the presence of feedback. 3. Identify various control system components. 4. Perform time domain and stability analysis of various control systems analytically and through graphical technique such as root locus. 5. Analyze and determine stability of various control systems in frequency domain using Bode plots and Nyquist criterion etc. 6. Realize basic compensators both in time and frequency domain and perform state variable analysis.
+  : 30
+  : OBJECT ORIENTED PROGRAMMING
+
+
+COURSE CODE : ECPE40
+Course Title : Object Oriented Programming
+
+Number of : 3
+
+Prerequisites : CSIR11
+
+Course Type : PE
+
+
+Course Learning Objectives
+To learn object-oriented programming and utilize it in practical applications by
+demonstrating adeptness of object oriented programming in developing solution to
+problems demonstrating usage of data abstraction, encapsulation, features of exception
+handling, dynamic binding and utilization of polymorphism, and applets.
+
+Course Content:
+
+UNIT I
+INTRODUCTION: Object-Oriented Paradigm, Features of Object Oriented
+Programming in C++, Fundamentals of data types, Operators and Expressions, Control
+flow, Arrays, Strings, Pointers and Functions.
+
+UNIT II
+PROGRAMMING IN C++: Classes and Objects, Constructors and Destructors, Operator
+Overloading, Inheritance, Virtual Functions and Polymorphism, and Exception Handling.
+
+UNIT III
+JAVA INTRODUCTION: An overview of Java, Data Types, Variables and Arrays,
+Operators, Control Statements, Classes, Objects, Methods    Inheritance. JAVA
+PROGRAMMING: Packages, Abstract classes, Interfaces and Inner classes, Exception
+handling.
+
+UNIT IV
+MULTITHREADING: Introduction to Threads, Multithreading, String handling,
+Streams and I/O, and Applets.
+
+Reference Books:
+1. Lafore R., Object Oriented Programming in C++, Waite Group.
+2. E. Balagurusamy, Object Oriented Programming with C++, Tata McGraw Hill.
+3. Deitel and Deitel, “C++ How to Program”, Sixth Edition, Prentice Hall, 2007.
+
+  : 31
+4. Herbert Schildt, “Java The complete reference”, Eighth Edition, McGraw Hill
+Professional, %2011. %5. Herbert Schildt, The Complete Reference to C++ Language, McGraw Hill-Osborne.
+
+Course outcomes
+At the end of the course student will be able to…
+1. Understand the concepts of the object oriented programming.
+2. Comprehend the adeptness of object oriented programming in developing solution to problems demonstrating usage of data abstraction, encapsulation and inheritance.
+3. Implement patterns involving dynamic binding and utilization of polymorphism.
+4. Understand syntax and features of exception handling.
+5. Implement solution to various I/O manipulation operations
+6. Create two-dimensional graphic components using applets .
+  : 32
+  : NETWORK ANALYSIS AND SYNTHESIS
+
+
+COURSE CODE : ECPE41
+Course Title : Network Analysis and Synthesis
+Number of : 03
+
+Prerequisites : ECPC11, MAIR-%11. MAIR-12
+
+Course Type : PE
+
+
+Course Learning Objectives:
+  : To make the students proficient in analyzing and synthesizing an electrical network
+from a given impedance/admittance function.
+
+Course Content
+
+UNIT I
+Network Theorems: Superposition theorem, Thevenin’s theorem, Norton’s theorem,
+Norton’s theorem, Maximum Power transfer theorem, Reciprocity theorem, Millman’s
+theorem, Compensation theorem, Tellegen’s theorem. Network solution methods: nodal
+and mesh analysis.
+
+UNIT II
+Transient Circuit Analysis: Steady state sinusoidal analysis using phasors; Time domain
+analysis of simple linear circuits; Solution of network equations using Laplace transform;
+Frequency domain analysis of RLC circuits.
+
+UNIT III
+Linear 2‐port network parameters: Driving point and transfer functions, State equations
+for networks, Characterization of LTI 2-port networks: Z, Y, ABCD, A’B’C’D’, g and h
+parameters, Reciprocity and symmetry. Graph Theory: Tree, Co tree, Link, Basic loop and
+basic cut set, Incidence matrix, Cut set matrix, Tie set matrix, Duality, Loop and nodal
+methods of analysis.
+
+UNIT IV
+Network Synthesis: Properties of Hurwitz polynomial and Positive real function, one
+terminal pair network driving point synthesis with LC elements, RC elements, RL
+elements, Foster and Cauer form.
+  : 33
+Reference Books: %1. Hayt W.H., Kemmerly J.E. and S. M., Engineering Circuit Analysis, 6th Edition, Tata McGraw-Hill Publishing Company Ltd., 2008. 2. Valkenberg V., Network Analysis, 3rd Edition, Prentice Hall International Edition, 2007. 3. Kuo F. F., Network Analysis and Synthesis, 2nd Edition, Wiley India, 2008.
+
+
+Course outcomes:
+  : At the end of the course student will be able to: %1. Apply the knowledge of basic circuit law and simplify the network using reduction
+  : techniques. %2. Understand the basics single & two-port networks and their different parameters. 3.   Classify various functions like transfer functions, driving point functions and synthesis of
+  : different network functions. %4. Familiarize with different network topologies, graph metrics and analysis of network
+  : using graph theory. %5. Apply various theorems for circuit solving. 6.   Analyze transient circuit.
+  : 34
+  : COMPUTER ARCHITECTURE
+
+
+COURSE CODE : ECPE42
+Course Title : Computer
+  : Architecture
+Number of Credits : 3
+Prerequisites (Course : None
+  : code)
+Course Type : PE
+
+
+Course learning objectives:
+The objective of this course is to provide students with the basic concepts and principles in
+computer architecture so that students have in-depth understanding of computer system
+designs.
+
+UNIT I
+INTRODUCTION TO COMPUTER HARDWARE AND SOFTWARE: Functional
+Units, Historical perspective, Performance of computer, Register transfer and micro-
+operations, Information representation, Instruction format, Instruction types, Addressing
+modes, Instruction set architectures- CISC and RISC, Super-scaler architecture, Fixed
+point and floating point operations.
+
+UNIT II
+BASIC PROCESSING UNIT: Fundamental concepts, ALU, Control unit, Multiple bus
+organization, Hardwired control, Micro programmed control, Pipelining, Data hazards,
+Instruction hazards, Influence on instruction sets, Data path and control considerations,
+Performance considerations.
+
+UNIT III
+MEMORY ORGANIZATION: Basic concepts, Semiconductor RAM memories, Read-
+Only Memories, Speed, Size and Cost, Cache Memories, Performance considerations,
+Cache Coherency in Multiprocessor, Virtual Memories, Memory Management
+Requirements, Secondary Storage devices.
+
+UNIT IV
+I/O ORGANIZATION: Accessing I/O Devices, Programmed I/O, Interrupt-driven I/O,
+Direct Memory Access, Buses, Interface Circuits: Serial port, Parallel port, PCI Bus, SCSI
+Bus, USB, The External Interface-FireWire and InfiniBand.
+  : 35 Reference Books:
+1. C.Hamacher Z. Vranesic and S. Zaky, “Computer Organization”, McGraw-Hill, 5th ed., 2002.
+2. W. Stallings, “Computer Organization and Architecture - Designing for Performance”, Pearson, 7th ed.,2006.
+3. M.M. Mano, “Computer System Architecture”, PHI.
+4. J.P.Hayes, “Computer Architecture and Organization”, McGraw-Hill.
+
+ Course outcomes: At the end of the course the student will be able to:
+1. Comprehend the basic knowledge of functional components of computer system.
+2. Provide an overview of computer system software and understand basic aspects of performance evaluation.
+3. Analyze concept of various addressing modes including design instruction set architecture.
+4. Identify the function of building blocks within CPU of a computer system.
+5. Explain memory system design including Cache and Virtual-memory systems.
+6. Familiarize with the basic knowledge of I/O devices and interface circuits.
+  : 36
+  : DIGITAL DESIGN USING VERILOG
+
+
+COURSE CODE : ECPE43
+Course Title : Digital Design Using Verilog
+Number of : 03
+
+Prerequisites : ECPC34
+
+Course Type : PE Course Learning Objectives
+This course aims to provide students with the understanding of the different technologies
+related to HDLs, construct, compile and execute Verilog HDL programs using provided
+software tools. Design digital components and circuits that are testable, reusable, and
+synthesizable.Students are provided with access to the CAD tools to use hardware
+description language to model, analyze and design various digital circuits/systems.
+
+Course Content
+
+UNIT I
+INTRODUCTION TO LOGIC DESIGN WITH VERILOG HDL: Evolution of CAD,
+emergence of HDLs, typical HDL-based design flow, why Verilog HDL?, trends in HDLs.
+Evolution of CAD, emergence of HDLs, typical HDL-based design flow, why Verilog
+HDL?,
+LANGUAGE CONSTRUCTS AND CONVENTIONS: Lexical conventions, data types,
+system tasks, compiler directives. Module definition, port declaration, connecting ports,
+hierarchical name referencing.
+
+UNIT II
+GATE LEVEL MODELING: AND Gate Primitive, Module Structure, Tri-State Gates,
+Array of Instances of Primitives, Design of Flip-flops with Gate Primitives, Delays,
+Strengths and Construction Resolution, Net Types, Design of Basic Circuits.
+DATAFLOW MODELING: Continuous Assignment Structure, Delays and Continuous
+Assignments, operators, operands, operator types.
+
+UNIT III
+BEHAVIORAL MODELING: Structured procedures, initial and always, blocking and
+nonblocking statements, delay control, generate statement, event control, conditional
+statements, multiway branching, loops, sequential and parallel blocks, Differences between
+tasks and functions, declaration, invocation, automatic tasks and functions.
+
+  : 37
+VERILOG FOR FINITE STATE MACHINES: System Design using ASM Chart, Design
+and Synthesis of Datapath Controllers. Clocked Sequential Finite State Machines,
+Asynchronous Sequential Finite State Machines, Sequential Design using LSI & MSI
+circuits.
+
+UNIT IV
+ADVANCED VERILOG TOPICS: Switch Level Modeling, User-Defined Primitives,
+Programming Language Interface, Advanced Verification Techniques.
+
+Reference Books:
+1. Verilog HDL - Samir Palnitkar, 2nd Edition, Pearson Education, 2009.
+2. T.R. Padmanabhan, B Bala Tripura Sundari, Design Through Verilog HDL, Wiley 2009.
+3. Fundamentals of Digital Logic with Verilog Design - Stephen Brown, Zvonkoc Vranesic, TMH, 2nd Edition.
+4. Advanced Digital Design with Verilog HDL - Michel D. Ciletti, PHI,2009.
+5. Digital Design, 2/e, Frank Vahid, Wiley, 2011
+
+Course outcomes
+At the end of the course student will be able to
+1. Understand various programmable logic devices and EDA tools.
+2. Analyze various modeling styles in Verilog HDL and to design digital systems.
+3. Write Register Transfer Level (RTL) models of Digital Circuits.
+4. Understand advanced topic, testing strategies and construct test-benches in Verilog.
+5. Design combinational logic circuits using VHDL.
+6. Design sequential logic circuits using VHDL.
+  : 38
+B.Tech 5th Semester
+  : 39
+INFORMATION THEORY AND CODING 
+COURSE CODE : ECPC50 
+Course Title            :   Information Theory And Coding 
+Number of Credits           4 
+Prerequisites           :   ECPC12, ECPC35
+Course Type : PC
+
+
+Course Learning Objectives
+To understand elements of information theory and source coding, Linear block
+codes, Cyclic codes, Convolutional codes
+
+Course Content
+
+UNIT I
+ELEMENTS OF INFORMATION THEORY AND SOURCE CODING:
+Introduction, information as a measure of uncertainty, Entropy & its properties,
+Entropy of continuous sources, Discrete memoryless channels, Mutual information
+& its properties, BSC, BEC. Channel capacity, Shanon’s theorem on coding for
+memoryless noisy channels, Shanon’s three fundamental theorems.
+Separable binary codes, Shanon–Fano encoding, Noiseless coding, Theorem of
+decodability, Average length of encoded message, Shanon’s binary encoding,
+Fundamental theorem of discrete noiseless coding, Huffman’s minimum
+redundancy codes, capacity of colored noise source, water filling algorithms.
+
+UNIT II
+LINEAR BLOCK CODES: Groups & fields, Galois fields & its construction,
+Minimal polynomial, Vector spaces, Dual spaces, Linear block codes, Syndrome
+& error detections, Minimum distance, Error detecting and correcting capabilities
+of a block code, Standard array & Syndrome decoding, Hamming code.
+
+UNIT III
+CYCLIC CODES: Description of cyclic codes, Polynomial representation,
+Minimum degree code polynomial, Generator polynomial, Generator matrix,
+Systematic form, Parity check matrices, cyclic codes encoders, Syndrome
+computation and error detection, Cyclic Hamming codes, Decoding of cyclic codes.
+
+UNIT IV
+CONVOLUTIONAL CODES: Encoding of Convolution codes, Structural
+properties of Convolution codes, State diagram, Code tree, Trellis diagram, Free
+distance, Coding gain, Viterbi decoding, distance properties of binary
+convolutional codes, Burst error correcting convolutional codes.
+  : 40
+Reference Books: %1. F. M. Reza, Information Theory, McGraw Hill, 1st Ed..
+2. Das, Mullick and Chatterjee, Digital Communication, Wiley Eastern Ltd, 3rd Ed..
+3. Shu Lin and J. Costello, Error Control Coding, Prentice Hall, 3rd Ed..
+
+Course outcomes %1. Understand the concepts of Random variables and stochastic processes and their applications in communication engineering. 2. To be able to perform the time and frequency domain analysis of the signals in a digital communication system. 3. Understand and apply the Entropy function, source coding and the three Shannon's fundamental theorems. 4. Design the linear block codes and cyclic codes. 5. Understand and apply the convolutions codes state diagrams, code tree and trellis diagrams, decoding algorithms. 6. Understand and evaluate the channel performance using Information theory.
+  : 41
+  : ANTENNA AND WAVE PROPAGATION
+
+
+COURSE CODE : ECPC51
+Course Title : Antenna And Wave Propagation
+Number of Credits : 4
+Prerequisites : ECPC31
+
+Course Type : PC
+
+
+Course Learning Objectives
+By the end of this course the student should be able to describe the evolution and basics of Antenna
+and Wave propagation technology. Student should be able to identify antenna parameters of Linear
+wire antennas, Aperture type antennas, Antenna Arrays, Narrowband, Broadband and Frequency
+independent antennas
+
+Course Content
+UNIT I
+
+BASIC PRINCIPLES AND DEFINITIONS: Retarded vector and scalar potentials. Radiation
+and induction fields, Radiation from elementary dipole (Hertzian dipole, short dipole, Linear
+current distribution), half wave dipole, Antenna parameters : Radiation resistance, Radiation
+pattern, Beam width, Gain, Directivity, Effective height, Effective aperture, Polarization,
+Bandwidth and Antenna Temperature.
+
+UNIT II
+RADIATING WIRE STRUCTURES AND ANTENNA ARRAYS: Folded dipole, Monopole,
+Biconical Antenna, Loop Antenna, Helical Antenna. Principle of pattern multiplication,
+Broadside arrays, Endfire arrays, Array pattern synthesis, Uniform Array, Binomial Array,
+Chebyshev Array, Antennas for receiving and transmitting TV Signals e.g. Yagi-Uda and
+Turnstile Antennas. Printed antennas.
+
+UNIT III
+APERTURE TYPE ANTENNAS: Radiation from rectangular aperture, E-plane Horns, H-plane
+Horns, Pyramidal Horn, Lens Antenna, Reflector Antennas and Slot Antennas.
+BROADBAND AND FREQUENCY INDEPENDENT ANTENNAS: Broadband Antennas. The
+frequency independent concept: Rumsey’s principle, Frequency independent planar log spiral
+antenna, Frequency independent conical spiral antenna and Log periodic antenna.
+  : 42
+UNIT IV
+PROPAGATION OF RADIO WAVES : Different modes of propagation, Ground waves, Space
+waves, Surface waves and Tropospheric waves, Ionosphere, Wave propagation in the ionosphere,
+Critical frequency, Maximum Usable Frequency (MUF), Skip distance, Virtual height, Radio
+noise of terrestrial and extra terrestrial origin. Multipath fading of radio waves.
+
+Reference Books: %1. John D. Kraus, Antennas, McGraw Hill. 4th Ed. 2010 , Mc Graw Hill 2. C. A Balanis Antenna theory Analysis & Design 3rd Ed. 2005 ,Wiley & Sons 3. E. C. Jordan and K. G. Balmain, Electromagnetic Waves and Radiating Systems, PHI
+
+Course Outcomes
+At the end of the course student will be able to… %1. Develop an understanding of the design features of various Antenna Types and their families 2. Understand the fundamentals and modes of wave propagation 3. Differentiate and deploy Broadband and Narrowband Antennas with characteristic radiation patterns. 4. Use mathematical analysis and tools to simulate Antenna signals for transmission and reception. 5. Quantify the fields radiated by various types of antenna. 6. Plot the characteristics of wire and aperture antennas.
+  : 43
+  : DIGITAL SIGNAL PROCESSING
+
+
+COURSE CODE : ECPC52
+Course Title : Digital Signal Processing
+Number of Credits : 4
+Prerequisites : ECPC12
+
+Course Type : PC
+
+
+Course Learning Objectives
+To understand Discrete transforms, implementation of discrete time systems,
+design of FIR filters, design of IIR filters.
+
+Course Content
+
+UNIT I
+ DISCRETE TRANSFORMS: Z- transform and its properties, poles and zeros,
+Inversion of Z-transform, One sided Z-transform and solution of differential
+equations. Analysis of LTI systems in Z-domain, causality, stability, Relationship
+between Z-transform and Fourier transform. Frequency selective filters; all pass
+filters, minimum-phase, maximum-phase and mixed-phase systems.
+Frequency domain sampling and DFT; properties of DFT, Linear filtering using
+DFT, Frequency analysis of signals using DFT, radix 2 & radix-4 FFT algorithms,
+Goertzel algorithm, Applications of FFT algorithm, computation of DFT of real
+sequences.
+
+UNIT II
+IMPLEMENTATION OF DISCRETE TIME SYSTEMS: Direct form,
+cascade form, frequency sampling and lattice structures for FIR systems. Direct
+forms, transposed form, cascade form parallel form. Lattice and lattice ladder
+structures for IIR systems. state space structures.
+
+UNIT III
+DESIGN OF FIR FILTERS: Characteristics of practical frequency selective
+filters. Filters design specifications peak pass band ripple, minimum stop band
+attenuation. Four types of FIR filters Design of FIR filters using windows. Kaiser
+window method comparison of design methods for FIR filters Gibbs phenomenon,
+design of FIR filters by frequency sampling method, design of optimum equiripple
+FIR filters, alternation theorem.
+
+UNIT IV
+DESIGN OF IIR FILTERS: Design of IIR filters from analog filters, Design by
+approximation of derivatives, Impulse invariance method bilinear transformation
+method characteristics of Butterworth, Chebyshev, and Elliptical analog filters and
+design of IIR filters, Frequency transformation.
+
+  : 44
+Reference Books: %1. John G. Proakis, Digital Signal Processing, PHI 2. S. K. Mitra, Digital Signal Processing , TMH 3. Rabiner and Gold, Digital Signal Processing, PHI 4. Salivahan, Digital Signal Processing , TMH
+
+Course outcomes %1. Understand discrete- time sequences and Z-transform. 2. Compute DFT and FFT of discrete time signals. 3. Design FIR and IIR filters using different techniques. 4. Design frequency selective filters. 5. Learn the DSP programming tools and use them for applications 6. Design and implement signal processing modules in DSPs
+  : 45
+  : DIGITAL COMMUNICATION
+
+
+COURSE CODE : ECPC53
+Course Title : Digital Communication
+Number of Credits : 4
+Prerequisites : ECPC32
+
+Course Type : PC
+
+COURSE OBIECTIVES:
+To understand the key modules of digital communication systems with emphasis on digital
+modulation techniques and understanding of various aspects such as effect of Inter Symbol
+Interference, BER for different modulation techniques and bandwidth efficiency.
+
+SYLLABUS:
+
+UNIT I
+BASE BAND PULSE TRANSMISSION: Matched filter and its properties average probability
+of symbol error in binary encoded PCM receiver, intersymbol interference, Nyquist criterion for
+distortionless baseband binary transmission, ideal Nyquist channel, raised cosine spectrum,
+correlative level coding, tapped delay line equalization, adaptive equalization, LMS algorithm, eye
+patterns.
+
+UNIT II
+SIGNAL SPACE ANALYSIS & OPTIMUM RECEIVER: Pass band transmission model,
+Gram Schmidt orthogonalization procedure, geometric interpretation of signals, response of bank
+of correlaters to noise input, detection of known signal in AWGN, likelihood function, coherent
+detection of signals, maximum likelihood decoding, correlation receiver, matched filter receiver,
+digital modulation schemes, coherent and noncoherent demodulation schemes, symbol
+synchronization and carrier recovery.
+
+UNIT III
+PERFORMANCE ANALYSIS: Probability of error for PSK, DPSK, FSK QPSK, QAM, MSK,
+M-arry FSK, M-arry PSK, MSK, M-arry QAM schemes, comparison of modulation schemes on
+the basis of probability of error and bandwidth efficiency, signal space diagram and spectra of the
+above modulation schemes.
+
+UNIT IV
+SPREAD SPECTRUM AND MULTICARRIER CMMUNICATIONS: Pseudo-noise
+sequence, A notion of spread spectrum, direct sequence spread spectrum with coherent BPSK,
+signal space dimensionality & processing gain, probability of error, frequency hopped spread
+spectrum, CDMA, Principles of OFDM, OFDM Channel noise, Zero padded OFDM, Cyclic prefix
+redundancy in OFDM, OFDM equalization, DMT modulations, applications of OFDM and DMT.
+  : 46
+TEXTreference books
+1. Simon Haykins , Communication Systems , Wiley & Sons , 4th Edition.
+2. Taub & Schilling, Principles of Communication Systems, TMH.
+3. B.P. Lathi , Modern Digital and Analog Communications, Oxford.
+4. Proakis, Digital Communication .
+
+
+Course outcomes
+At the end of the course student will be able to… %1. Understand the principle of various pulse modulation techniques. 2. Analyze the baseband binary data transmission system. 3. Analyze the BER performance of digital modulation techniques. 4. Analyze matched filter, LMS algorithm and Eye pattern 5. Generate PN squences 6. Understand principles of OFDM
+  : 47
+  : DATA STRUCTURE
+
+
+COURSE CODE : ECPE50
+Course Title : Data Structure
+Number of Credits : 3
+Prerequisites : CSIR11, ECPE40
+
+Course Type : PE
+
+
+Course Learning Objectives
+To learn the efficient storage mechanisms of data for an easy access and implementation of various
+basic and advanced data structures. Also, understand the various techniques for representation of
+the data in the real world with the concepts of protection and management of data.
+
+Course Content
+UNIT I
+INTRODUCTION: Understanding pointers, usage of pointers, arithmetic on pointers, memory
+allocation, memory management functions and operators, debugging pointers dangling pointers,
+memory leaks, etc. The Concept of data type, definition and brief description of various data
+structures, data structures versus data types, operations on data structures, algorithm complexity,
+Big O notation.
+
+UNIT II
+LINKED LIST, STACKS AND QUEUES: Linear and multi-dimensional arrays and their
+representation, operations on arrays, sparse matrices and their storage. Linear linked list,
+operations on linear linked list, doubly linked list, operations on doubly linked list, application of
+linked lists. Sequential and linked representations, operations on stacks, application of stacks such
+as parenthesis checker, evaluation of postfix expressions, conversion from infix to postfix
+representation, implementing recursive functions. Sequential representation of queue, linear
+queue, circular queue, operations on linear and circular queue, linked representation of a queue
+and operations on it, deque, priority queue, applications of queues.
+
+UNIT III
+TREE AND HEAP: Basic terminology, sequential and linked representations of trees, traversing
+a binary tree using recursive and non-recursive procedures, inserting a node, deleting a node, brief
+  : 48
+introduction to threaded binary trees, AVL trees and B-trees. Representing a heap in memory,
+operations on heaps, application of heap in implementing priority queue and heap sort algorithm.
+UNIT IV
+GRAPHS, SORTING AND SEARCHING: Basic terminology of Graphs, representation of
+graphs (adjacency matrix, adjacency list), traversal of a graph (breadth-first search and depth-first
+search), and applications of graphs. Comparing direct address tables with hash tables, hash
+functions, concept of collision and its resolution using open addressing and separate chaining,
+double hashing, rehashing. Searching an element using linear search and binary search techniques,
+Sorting arrays using bubble sort, selection sort, insertion sort, quick sort, merge sort, heap sort,
+shell sort and radix sort, complexities of searching & sorting algorithms.
+
+Reference Books:
+1. Sartaj Sahni, Data Structures, Algorithms and Applications in C++, Tata McGraw Hill.
+2. Tenenbaum, Augenstein, & Langsam, Data Structures using C and C++, Prentice Hall of India.
+3. R. S. Salaria, Data Structures & Algorithms Using C++, Khanna Book Publishing Co. (P) Ltd.
+4. Seymour Lipschutz, Data Structures, Schaum's Outline Series, Tata McGraw Hill
+5. Kruse, Data Structures & Program Design, Prentice Hall of India.
+6. R. S. Salaria, Test Your Skills in Data Structures Course outcomes
+At the end of the course student will be able to…
+1. Understand the efficient storage mechanisms of data for an easy access.
+2. Design and implementation of various basic and advanced data structures.
+3. Comprehend various techniques for representation of the data in the real world.
+4. Develop application using data structures.
+5. Understand the concept of protection and management of data.
+6. Implement various techniques for efficient storage and access of data.
+  : 49
+  : COMPUTER NETWORKS
+
+
+COURSE CODE : ECPE51
+Course Title : Computer Networks
+Number of Credits : 3
+Prerequisites : None
+
+Course Type : PE
+
+Course Learning Objectives:
+The objective of this course is to provide an understanding of theoretical aspects of computer
+networks, including the protocols involved in the exchange of information between
+communicating devices.
+
+UNIT I
+Computer Network Topologies, Network Hardware, Network Software, OSI Model and TCP/IP
+protocol stack, ATM, Data communication fundamentals, Wired physical layer, Wireless physical
+layer, Physical layer based on telephone line.
+
+UNIT II
+Data Link layer design issues, Error detection & correction, Elementary Data Link protocols,
+Sliding Window Protocols, Example Data Link Protocols, Aloha Protocols, Wired MAC layer,
+IEEE 802.2: Logical Link control, Wireless MAC layer.
+
+UNIT III
+Network layer services, Datagram and Virtual circuit services, Routing algorithms, Congestion
+control algorithms, Internetworking, Transport layer services, Elements of transport protocols, The
+Internet transport protocols: UDP & TCP.
+
+UNIT IV
+Domain Name System, World Wide Web and HTTP, Electronic mail system, File Transfer
+protocol, Network security, Cryptography.
+
+Reference Books:
+1. Tanenbaum A.S, “Computer Networks”, Pearson, 4th ed., 2003.
+2. Forouzan B.A, “Data Communications and Networking”, Tata McGraw Hill, 4th ed. 2006.
+3. Stallings W, “Data and Computer Communications”, PHI, 9th ed., 2011.
+4. Kurose & Ross K. W., “Computer Networking: A Top-Down Approach featuring the Internet”, Pearson, 5th edition, 2010.
+  : 50
+Course outcomes:
+At the end of the course, the student will be able to:
+1. Understand the computer network hardware and software.
+2. Compare the OSI and TCP/IP protocol stacks.
+3. Examine the protocols operating at different layers of network architecture.
+4. Categorize the services offered by all layers of network’s protocol stack.
+5. Assess the cryptographic techniques.
+6. Identify the sources of network security threats.
+  : 51
+  : NEURO-FUZZY SYSTEMS
+
+
+COURSE CODE : ECPE52
+Course Title : Neuro-Fuzzy Systems
+Number of Credits : 3
+Prerequisites : ECPC12
+
+Course Type : PE
+
+
+Course Learning Objectives
+To learn about neural network structures and learning strategies; understand the concept of fuzzy
+systems and design them for practical applications.
+Course Content UNIT I INTRODUCTION TO NEURAL NETWORKS: Introduction: The Human Brain and Biological Neuron, Artificial Neuron Models, Types of Neuron Activation Function, ANN Architectures Characteristics of ANN, Mc Culloch-Pitts Model, Historical Developments, Potential Applications of ANN. UNIT II ESSENTIALS OF ARTIFICIAL NEURAL NETWORKS: Classification Taxonomy of ANN – Connectivity, Learning Strategy (Supervised, Unsupervised, Reinforcement), Learning Rules. Back Propagation Algorithm Feed Forward Neural Networks: Single Layer and Multilayer. Radial Basis function networks(RBFN), Self-organizing feature map. UNIT III INTRODUCTION TO FUZZY SYSTEMS: Introduction: Fuzzy and Neurofuzzy system and their merits. Introduction to Architecture of a fuzzy system. Fuzzzification Rule Base, Inference engine, Defuzzification. Fuzzy Mathematics: Fuzzy sets & operation of fuzzy sets. Properties of fuzzy sets. Fuzzy relations. Fuzzy graphs & Fuzzy Arithmetic. UNIT IV ARCHITECTURE & DESIGN ISSUES: Fuzzification. Fuzzy Rule based Models. Implication process, Defuzzification Techniques. Fuzzy Logic in Control Applications: Selection of Design Methodology, Technical Design objectives, Mamdani & Sugeno – Takagi Architectures. Adaptive Neuro Fuzzy Interference Systems (ANFIS), Functional equivalence between RBFN and FIS
+  : 52
+Reference Books: %1. Simon Haykin, “Neural Networks- A comprehensive foundation”, Pearson Education, 2001. 2. Jang, Sun, Mizutani, “ Neuro- Fuzzy and soft computing”, Pearson, 1997. 3. KLIR & YAUN : Fuzzy Sets and Fuzzy Logic, Prentice Hall of India 4. T.J.Ross,” Fuzzy Logic with Engineering Applications”, McGraw Hill.
+
+Course outcomes
+At the end of the course student will be able to: %1. Understand the basic principles of neural networks 2. Apply the supervised and unsupervised methods for training of neural networks 3. Use neural networks for practical applications 4. Understand the elements of fuzzy systems 5. Design fuzzy systems based on Mamdani and Sugeno-Takagi models 6. Use the concept of adaptive neuro fuzzy systems (ANFIS) for practical applications
+  : 53
+  : ANALOG AND MIXED SIGNAL DESIGN
+
+
+COURSE CODE : ECPE53
+Course Title : Analog and Mixed Signal Design
+Number of Credits : 3
+Prerequisites : ECPC34, ECPC40
+
+Course Type : PE
+
+
+Course Learning Objectives
+To familiarize students with the importance mixed signal circuit designing and develop the
+understanding of ADC and DAC architectures.
+
+
+Course Content
+UNIT I
+Analog and discrete-time signal processing, Analog integrated continuous time and discrete-time
+(switched-capacitor) filters.
+
+UNIT II
+Basics of Analog to digital converters (ADC). Basics of Digital to analog converters (DAC).
+Successive approximation ADCs. Dual slope ADCs.
+
+UNIT III
+High-speed ADCs (e.g. flash ADC, pipeline ADC and related architectures). High-resolution
+ADCs (e.g. delta-sigma converters). DACs.
+
+UNIT IV
+Mixed-Signal layout. Interconnects. Phase locked loops. Delay locked loops.
+
+
+Reference Books %1. CMOS mixed-signal circuit design by R. Jacob BakerWiley India, IEEE press, reprint 2008. 2. CMOS circuit design, layout and simulation by R. Jacob BakerRevised second edition, IEEE press, 2008. 3. Design of analog CMOS integrated circuits by BehadRazaviMcGraw-Hill, 2003.
+
+  : 54
+Course outcomes
+At the end of the course student will be able to: %1. Understand analog and discrete-time signal processing for circuit design. 2.   Understand the basics of ADC. 3.   Understand the different DAC designing techniques. 4.   Understand the main design issues involved in DAC and ADC design. 5.   Design High-speed and high resolution ADCs/DACs. 6.   Understand mixed-signal layout styles.
+  : 55
+  : EMBEDDED SYSTEM DESIGN
+
+
+COURSE CODE : ECPE54
+Course Title : Embedded System Design
+Number of Credits : 3
+Prerequisites : ECPC42, ECLR42
+
+Course Type : PE
+
+
+Course Learning Objectives
+To familiarize the students with the basic design concepts for designing an embedded systems and
+design the embedded system solution to the problem.
+
+
+Course Content
+UNIT I
+AN INTRODUCTION TO EMBEDDED SYSTEMS: An Embedded System, Processor in the
+System, Other Hardware Units, and Software Embedded into a System, Exemplary Embedded
+Systems, Embedded System – On- Chip (SOC) and in VLSI Circuit.
+Processor and Memory Organization: Structural Units in a Processor, Processor Selection for an
+Embedded System, Memory Devices, Memory Selection for an Embedded Systems, Allocation of
+Memory to Program Cache and Memory Management Links, Segments and Blocks and Memory
+Map of a System, DMA, Interfacing Processors, Memories and Input Output Devices.
+
+UNIT II
+DEVICES AND BUSES FOR DEVICE NETWORKS: I/O Devices, Timer and Counting
+Devices, Serial Communication Using the “I2C” (Inter IC) CAN (controller area network),
+Profibus Foundation Field Bus and Advanced I/O Buses Between the Network Multiple Devices.
+Host Systems or Computer Parallel Communication between the Networked I/O Multiple Devices
+using the ISA, PCI, PCI-X and Advanced Buses.
+
+UNIT III
+DEVICE DRIVERS AND INTERRUPTS SERVICING MECHANICS: Device Drivers,
+Parallel Port and Serial Prot Device Drives in a System, Device Drovers for Internal Programmable
+Timing Devices, Interrupt Servicing Mechanism.
+  : 56
+UNIT IV
+HARDWARE-SOFTWARE CO-DESIGN IN AN EMBEDDED SYSTEM: Embedded
+System Project Management Embedded System Design and Co-Design issues in System
+Development Process.
+Design Cycle in the Development Phase for an Embedded System: Use of Target Systems, Use of
+Software Tools for Development of an Embedded System, Use of Scopes and Logic Analysis for
+System, Hardware Tests, Issues in Embedded System Design.
+
+Reference Books %1. Raj Kamal, “Embedded Systems: Architecture, Programming and Design”, TMH. 2. David Simon, “An Embedded Software Primer”, Pearson Education.
+
+Course outcomes
+At the end of the course student will be able to… %1. Define a real life problem in terms of technical specification of relevant embedded
+  : system. %2. Understand the processor and memory organization. 3. Learn different types of I/O Devices, timer and counting devices. 4. Understand the interrupts servicing mechanics. 5. Design the embedded system as per the specification. 6. Understand the importance of Hardware-Software Co-design in an Embedded System.
+  : 57
+  : ELECTRONICS ENGINEERING
+
+
+COURSE CODE : ECOE-50
+Course Title : Electronics Engineering
+Number of Credits : 3
+Prerequisites : None
+
+Course Type : OE
+
+
+Course Learning Objectives
+To familiarize the students with Boolean algebra, combinational and sequential circuits, counters,
+various types of semiconductors and their applications and analyse 555 Timer, PLL, various IC
+applications. The students should be able to define amplifier and oscillators and various types of
+transistors.
+
+
+Course Content
+UNIT I
+
+DIGITAL ELECTRONICS: Introduction to Boolean Algebra, Electronic Implementation of
+Boolean Operations, Gates-Functional Block Approach, Combinational and Sequential Circuits,
+Storage elements-Flip Flops-A Functional block approach, Counters: Ripple, Up/down and
+decade, shift registers.
+
+UNIT II
+
+SEMICONDUCTOR DEVICES AND APPLICATIONS: Elemental and compound
+semiconductors, Energy band model, Intrinsic and Extrinsic semiconductors, pn junctions diode,
+V-I characteristic of an ideal diode, Zener and Avalanche Breakdown, Half Wave, Full Wave and
+Bridge rectifier, varactor, BJT, JFET, MOSFET, Op-amp.
+
+UNIT III
+
+AMPLIFIERS AND OSCILLATORS: Power amplifiers, JFET and MOSFET parameters, JFET
+and MOSFET amplifiers: Feedback in amplifiers:Basic feedback topologies .Oscillators :
+Barkhausen criterion, Sinusoidal Oscillators, the phase-shift oscillator, resonant circuit
+Oscillators, a general form of oscillator circuit, the Wein -bridge oscillator, crystal oscillators
+
+UNIT IV
+
+LINEAR IC APPLICATIONS: Universal active filter, switched capacitor filter, 555 timer, PLL.
+
+
+  : 58
+Reference Books:
+1. B.G.Streetman, Semiconductor Devices, PHI, 6th Edition, 2013.
+2. R. Tocci & N. Widmer, Digital Systems, Pearson, 12th Edition, 2016.
+3. R.A. Gayakwaed, OP-amps and Linear Integrated circuits, PHI, 4th Edition, 2004.
+4. Sedra & Smith, Microelectronic Circuits, Oxford University Press, 4th Edition, 2003.
+
+
+Course outcomes
+
+At the end of the course, student will be able to;
+1. Acquire the knowledge of basics of Digital Electronics.
+2. Distinguish various types of semiconductors and their applications.
+3. Understand various types of transistors.
+4. Elaborate various linear IC applications.
+5. Understand various types of amplifiers and feedback in amplifiers.
+6. Design and analyze various types of oscillators.
+  : 59
+SIGNAL ANALYSIS 
+COURSE CODE : ECOE51
+Course Title : Signal Analysis
+Number of Credits : 3
+Prerequisites : MAIR11
+
+Course Type : OE
+
+Course Learning Objectives
+To understand continuous time and discrete time signals, Fourier series
+representation of CTPS, Continuous Time Fourier Transform, Z- transform and its
+properties.
+
+Course Content
+
+UNIT I
+
+INTRODUCTION TO SIGNAL: Continuous time and discrete time signals,
+Even and Odd signals. Elementary continuous time and discrete time signals.
+Classification of signals, causality; stability, time invariance, linearity. Continuous
+time and Discrete time LTI Systems, convolution Integral and convolution sum,
+Properties of LTI Systems. Differential and Difference equations.
+
+UNIT II
+
+FOURIER SERIES AND LTI SYSTEMS: Fourier series representation of
+CTPS, convergence of FS. Properties of CTFS. Fourier series representation of
+DTPS. Properties of DTFS. Fourier series and LTI Systems. Filtering, RC low
+pass and high pass filters. Recursive and Non recursive Discrete Time filters.
+Sampling theorem, sampling of continuous time signal with impulse train. Aliasing,
+Discrete-time processing of continuous time signals.
+
+UNIT III
+
+FOURIER TRANSFORM: Continuous Time Fourier Transform (CTFT),
+Convergence of FT. Properties of CTFT. Discrete time Fourier Transform (DTFT).
+Properties of DTFT. Systems characterized by Linear constant co-efficient
+differential equation and difference equations. Magnitude and phase spectrum,
+group delay.
+  : 60
+UNIT IV
+
+Z-TRANSFORM: Z- transform and its properties, poles and zeros, Inversion of
+Z-transform, One sided Z-transform and solution of differential equations. Analysis
+of LTI systems in Z-domain, causality, stability, Relationship between Z-transform
+and Fourier transform. Frequency selective filters; all pass filters, minimum-phase,
+maximum-phase and mixed-phase systems.
+
+Reference Books:
+1. Oppenheim Willsky and Nawab, Signals and Systems, PHI. 3rd Ed.
+2. Simon Haykin , Signals and Systems, John Wiley, 3rd Ed.
+3. Taub and Schilling, Principles of Communication Systems, TMH, 3rd Ed.. Course outcomes
+1 Utilize the concepts of Discrete time and Continuous time signals and their
+transformations.
+2 Analyze the Fourier series of periodic and Fourier transform of non-periodic
+discrete time and continuous time signals.
+3 Understand and apply the concepts of bandwidth and filters and Bode plots.
+4 Apply the Laplace transform for various applications.
+5 Represent continuous time and discrete time systems in the Frequency domain
+using Fourier analysis tools like CTFS, CTFT, DTFS and DTFT.
+6 Understand and apply the concept of Z transform.
+  : 61
+B.Tech 7th Semester
+  : 62
+  : MICROWAVE THEORY AND DEVICES
+
+
+COURSE CODE : ECPC70
+Course Title : Microwave Theory and Devices
+Number of Credits : 4
+Prerequisites : ECPC31, ECPC51
+
+Course Type : PC
+
+
+Course Learning Objectives
+To acquaint graduating students with fundamentals, analytical methods, design principles and
+applications of active and passive microwave components and devices
+
+Course Content
+UNIT I
+MICROWAVE TUBES- Operating principle of multicavity and reflex klystron, magnetron, and
+traveling wave tube
+Waveguides- TE, TM, TEM modes solutions of Maxwell’s equations, Rectangular and circular
+waveguides, microstrip and strip lines.
+
+UNIT II
+Scattering matrix representation of microwave networks, Directional couplers, E-plane, H-Plane
+and Magic Tee, Coupling of waveguides- probes, loops and apertures
+
+UNIT III
+RESONATORS- basic principle, loaded, unloaded, and external Q, open and shorted TEM lines,
+microstrip and dielectric resonators.
+Ferrites- permeability tensor, plane wave propagation in ferrites, Faraday rotation, circulators,
+isolators and phase shifters
+
+UNIT IV
+MICROWAVE DEVICES- Gunn diode, IMPATT, PIN, Schottky barrier, microwave BJT,
+MESFET, HEMT, Applications
+
+
+Text/Reference Books:
+1. Liao S.Y. “Microwave Devices and Circuits”, Prentice Hall of India
+2. Collin R E Foundations of microwave engineering, 2nd Ed, John Wiley & Sons, 2000
+3. Pozar D M “Microwave Engineering”, 3rd Ed John Wiley and Sons, 2004
+  : 63
+Course outcomes
+At the end of the course student will be able to
+1. Understand the working of basic microwave components
+2. Understand the theory of microwave amplifiers and oscillators
+3. Design waveguides and resonators
+4. Understand the basic working principle of ferrites in microwave devices
+5. Proficient in analysis and characterization of microwave networks
+6. Understand the use of microwave devices in real time scenarios
+  : 64
+  : MIRCOELECTRONICS AND VLSI DESIGN
+
+
+COURSE CODE : ECPC71
+Course Title : Microelectronics and VLSI Design
+Number of Credits : 4
+Prerequisites : ECPC34, ECPC40
+
+Course Type : PC
+
+
+Course Learning Objectives
+Enable the students to understand fabrication process sequence of silicon semiconductor devices
+and IC’s.
+
+Course Content
+UNIT I
+Crystal Growth: MGS, EGS, Czochralspi crystal Puller, Silicon shaping, Wafer Preparation.
+Epitaxy, Oxidation, LithoGraphy and Reactive Plasma Etching
+
+UNIT II
+Di-electric and Poly-Silicon Film Deposition, Diffusion, Ion Implantation and Metallization and
+Metallization Problems
+
+UNIT III
+Assembly & Packaging, Isolation Techniques, Bipolar IC fabrication Process Sequence. N-MOS
+IC fabrication Process Sequence.
+
+UNIT IV
+MOS Design Process : Stick Diagram & Design rules. Physical design of IC’s Layout rules &
+circuit abstractor, Cell generation, Layout environments, Layout methodologies,
+
+Reference Books: %1. S.M.Sze, VLSI Technology, Mc Graw Hill. 2.     S.K.Ghandhi, VLSI Fabrication Principles. 3.     Pucknell DA &Eshraghian K, Basic VLSI Design, PHI.
+  : 65
+Course outcomes
+At the end of the course student will be able to
+1. Understand the Crystal Growth techniques in silicon device.
+2. Understand Oxidation and LithoGraphy techniques in silicon device.
+3. Understand the deposition and implantation techniques used for device fabrication.
+4. Understand the key issues with Assembly & Packaging of silicon based ICs.
+5. Understand the IC fabrication Process Sequence.
+6. Understand physical design of IC’s: Layout rules, environments and methodologies.
+  : 66
+  : WIRELESS AND MOBILE COMMUNICATION
+
+COURSE CODE : ECPC72
+Course Title : Wireless and Mobile Communication
+Number of Credits : 4
+Prerequisites : ECPC35, ECPC53
+
+Course Type : PC
+
+Course Learning Objectives
+Course will provide an in depth understanding of the principles, performance and evolution of
+wireless communication standards (2G to 5G)
+
+Course Content
+
+UNIT I
+
+Cellular Communications : Introduction to Cellular Communications, Frequency reuse, Multiple
+Access, Technologies, Cellular Processes, GSM (SS7), Call Setup, Handover etc., Teletraffic
+Theory
+
+Wireless Communications and Diversity: Fast Fading Wireless Channel Modeling,
+Rayleigh/Ricean Fading Channels, BER Performance in Fading Channels, Diversity modeling for
+Wireless Communications, BER Performance Improvement with diversity, Types of Diversity –
+Frequency, Time, Space.
+
+UNIT II
+
+Broadband Wireless Channel Modeling : WSSUS Channel Modeling, RMS Delay Spread,
+Doppler Fading, Jakes Model, Autocorrelation, Jakes Spectrum, Impact of Doppler Fading
+CDMA : Introduction to CDMA, Walsh codes, Variable tree OVSF, PN Sequences, Multipath
+diversity, RAKE Receiver, CDMA Receiver Synchronization.
+
+UNIT III
+
+OFDM: Introduction to OFDM, Multicarrier Modulation and Cyclic Prefix, Channel model and
+SNR performance, OFDM Issues – PAPR, Frequency and Timing Offset Issues
+MIMO : Introduction to MIMO, MIMO Channel Capacity, SVD and Eigenmodes of the MIMO
+Channel, MIMO Spatial Multiplexing – BLAST, MIMO Diversity – Alamouti, OSTBC, MRT,
+MIMO-OFDM.
+  : 67
+UNIT IV
+
+UWB (Ultrawide Band) : UWB Definition and Features, UWB Wireless Channels, UWB Data
+Modulation, Uniform Pulse Train, BitError Rate Performance of UWB
+Evolution of Wireless Standards (2G-5G): GPRS, WCDMA, LTE/ WiMAX, Cognitive Radios,
+IEEE wireless standards.
+
+Reference Books:
+1. Andrea Goldsmith, Wireless Communications: Cambridge University Press.
+2. Theodore Rappaport, Wireless Communications: Principles and Practice, Prentice Hall.
+3. Ezio Biglieri, MIMO Wireless Communications –– Cambridge University Press.
+4. Aditya K. Jagannatham, Principles of Modern Wireless Communication Systems: McGraw- Hill Education
+
+Course outcomes
+At the end of the course student will be able to…
+1. synthesis and analyze wireless and mobile cellular communication systems over different stochastic fading channels
+2. understand advanced multiple access techniques
+3. learn diversity reception techniques
+4. explore the need of MIMO/ OFDM as the pivoting technology for capacity maximization
+5. analyse the evolution of different wireless standards (2G to 5G stds.) and the need
+6. contribute and meet the dynamic requirements of telecom companies.
+  : 68
+  : WIRELESS SENSOR NETWORKS
+
+
+COURSE CODE : ECPE70
+Course Title : Wireless Sensor Networks
+Number of Credits : 3
+Prerequisites : ECPE51
+
+Course Type : PE
+
+Course Learning Objectives
+WSNs provide an excellent information infrastructure for the remote monitoring, tracking and
+control of indoor and outdoor environments, industrial plants, and other applications.
+
+Course Content
+
+UNIT I
+
+Introduction : Wireless Communication Technologies,Wireless Sensor Networks , Application
+Areas of WSNs, Principle of Wireless Sensor Networks, IEEE 802.15.4 Standard and Wireless
+Sensor Network, Constructing WSNs with IEEE 802.15.4, ZigBee and Wireless Sensor Networks,
+6LoWPAN and Wireless Sensor Network, Grand challenges in the design and Implementation of
+WSNs
+Hardware Design for WSNs: General Wireless Sensor Node Architecture, System-on-Chip and,
+Component-based Design, Design Guidelines, Design Case, Energy Scavenging, Embedded
+Software Design for WSNs, Cross layer design Issues.
+
+UNIT II
+
+Routing Technologies in WSNs: Classification of Routing Protocols in WSNs, AODV Routing
+Protocols Cluster-Tree Routing Protocol, Energy-Aware Routing Protocols
+Optimization of Sink Node Positioning: Challenges of Sink Node Positioning, Categories of
+Sink Node Positioning Approaches, Optimizing Locations of Static Multiple Sink Nodes, Solving
+Optimal Location Problems, Mobile Target Localization and Tracking.
+
+UNIT III
+
+Interference of WSNs with IEEE 802.11b Systems: Wireless Coexistence and Interference in
+WSNs, Performance Metrics, Coexistence Mechanism of IEEE 802.15.4, Mitigating Interference
+Between IEEE 802.11b, Advanced Mitigation Strategies, Empirical Study
+  : 69
+Sensor Data Fusion and Event Detection: Sensor Data Fusion Techniques, Event Detection,
+Generic Sensor State Model, Sensor State Model Based Event Detection, Sensor Network as a
+Database, WSN Security.
+
+
+UNIT IV
+
+Hybrid RFID/WSNs for Logistics Management: RFID Tag and reader, Hybrid RFID/Sensor
+Network, Generic Hybrid RFID/Sensor Network Architecture , Possible Use in Humanitarian
+Logistics Management, Wireless Nano-sensor Networks
+Internet of Things: Challenges and Features of the IoT, Connecting WSNs with the Internet, IoT
+Service-Oriented Architecture, Possible Implementations in Emergency Response.
+ZigBee Smart Home Automation Systems: Analysis of the Existing Home Automation Systems,
+Home Automation System Architecture, Building Fire Safety Protection, System Implementation, Reference Books:
+1. Yang, Shuang-Hua, “Wireless sensor networks: Principle design and applications, Springer
+2. Ian F. Akyildiz, Mehmet Can Vuran, Wireless Sensor Networks, Wiley
+
+
+Course outcomes
+At the end of the course student will be able to…… %1. synthesis and analyze wireless sensor network architecture 2. understand the software and hardware designing aspects of WSN 3. learn advanced routing techniques for WSN 4. solve optimal location problems for sink nodes 5. study different data fusion techniques 6. implement IoT through WSN backbone for numerous applications
+  : 70
+  : DIGITAL IMAGE PROCESSING (ECPE71)
+
+COURSE CODE : ECPE71
+Course Title : Digital Image Processing
+Number of Credits : 3
+Prerequisites : ECPC32
+
+Course Type : PE
+
+
+Course Learning Objectives:
+The student should be able to understand and apply the various concepts of Digital Image
+Processing.
+
+Course Content:
+
+
+UNIT I
+
+DIGITAL IMAGE FUNDAMENTALS: Elements of digital image processing systems,
+Elements of visual perception, brightness, contrast, hue, saturation, mach band effect, Color image
+fundamentals - RGB, HSI models, Image sampling, Quantization, dither, Two-dimensional
+mathematical preliminaries, 2D transforms - DFT, DCT, KLT, SVD, etc.
+
+UNIT II
+
+IMAGE ENHANCEMENT: Histogram equalization and specification techniques, Noise
+distributions, Spatial averaging, Directional Smoothing, Median, Geometric mean, Harmonic
+mean, Contraharmonic mean filters, Homomorphic filtering, Color image processing: basic
+concepts.
+
+UNIT III
+
+IMAGE RESTORATION: Degradation model, Unconstrained restoration - Lagrange multiplier
+and Constrained restoration, Inverse filtering-removal of blur caused by uniform linear motion,
+Wiener filtering, Geometric transformations-spatial transformations, Image reconstruction from
+projection, Image compression; Huffman coding, Golomb coding, Arithmetic coding, LZW
+coding, etc, Digital watermarking.
+
+UNIT IV
+
+IMAGE SEGMENTATION: Edge detection, Edge linking via Hough transform, Thresholding,
+Region based segmentation ,Region growing , Region splitting and Merging ,
+morphological image processing: basic concepts, Image representation and description.
+
+  : 71
+Reference Books:
+1. Rafael C. Gonzalez, Richard E. Woods, Digital Image Processing, Pearson, 3rd Edition, 2009.
+2. Anil K. Jain, Fundamentals of Digital Image Processing, Pearson 2002.
+3. Kenneth R. Castleman, Digital Image Processing, Pearson, 2006.
+4. Rafael C. Gonzalez, Richard E. Woods, Steven Eddins, 'Digital Image Processing using
+MATLAB', Pearson Education, Inc., %2000. 
+Course outcomes:
+At the end of the course student will be able to:
+1 Develop the understanding about digital image, HVS and its limitations.
+2 Understand and apply the filtering.
+3 Apply the ‘Restoration Operation’.
+4 Understand and apply 2D mathematics to analyze the processing.
+5 Apply the vector approach to handle the color images.
+6 Apply the ‘Morphological operation’ for shape detection.
+  : 72
+  : MULTICARRIER COMMUNICATION
+
+
+COURSE CODE : ECPE72
+Course Title : Multicarrier Communication
+Number of Credits : 3
+Prerequisites : ECPC12, ECPC52 and ECPC53
+
+Course Type : PE
+
+
+Course Learning Objectives
+To understand various techniques used in multicarrier communication and analyse the
+performance of multicarrier communication systems under different conditions.
+
+Course Content
+UNIT I
+
+BASICS OF MULTICARRIER COMMUNICATION: Orthogonal Frequency-Division
+Multiplexing, Frequency-Domain Spread Multicarrier CDMA, Single-Carrier Frequency-Division
+Multiple Access, Orthogonal Multicarrier DS-CDMA, Multitone DS-CDMA, Generalized
+Multicarrier DS-CDMA, Time-Hopping Multicarrier CDMA, Time-Frequency-Domain Spread
+Multicarrier DS-CDMA
+
+UNIT II
+PERFORMANCE ANALYSIS OVER GAUSSIAN CHANNELS: Performance of Orthogonal
+Frequency-Division Multiplexing over Gaussian channels, Performance of Single-User
+Frequency-Domain Spread Multicarrier CDMA, Performance of Single-User Multicarrier DS-
+CDMA, Single-User Time-Hopping Multicarrier CDMA and Time-Frequency-Domain Spread
+Multicarrier DS-CDMA Supporting Multiusers.
+
+UNIT III
+PERFORMANCE ANALYSIS OVER FADING CHANNELS: Frequency-Selective Fading in
+Multicarrier Systems, Inter-symbol Interference Suppression: Cyclic-Prefixing and Zero-Padding,
+Generation of Fading Statistics for Multicarrier Signals, Performance of OFDM, Single-User
+Frequency-Domain Spread Multicarrier CDMA, Single-User Multicarrier DS-CDMA and Time-
+Hopping Multicarrier CDMA systems over fading channels.
+
+UNIT IV
+MULTIUSER DETECTION: Multiuser Detection in Frequency-Domain Spread Multicarrier
+CDMA and Multicarrier DS-CDMA, Multiuser Detection in Time-Frequency-Domain Spread
+Multicarrier DS-CDMA, Representation of Discrete Time-Hopping Multicarrier CDMA Signals,
+
+  : 73
+Noncoherent Single-User Multiuser Detection, Optimum Posterior Noncoherent Multiuser
+Detection, Principles of Transmitter Preprocessing.
+
+Reference Books: %1. Multicarrier Communications, Lie-Liang Yang,Wiley, 2009. 2. Multi-Carrier Communication Systems with examples in MATLAB, A new perspective: Emad S. Hassan, CRC Press, 2015. 3. Multi-Carrier Digital Communications, Theory and Applications of OFDM, Ahmad R S Bahai, 2nd Ed, Springer, 2004. 4. Multicarrier Technologies for Wireless Communication, Carl R. Nassar, B. Natarajan, Z. Wu D. Wiegandt, and S. A. Zekavat, Springer, 2002.
+
+Course outcomes
+At the end of the course student will be able to; %1. Understand the basics of OFDM and multicarrier CDMA systems. 2. Analyse the performance of multicarrier systems over Gaussian channels. 3. Analyse the performance of multicarrier systems over fading channels. 4. Apply the techniques of interference suppression in multicarrier communication systems 5. Understand the coherent multiuser detection techniques used in multicarrier
+  : communication systems %6. Understand the noncoherent multiuser detection techniques used in multicarrier
+  : communication systems
+  : 74
+  : SATELLITE AND RADAR ENGG.
+
+
+COURSE CODE : ECPE73
+Course Title : Satellite and Radar Engg.
+Number of Credits : 3
+Prerequisites : ECPC31, ECLR52 and ECPC51
+
+Course Type : PE
+
+Course Learning Objectives
+  : To provide good understanding of radar systems, radar signal processing, radar target
+tracking, electronic navigational systems, and Satellite Communication systems.
+
+Course Content
+
+UNIT I
+
+INTRODUCTION: Introduction to radar, radar block diagram and operation, radar frequencies,
+Applications of radar, Prediction of range performance, minimum detectable signal, receiver noise,
+probability density function, SNR, Integration of radar pulses, radar cross-section of targets, PRF
+and range ambiguities, transmitter power, system losses.
+
+UNIT II
+
+RADAR SYSTEMS AND TRAKING: Doppler Effect, CW radar, FM CW radar, multiple
+frequency CW radar. MTI radar, delay line canceller, range gated MTI radar, blind speeds,
+staggered PRF, limitations to the performance of MTI radar, non-coherent MTI radar.
+Tracking radar: sequential lobing, conical scan, monopulse: amplitude comparison and phase
+comparison methods, Radar antennas. Radar displays. Duplexer.
+
+UNIT III
+
+INTRODUCTION TO SATELLITE AND THEIR ORBITS: Orbital aspects of Satellite
+Communication: Introduction to geo-synchronous and geo-stationary satellites, Kepler’s laws,
+locating the satellite with respect to the earth, sub-satellite point, look angles, mechanics of
+launching a synchronous satellite, Orbital effects, Indian scenario in communication satellites.
+
+UNIT IV
+
+TELEMETRY, TRACKING, CONTROL AND LINK DESIGN: Satellite sub-systems:
+Attitude and Orbit control systems, Telemetry, Tracking and command control system, Power
+
+  : 75
+supply system, Space craft antennas, and multiple access techniques, comparison of FDMA,
+TDMA, and CDMA.
+Introduction to satellite link design, basic transmission theory, system noise temperature and G/T
+ratio, design of down link and uplink, design of satellite links for specified C/N, satellite data
+communication protocols.
+
+REFERENCE reference books:
+1. Merril. I. Skolnik, Introduction to Radar Systems, MGraw Hill, 2nd Edition, 1981.
+2. Mark A. Richards, James A. Scheer and William A. Holm, Principles of Modern Radar: Basic Principles, Yes Dee Publishing Pvt. Ltd., India, 2012.
+3. Dennis Roddy, Satellite Communications, MGraw Hill, Millan, 4th Edition, 2013.
+4. Byron Edde, Radar: Principles, Technology, Applications, Pearson, 2008.
+5. D. C. Agarwal, Satellite Communications, Khanna Publications, Delhi.
+
+Course outcomes
+At the end of the course student will be able to: %1. Explain radar and radar range equation. 2. Explain the principles, concepts and operation of radar system. 3. Understand CW, FMCW, MTI and tracking radar systems. 4. Explain the principles, concepts and operation of satellite communication. 5. Explain the concepts and operation of telemetry and command control for satellite communication. 6. Describe the concepts of signal propagation affects, link design, rain fading and link availability and perform interference calculations
+  : 76
+  : ADVANCED DSP
+
+
+COURSE CODE : ECPE74
+Course Title : Advanced DSP
+Number of Credits : 3
+Prerequisites : ECPC12, ECPC52, ECLR51
+
+Course Type : PE
+
+Course Learning Objectives
+To understand Adaptive Filter, Multirate DSP, Optimum Linear Filters, Cepstrum Analysis and
+Homomorphic Deconvolution.
+
+Course Content
+
+UNIT I
+
+ADAPTIVE FILTER: System identification of system modeling, adaptive channel equalization,
+echo cancellation in data transmission over telephone channels, suppression of narrowband
+interference in a wide band signal, adaptive line enhancer, adaptive noise cancelling, minimum
+mean square error criterion, the LMS algorithm, related stochastic gradient algorithm, properties
+of LMS algorithm, RLS algorithm, the LDU factorization and square root algorithm, fast RLS
+algorithm.
+
+UNIT II
+
+MULTIRATE DSP: Decimation and interpolation, digital filter banks, interconnection of
+building blocks, noble identities, polyphase representation, polyphase implementation of uniform
+DFT filter banks, fractional decimation, PR systems, multirate implementation, applications of
+multirate systems, PR QMF bank, two channel and m-channel QMF banks and polyphase
+representations, tree structured filter banks.
+
+UNIT III
+
+OPTIMUM LINEAR FILTERS: Innovation representation of stationary random process,
+forward and backward linear prediction, optimum reflection coefficients for lattice forward and
+backward predictors. Levinson Durbin algorithm, AR lattice and ARMA lattice ladder filters, FIR
+and IIR wiener filter for filtering and prediction.
+
+UNIT IV
+
+CEPSTRUM ANALYSIS AND HOMOMORPHIC DECONVOLUTION: Complex cepstrum
+and its properties, complex and real cepstrum for exponential, periodic, minimum phase and
+maximum phase sequences, computation of complex cepstrum, homomorphic systems
+deconvolution, homomorphic deconvolution, complex cepstrum of simple multipath model and
+speech model.
+
+  : 77
+Reference Books:
+1. J.G. Proakis and D.G. Manolakis: Digital Signal Processing, 3rd Ed.
+2. A.V. Oppenheim and R.W. Schafer: Discrete Time Signal Processing, 3rd Ed.
+
+Course outcomes
+1     Compute the use of FFT and DFT.
+2     Design and implement FIR and IIR filters
+3     Apply the concepts of multirate digital signal processing
+4     Understand and apply concepts of adaptive filters in various applications
+5     Understand the complex cepstrum of simple multipath model and speech model.
+6     Understand and apply the knowledge of Levinson Durbin algorithm, AR lattice and ARMA lattice ladder filters for prediction.
+  : 78
+  : ANTENNA DESIGN
+
+
+COURSE CODE : ECPE75
+Course Title : Antenna Design
+Number of Credits : 3
+Prerequisites : ECPC51
+
+Course Type : PE
+
+
+Course Learning Objectives
+The objectives of this course are to develop student’s analytical skills and understanding by
+introducing to them design concepts of a variety of antenna structures of practical interest. Through
+this course they will learn about fundamental principles of Micro-Strip antennas and will also be
+able to perform various antenna measurements
+
+Course Content
+
+UNIT I
+
+ANTENNA ARRAYS: Linear, Planar and Circular, Design procedure , Phased Arrays Designs ,
+Frequency-Scanning Arrays , Adaptive Arrays and Smart Antennas.
+Long-wire Antennas , V-Antennas , Rhombic Antennas , Cylindrical Antennas , Self and Mutual
+Impedances, Traveling Wave antennas, Fractal Antennas, Aperture Antennas Design
+Considerations.
+
+UNIT II
+
+MICRO-STRIP ANTENNAS: Salient features of Micro-Strip antennas , Advantages and
+Limitations , Rectangular micro-strip antennas , Circular Patch , Feed methods , Characteristics ,
+Impact of different parameters on characteristics , Methods of analysis and tuning , Techniques for
+increasing bandwidth and size reduction , Design and analysis of Micro-Strip Arrays,
+Applications. CAD model.
+
+UNIT III
+
+ANTENNAS FOR SPECIAL APPLICATIONS: Electrically Small Antennas , Ground-Plane
+Antennas   , Omnidirectional Antennas, Antenna Design considerations for Satellite
+Communication , Receiving versus Transmitting , Bandwidth , Antennas for terrestrial Mobile
+Communication Systems , Base station Antennas , Mobile Station Antennas.
+  : 79
+UNIT – IV
+
+ANTENNA MEASUREMENTS: Introduction, Basic concept, Reciprocity , Near field and Far
+field ,Sources of Error , Measurement ranges , Instrumentation , Measurement of different
+Antennas parameters , Directional pattern , Gain , Phase , Polarization , Impedance , Efficiency ,
+Current distribution.
+
+
+Reference Books:
+1. John D. Kraus Antennas & wave Propagation 4th Ed.2010, Mc Graw Hill
+2. C. A Balanis Antennas Theory Analysis & Design 3rd Ed ,2005, Wiley & Sons
+3. Jordan & Balmain Electromagnetic Waves and Radiation systems 2nd Ed ,2016 Pearson
+4. K.D Prasad Antennas & Wave Propagation 3rd Ed ,1996 satya Prakashan , N.Delhi
+
+
+Course Outcomes
+At the end of the course student will be able to…
+1. Explore and understand advance antenna concepts.
+2. Understand the significance of Micro-Strip antennas , methods of analysis and configurations.
+3. Analyze and design antennas arrays.
+4. Implement antenna designs for special applications.
+5. Acquire knowledge about effects of mutual coupling on antennas, applications and numerical techniques.
+6. Conduct all types of antenna measurements.
+  : 80
+  : OPTICAL COMMUNICATIONS
+
+COURSE CODE : ECPE76
+
+Course Title : Optical Communication
+
+Number of Credits : 3
+
+Prerequisites : PHIR 11, ECPC35, ECPC53
+
+Course Type : PE
+
+
+Course Learning Objectives
+
+To provide good understanding of optical fiber and wireless optical communication systems.
+
+Course Content
+
+UNIT-I
+BASICS OF OPTICAL FIBRE: Overview of optical fibers: basic optical laws and definitions,
+classifications of optical fibers. Modes in optical fibers, Single mode and multimode fibers. Fiber
+splices, connectors, and Couplers. Attenuation in optical fibers: Absorption losses, Scattering
+losses, Mode coupling loss, Leaky modes, and fiber bend losses. Dispersion in optical fibers:
+Effect of dispersion on pulse transmission and transmission rate, Material dispersion, Wave guide
+dispersion, Intermodal dispersion, Total dispersion.
+
+UNIT-II
+OPTICAL SOURCES AND DETECTORS: Light emitting diodes: Introduction, LED power and
+efficiency. LED structures- SLED, ELED, and SLD. LED optical output power, output spectrum
+and modulation bandwidth.
+LASERs: LASER action in semiconductor LASERs, Semiconductor LASERs for optical
+communications. Optical Receivers: Principle of photodiodes, Photo detector responsivity, rise
+time and bandwidth. p – n photodiode, p-i-n photodiode, and MSM and Avalanche photo detectors.
+Photo detector noise, Avalanche multiplication noise. Comparison of photo detectors.
+
+UNIT-III
+INTRODUCTION TO OPTICAL WIRELESS COMMUNICAION SYSTEMS: Wireless access
+schemes, brief history of OWC, OWC/Radio comparison, OWC application areas, OWC
+challenges. Indoor and outdoor OWC channels. Modulation techniques for OWC: Analog Intensity
+modulation, Pulse position modulation, Pulse interval modulation, Dual header PIM, Multilevel
+DPIM, Subcarrier Intensity modulation, optical polarization shift keying and orthogonal frequency
+division multiplexing (OFDM).
+
+  : 81
+UNIT-IV
+OWC LINK PERFORMANCE ANALYSIS: Indoor OWC link performance analysis, FSO link
+performance under the effect of atmospheric turbulence, outdoor OWC link with diversity
+techniques.
+
+REFERENCE reference books:
+1. John M. Senior, “Optical Fiber Communications: Principles and Practice”, Pearson Education.
+2. G. P. Agrawal, “Fiber Optical Communication Systems,” Wiley Publication.
+3. Steve Hranilovic, “Wireless Optical Communication Systems,” Springer
+4. Z. Ghassemlooy, W. P., S. Rajbhandari “Optical Wireless Communications,” CRC Presss, 2013.
+
+Course outcomes
+
+
+On successful completion of this course, students will be able to: %1. Explain basics of optical fibre. 2. Explain the principles, concepts and operation optical communication. 3. Understand light propagation and different losses in optical fibre. 4. Explain the concepts and operation of different optical sources. 5. Explain the principles, concepts and operation of optical wireless communication. 6. Analyze OWC link design and effect of atmosphere on it.
+  : 82
+  : BIOMEDICAL ELECTRONICS
+
+
+COURSE CODE : ECPE 77
+Course Title : Biomedical Electronics
+Number of Credits : 3
+Prerequisites : ECPC33, ECPC30
+  : ECPC42, ECPC52 and ECPE71
+
+Course Type : PE
+
+course learning objectives:
+Course provides basic concepts of Bioelectric Potentials , Electrodes, general properties of
+transducers and sensors, Bioelectric Signal Acquisitions and Safety Measures. It will also
+familiarize the process of Bioelectric Signal Acquisitions of parameters such as displacement,
+motion, pressure and temperature measurement and biopotential electrodes. At the end it provides
+the understanding of microcontroller based biomedical applications of the above transducers and
+sensors.
+
+Course Content
+
+
+UNIT I
+INTRODUCTION: Classification of Biomedical Instrumentation, Sources of Biomedical
+Signals, Components of the Biomedical Instrumentation system, Design Factors of
+Biomedical Instrumentation, Desirable Characteristics of Biomedical Instrumentation
+Systems.
+
+UNIT II
+TRANSDUCERS FOR BIOMEDICAL APPLICATIONS: Active Transducer, Passive
+Transducer, Sensors, Displacement Sensor, Strain Gauges, inductive Transducers, Capacitive
+Transducers, Piezoelectric Transducers, Temperature Measurements.
+
+UNIT III
+BIOELECTRIC POTENTIALS & ELECTRODES: Resting& action Potential, Propagation of
+action Potential, Bioelectric Potential, Various Bioelectric Potentials and Their Waveforms
+Electrode Theory, Biopotential Electrodes. Microelectrodes, Skin Surface Electrodes
+Needle Electrodes, Biochemical Transducer
+
+UNIT IV
+BIOELECTRIC SIGNAL ACQUISITIONS, BIOTELEMETRY & ELECTRICAL SAFETY
+MEASURES: Bio-signal Amplifiers, Microprocessor/Microcontroller based Biomedical
+Instrumentation, Applications of . Computer in Biomedical Instrumentation, Physiological
+
+  : 83
+Parameters Adaptable to Biotelemetry, Elements of Biotelemetry System, Requirements
+for a Biotelemetry System, Implantable Biotelemetry Units, Electrical Safety of Medical
+Equipment and Patients.
+
+REFERENCE reference books:
+1. Biomedical Instrumentation and Measurements By Ananda Natarajan, R. (Prentice Hall Inc)
+2. Design of Micro- controller based Medical Instrumentation By J Tompkins & J G Webster (Prentice Hall Inc)
+3. L A Geddes & L E Baker :- Principles of Applied Biomedical Instrumentation (John Wiley & sons, NY)
+4. J H Milsum:- Biological Control Systems(Mc Graw Hill, NY)
+5. R Plonsey:- Bioelectric Phenomena (McGraw-Hill Co, NY)
+6. Biomedical Sensors-Fundamentals and applications by Harry N. Nortan (Plennum Press)
+7. Hand Book of Biomedical Instrumentation By R.S. Khandpur (Tata McGraw Hill)
+
+Course Outcomes After completion of the course the student will be competent to: %1. Clearly understand of generalized medical instrumentation system. 2. Clearly understand Electrodes, Bioelectric Potentials and their waveforms. 3. Clearly understand static and dynamic characteristics of transducers and sensors. 4. Acquire practical knowledge of various transducers and sensors and use them in suitable microcontroller based biomedical applications. 5. Handle Bioelectric Signal Acquisitions & Biotelemetry processes. 6. Ensure the Electrical Safety measures of Medical Equipment and Patients.
+  : 84
+  : NANO ELECTRONICS
+
+
+COURSE CODE : ECPE78
+Course Title : Nano Electronics
+Number of Credits : 3
+Prerequisites : PHIR11, PHIR13, ECIR11
+
+Course Type : PE Course Learning Objectives
+The major goals and objectives are to provide the students with knowledge and understanding of
+nano-electronics and their applications in nanotechnology
+Course Content
+UNIT I
+Survey of modern electronics and trends towards nanoelectronics. Discussion of the International
+Technology Roadmap characteristics: Need for new concepts in electronics. From
+microelectronics towards biomolecule electronics. Introduction to particles and waves, Classical
+particles, Classical waves, Wave-particle duality.
+
+UNIT II
+Introduction to Wave mechanics, Schrodinger wave equation, Wave mechanics of particles, Atoms
+and atomic orbitals. Introduction to Materials for nanoelectronics, Semiconductors, Crystal
+lattices: Bonding in crystals, Electron energy bands, Semiconductor heterostructures, Lattice-
+matched and pseudomorphicheterostructures, Inorganic-organic heterostructures, Carbon
+nanomaterials: nanotubes and fullerenes.
+
+UNIT III
+Introduction to Growth, fabrication, and measurement techniques for nanostructures, Bulk crystal
+and heterostructure growth, Nanolithography, etching, and other means for fabrication of
+nanostructures and nanodevices, Techniques for characterization of nanostructures, Spontaneous
+formation and ordering of nanostructures, Clusters and nanocrystals, Methods of nanotube growth,
+Chemical and biological methods for nanoscale fabrication, Fabrication of nano-electromechanical
+systems, Electron transport in semiconductors and nanostructures, Time and length scales of the
+electrons in solids, Statistics of the electrons in solids and nanostructures, Density of states of
+electrons in nanostructures, Electron transport in nanostructures.
+  : 85
+UNIT IV
+Electrons in traditional low-dimensional structures, Electrons in quantum wells, Electrons in
+quantum wires, Electrons in quantum dots, Closing remarks, Nanostructure devices, Resonant-
+tunneling diodes, Field-effect transistors, Single-electron-transfer devices, Potential-effect
+transistors, Light-emitting diodes and lasers, Nano-electromechanical system devices, Quantum-
+dot cellular automata.
+
+Reference Books: %1. C. P. Poole and F. J. Owens, Introduction to nanotechnology, John Wiley & Sons, 2003. 2. C. Dupas, P. Houdy, M. Lahmani Nanoscience: Nanotechnologies and Nanophysics,
+  : Springer, %2004. 3. Nanometer structures: theory, modeling, and simulation, Editor: AkhleshLakhtakia,
+  : ASME Press, %2004. 4. S. E. Lyshevski, Nano- and micro-electromechanical systems fundamentals of nano and
+  : microengineering, 2nd Edition, CRC Press, %2004. 5. http://idol.union.edu/~malekis/ESC24/ESC24MainPage/NanoMainPage.htm 6. http://mrsec.wisc.edu/edetc/index.html 7. www.nanohub.org (SupriyoDatta and Mark Ludstrom lectures)
+
+
+Course outcomes
+At the end of the course student will be able to
+1. Understand basic and advanced concepts of nano-electronic devices.
+2. Understand the energy band structures of semiconductors.
+3. Understand the wave mechanics of semiconductor and nano-materials.
+4. Understand various Materials in the field nanoelectronics.
+5. Understand the techniques for characterization of nanostructures.
+6. Understand sensors, transducers, and their applications in nanotechnology.
+  : 86
+  : DIGITAL IC DESIGN
+
+
+COURSE CODE : ECPE 79
+Course Title : Digital IC Design
+Number of Credits : 3
+Prerequisites : ECPC10
+  : ECPC30
+
+  : ECPC34
+Course Type : PE course learning objectives
+Course provides basic concepts of CMOS Inverter and its applications in the design of
+Combinational & Sequential Circuits, effects of Parasitics in circuit design, performance and
+power optimization in circuit design.
+
+Course Content
+
+
+UNIT I
+CMOS INVERTER: Static and Dynamic Behavior, Power, Energy and Energy Delay,
+Technology scaling and its impact.
+INTERCONNECTS: Interconnect parameters, wire models, wires.Effects of Interconnect
+Parasitics, AdvancedInterconnect techniques.
+
+UNIT II
+DESIGN       OF      CMOS        COMBINATIONAL              &    SEQUENTIAL           CIRCUITS:
+COMBINATIONAL CIRCUITS- Static and dynamic CMOSDesign, Speed and power dissipation
+in dynamic circuits, cascading of gates, designing logic for reduced supply voltages.
+SEQUENTIAL CIRCUITS- Static and dynamic latches andregisters, alternative register styles,
+pipelined sequential circuits, non-bistable sequential circuits.
+
+UNIT III
+TIMING ISSUES IN DIGITAL CIRCUITS: Timing classification, synchronous timingbasics,
+sources of skew and jitter, clock distribution techniques, Self-timed circuit design, synchronizers
+and arbiters, clock synchronization using PLL.
+
+UNIT IV
+DESIGN OF ALU: data paths, adder, multiplier, shifter, power andspeed trade-off in data path
+structures, power management.
+  : 87
+REFERENCE reference books: %1. N. Weste, K. Eshraghian and M. J. S. Smith, Principles of CMOS VLSI Design : ASystems Perspective, Second Edition (Expanded), AW/Pearson, 2001. 2. J. P. Uyemura, Introduction to VLSI Circuits and System, Wiley, 2002. 3. J. M. Rabaey, A. P. Chandrakasan and B. Nikolic, Digital Integrated Circuits : A Design Perspective, Second Edition, PH/Pearson, 2003. 4. S. M. Kang and Y. Leblebici, CMOS Digital Integrated Circuits : Analysis andDesign, Third Edition, MH, 2002. 5. R. J. Baker, H. W. Li and D. E. Boyce, CMOS Circuit Design, Layout andSimulation, PH, 1997.
+
+Course Outcomes
+After completion of the course the student will be competent to: %1. Clearly understand of CMOS Inverter design. 2. Clearly understand of CMOS based Combinational & Sequential Circuits 3. Acquire knowledge of Timing issues in Digital Circuits. 4. Acquire knowledge of various delays introduced by interconnects. 5. Design clock distribution network in complex digital circuits. 6. Design of ALU for different applications.
+  : 88
+  : CELLULAR MOBILE COMMUNICATION
+
+
+COURSE CODE : ECOE70
+Course Title : Cellular Mobile Communication
+Number of Credits : 3
+Prerequisites : ECPC35, ECPC32 and ECPC53
+
+Course Type : OE
+
+Course Learning Objectives
+To understand the cellular concept, small scale and large scale fading, diversity reception and
+different types of multiple access techniques
+
+Course Content
+
+UNIT I
+
+CELLULAR SYSTEM: Hexagonal geometry cell and concept of frequency reuse, Channel
+Assignment Strategies, Distance to frequency reuse ratio, Channel & co-channel interference
+reduction factor, S/I ratio consideration and calculation for Minimum Co-channel and adjacent
+interference, Handoff Strategies, Umbrella Cell Concept, Trunking and Grade of Service,
+Improving Coverage & Capacity in Cellular System-cell splitting, Cell Sectorization, Repeaters,
+Micro cell zone concept, Channel antenna system design considerations.
+
+UNIT II
+
+LARGE SCALE PATH LOSS: Free Space Propagation loss equation, Path-loss of NLOS and
+LOS systems, Reflection, Ray ground reflection model, Diffraction, Scattering, Link budget
+design, Max. Distance Coverage formula, Empirical formula for path loss, Indoor and outdoor
+propagation models.
+
+
+UNIT III
+
+SMALL SCALE FADING: Small scale multipath propagation, Impulse model for multipath
+channel, Delay spread, Feher’s delay spread, upper bound Small scale, Multipath measurement
+parameters of multipath channels, Types of small scale fading, Rayleigh and Rician distribution,
+Diversity techniques in brief.
+
+UNIT IV
+
+ACCESS TECHNIQUES: Introduction and comparisons of various multiple access strategies-
+TDMA, CDMA, FDMA, OFDM, CSMA and modulation schemes for wireless communication.
+  : 89
+Reference Books: %1. Theodore S. Rappaport, Wireless Communications Principles and Practice, 2nd Edition, Prentice Hall. 2. Kamilo Feher, Wireless Digital Communications, Modernization & Spread Spectrum Applications, Prentice Hall. 3. KavehPahlavan and Allen H. Levesque, Wireless Information Networks, John Wiley and Sons Inc.
+
+
+Course outcomes
+At the end of the course student will be able to …
+1. Apply and analyze the concepts of cellular system
+2. Understand the different techniques for capacity enhancement of a cellular system
+3. Compute path loss using various path loss models
+4. Understand and analyze small and large scale fading
+5. Compare the various multiple access techniques
+6. Understand the basics of propagation of radio signals
+  : 90
+  : INTRODUCTION TO COMMUNICATION ENGINEERING
+
+
+
+COURSE CODE : ECOE71
+Course Title : Introduction To Communication
+  : Engineering
+Number of Credits : 3
+Prerequisites : ECIR11
+
+Course Type : OE
+
+
+Course Learning Objectives
+ To familiarize the students with the evolution and basics of communication engineering and
+ their applications. The student should also be able to explain a transmission line, do transmission
+ line calculations using smith chart. The students should be able to name the basic elements of
+ optical fiber transmission link, describe fiber modes and different types of fibers and their
+ losses.
+
+Course Content
+
+UNIT I
+
+ANALOG COMMUNICATION: Basic constituents of Communication System, Amplitude
+modulation, modulation index, DSBSC modulation, SSB modulation, vestigial side band
+modulation, Angle modulation, frequency and phase modulation spectrum of FM Wave,
+modulation index and Band width of FM Signal, NBFM and WBFM, Transmitter and Receiver,
+Classification of radio transmitters, Classification of radio receivers, NOISE, Classification of
+noise, various sources of noise.
+
+UNIT II
+
+DIGITAL COMMUNICATION: Pulse Modulation, PAM, PPM, PCM, PWM, DM, Baseband
+Pulse transmission, Matched filter and its properties, average probability of symbol error in binary
+enclosed PCM receiver, Intersymbol interference, Digital pass band transmission, Gram Schmidt
+orthogonalization procedure, geometric Interpretation of signals, Hierarchy of digital modulation
+techniques, BPSK, DPSK, DEPSK, QPSK, systems; ASK, FSK, QASK, Many FSK, MSK, Spread
+spectrum modulation, Pseudonoise sequence, A notion of spread spectrum, direct sequence spread
+spectrum with coherent BPSK.
+  : 91
+UNIT III
+
+PROPAGATION OF RADIO WAVES AND WAVEGUIDES: Different modes of
+propagation, Ground waves, Space waves, Surface waves and Tropospheric waves, Ionosphere,
+Wave propagation in the ionosphere, Transmission line equations, graphical methods, Smith chart,
+Time domain and frequency domain analysis, TE, TM and TEM waves, TE and TM modes in
+rectangular and Circular wave guides.
+
+UNIT IV
+
+OPTICAL COMMUNICATION: Propagation within the fiber, Numerical aperture of fiber,
+diffraction, step index and graded index fiber, Modes of propagation in the fiber, Single mode and
+multi mode fibers, Losses in Optical Fiber, Rayleigh Scattering Losses, Absorption Losses, Leaky
+modes, mode coupling losses, Bending Losses, Combined Losses in the fiber.
+
+Reference Books: %1. E.C.Jordan and K.G.Balmain, Electromagnetic Waves and Radiating Systems, PHI, 2nd
+  : Edition, %2000.        %2. Simon Haykin, Communication Systems, John Wiley, 5th Edition, 2009.
+  : %3. John G. Proakis, Digital Communication, PHI, 4th Edition, 2003.
+  : %4. John Gowar, Optical Communication Systems, Prentice Hall, 2nd Edition, 1993.
+
+
+Course outcomes
+At the end of the course, student will be able to;
+1. Acquire knowledge about analog communication.
+2. Learn the basics of digital communication.
+3. Understand Pulse modulation and its types.
+4. Classify various types of radio transmitters and radio receivers.
+5. Tell various types of waves and their propagation.
+6. Acquire knowledge of fiber, its various modes and losses.
+  : 92
+  : VHDL
+
+
+COURSE CODE : ECOE72
+Course Title : VHDL
+Number of Credits : 3
+Prerequisites : ECPC34
+
+Course Type : OE
+
+
+Course Learning Objectives
+To enable the students to design digital circuits in VHDL.
+
+Course Content
+
+
+UNIT I
+
+INTRODUCTION: Introduction to VHDL, Hardware design construction.
+PROGRAMMABLE LOGIC DEVICES : Introduction to programmable logic device,
+Architectures, Characteristics of PLDs, CPLDs and FPGAs.
+BEHAVIORAL MODELING: Entity declaration, architecture body, process statement, variable
+assignment, signal assignment. Inertial and transport delays, Simulation deltas, Signal drivers.
+
+UNIT II
+
+DATA FLOW AND STRUCTURAL MODELLING: Concurrent signal assignment,
+sequential signal assignment, Multiple drivers, conditional signal assignment, selected signal
+assignment, block statements, concurrent assertion statement, component declaration,
+component instantiation.
+
+UNIT III
+
+GENERICS AND CONFIGURATIONS: Configurations. Generics in configuration. Generic
+value specification in architecture, block configurations, architecture configurations.
+SUBPROGRAMS AND PACKAGES: Subprograms – functions, procedures, declarations.
+Package declarations, package body, use clause, predefinal package standard. Design libraries,
+design file.
+  : 93
+UNIT IV
+
+ADVANCED TOPICS: Digital design using FSM, Generate Statements, Aliases, Qualified
+expressions, Type conversions, Guarded signals, User defined attributes, Predefined attributes.,
+VHDL synthesis. Reference Books: %1. D. Perry , VHDL: Programming by Example, McGraw-Hill Education; 4th Edition
+  : %2002. 2.      J. Bhasker, A.VHDL- Primer, Phi Learning, 3rd Edition, 2009. 3.      K. Skahil, VHDL for Programmable logic, Pearson Education India; 1st Edition 2006.
+
+Course outcomes
+At the end of the course student will be able to
+1. Understand various programmable logic devices and EDA tools.
+2. Understand the behavioral modeling.
+3. Understand the data flow and structural modelling.
+4. Understand modeling styles in VHDL and to design digital systems.
+5. Understand generics and configurations VHDL.
+6. Understand advanced topics in VHDL.
+  : 94
+B.Tech 8th Semester
+  : 95
+  : DATA SECURITY
+
+
+COURSE CODE : ECPC80
+Course Title : Data Security
+Number of Credits : 3
+Prerequisites : MAIR11, MAIR12
+
+Course Type : PC
+
+
+Course Learning Objectives
+The objective of this course is to familiarize the students with cryptography and its applications.
+Topics will include historical cryptography, encryption, authentication, public key cryptography
+and key distribution.
+
+Course Content
+
+UNIT I
+FUNDAMENTAL OF DATA SECURITY: Introduction to security, classification of security
+attacks, security mechanisms and services, Historical Ciphers, Shannon's perfect security,
+Symmetric key encryption: stream ciphers: RC4, Block ciphers: DES, 3DES, AES, IDEA, Modes
+of operation, Symmetric-Key Distribution, Public Key Encryption Algorithms: RSA, elliptic curve
+cryptography, Primality Testing and Factoring, Public key distribution, Public Key Infrastructure.
+Attacks on symmetric key and asymmetric key ciphers.
+UNIT II
+AUTHENTICATION: Attacks on Public Key Schemes, Signature Scheme, MAC and Hash
+Functions, properties and requirements of digital signatures, MAC and HASH, Kerberos, Entity
+authentication: weak Authentication, Challenge-Response identification (strong authentication),
+and Zero knowledge proofs.
+UNIT III
+KEY DISTRIBUTION: Key management, D-H key exchange algorithm, attacks on D-H
+algorithm, Key predistribution, MIT key agreement protocol, Key Agreement using self-certifying
+keys.
+UNIT IV
+PRACTICAL APPLICATIONS: E-MAIL security PKI, CA. X509 certificates, SSL/TLS,
+HTTPS, IPV6 and IPSEC, Proxies and Firewalls, Wireless network security.
+
+
+  : 96
+TEXT reference books:
+1. Douglas Stinson, "Cryptography Theory and Practice", 2nd Edition, Chapman & Hall/CRC.
+2. B. A. Forouzan, "Cryptography & Network Security", Tata Mc Graw Hill.
+3. W. Stallings, "Cryptography and Network Security", Pearson Education.
+
+Course outcomes
+At the end of the course, the students will be able to:
+1. Understand the concept and need of cryptography.
+2. Implement and design symmetric and asymmetric key algorithms.
+3. Implement various key distribution and authentication techniques.
+4. Comprehend and analyze cryptographic primitives in real time applications.
+5. Understand and analyze various network security protocols.
+6. Analyze security challenges in wireless networks and its preventive measures.
+  : 97
+  : Computer Crime Investigation and Forensics
+
+
+COURSE CODE : ECPE80
+Course Title : Computer Crime Investigation and
+  : Forensics
+Number of Credits : 3
+Prerequisites : CSIR11, ECPE51
+
+Course Type : PE
+
+Course Learning Objectives
+To understand computer crimes and why computer forensics is an integral part of information
+security.
+
+Course Content
+
+UNIT I
+Auctions and Trading Mechanisms, safe exchange, payment mechanisms and protocols,
+Searching hyperlinked structures, data mining, copyright protection and security, web software
+infrastructure, personalization and tracking, integration of catalogues and other trading
+information.
+
+UNIT II
+Industrial espionage and cyber-terrorism, principles of criminal law, computer forensic
+investigation, elements of personnel security and investigations, principles of risk and security
+management, conspiracy in computer crime, and computer fraud investigation.
+
+UNIT III
+Forensics Overview-Computer Forensics Fundamentals, Benefits of Computer Forensics,
+Computer Crimes, Computer Forensics Evidence and the Courts, Legal Concerns and Privacy
+Issues. Forensics Process-Forensics Investigation Process, Securing the Evidence and Crime
+Scene, Chain of Custody, Law Enforcement Methodologies
+
+UNIT IV
+Forensics Evidence-Evidence Sources, Evidence Duplication, Preservation, Handling, and
+Security, Forensics Soundness, Order of Volatility of Evidence, Collection of Evidence on a Live
+System, Court Admissibility of Volatile Evidence, Forensics Readiness-Benefits of Forensic
+Readiness, Preparing an Organization for Forensics Investigations, Managing an Investigation,
+Internet Forensics-Reconstructing Past Internet Activities and Events, E-mail Analysis, Messenger
+Analysis: AOL, Yahoo, MSN, and Chat
+  : 98
+Reference Books:
+1. Sherri Davidoff, Jonathan Ham. Network Forensics: Tracking Hackers Through Cyberspace, Prentice Hall, 2012.
+2. Clint P Garrison. Digital Forensics for Network, Internet, and Cloud Computing: A Forensic Evidence Guide for Moving Targets and Data, Syngress, 2010. ISBN 1597495387, 9781597495387.
+3. Vacca, J, Computer Forensics, Computer Crime Scene Investigation, 2nd Ed, Charles River Media, 2005.
+4. Gallegos F, Computer Forensics: An Overview, Volume 6, 2005, Located at: Computer Forensics: An Overview (last visited Dec. 26, 2006)
+
+Course outcomes
+At the end of the course student will be able to…
+1. Understand computer forensics, prepare for computer investigations
+2. Understand enforcement agency investigations and corporate investigations
+3. Maintain professional conduct
+4. Understand how to identify needs for computer forensics tools
+5. Evaluate the requirements and expectations for computer forensics tools
+6. Understand how computer forensics hardware and software tools are integrated and validated
+  : 99
+  : PATTERN RECOGNITION AND MACHINE LEARNING
+
+
+COURSE CODE : ECPE81
+Course Title : Pattern recognition and machine
+  : learning
+Number of Credits : 3
+Prerequisites : ECPC32
+
+Course Type : PE
+
+
+Course Learning Objectives:
+The student should be able to understand and apply the various concepts of Pattern recognition
+and machine learning.
+
+Course Content:
+UNIT I
+
+Introduction
+Polynomial Curve Fitting, Probability Theory Model Selection, The Curse of Dimensionality,
+Decision Theory, Information Theory,Probability Distributions,Binary Variables, Multinomial
+Variables, The Gaussian Distribution ,The Exponential Family, Nonparametric Methods,Linear
+Models for Regression, Linear Basis Function Models, The Bias-Variance Decomposition,
+Bayesian Linear Regression, Bayesian Model Comparison, The Evidence Approximation,
+Limitations of Fixed Basis Functions, Linear Models for Classification, Discriminant Functions,
+Probabilistic Generative Models, Probabilistic Discriminative Models The Laplace
+Approximation, Bayesian Logistic Regression.
+
+UNIT II
+
+Feed-forward Network Functions
+Network Training, Error Backpropagation, The Hessian Matrix, Regularization in Neural
+Networks, Mixture Density Networks, Bayesian Neural Networks Dual Representations,
+Constructing Kernels, Radial Basis Function Networks, Gaussian Processes,Sparse Kernel
+Machines, Maximum Margin Classifiers, Relevance Vector Machines.
+
+UNIT III
+
+Graphical Models
+Bayesian Networks, Conditional Independence, Markov Random Fields, Inference in Graphical
+Models, Mixture Models and EM, K-means Clustering, Mixtures of Gaussians, An Alternative
+View of EM, The EM Algorithm in General, Approximate Inference, Variational Inference,
+
+  : 100
+Variational Mixture of Gaussians, Variational Linear Regression, Exponential Family
+Distributions, Local Variational Methods, Variational Logistic Regression, Expectation
+Propagation,Sampling Methods, Basic Sampling Algorithms, Markov Chain Monte Carlo, Gibbs
+Sampling, Slice Sampling, The Hybrid Monte Carlo Algorithm, Estimating the Partition Function.
+
+UNIT IV
+
+Continuous Latent Variables
+Principal Component Analysis, Probabilistic PCA, Kernel PCA, Nonlinear Latent Variable
+Models, Sequential Data , Markov Models, Hidden Markov Models, Linear Dynamical Systems,
+Combining Models, Bayesian Model Averaging, Committees, Boosting, Tree-based Models,
+Conditional Mixture Models.
+
+Reference Books: %1. C. M. Bishop, Pattern Recognition and machine learning, springer, 2006. 2. Tom M. Mitchell, Machine Learning, Mc Graw-Hill, 1997.
+
+Course outcomes:
+At the end of the course student will be able to:
+1. Develop the understanding about fundamentals of pattern recognition and machine
+  : learning.
+2. Apply supervised and unsupervised learning techniques.
+3. Understand and apply SVM.
+4. Understand different graphical models.
+5. Understand different clustering techniques.
+6. Apply continuous latent variable and its mixture models.
+NETWORK SECURITY 
+COURSE CODE : ECPE82 
+Course Title                          :               Network Security 
+Number of Credits                                              3 
+Prerequisites           :                    ECPE-51
+Course Type : PE
+
+Course Learning Objectives
+
+Extensive, detailed and critical understanding of the concepts, issues, principles and theories of network
+security
+
+Course Content
+
+UNIT I
+FUNDAMENTAL OF DATA SECURITY: Introduction to security, classification of security
+attacks, security mechanisms and services, Historical Ciphers, Shannon's perfect security,
+Symmetric key encryption: stream ciphers: RC4, Block ciphers: DES, 3DES, AES, IDEA, Modes
+of operation, Symmetric-Key Distribution, Public Key Encryption Algorithms: RSA, elliptic curve
+cryptography, Primality Testing and Factoring, Public key distribution, Public Key Infrastructure.
+Attacks on symmetric key and asymmetric key ciphers.
+UNIT II
+AUTHENTICATION: Attacks on Public Key Schemes, Signature Scheme, MAC and Hash
+Functions, properties and requirements of digital signatures, MAC and HASH, Kerberos, Entity
+authentication: weak Authentication, Challenge-Response identification (strong authentication),
+and Zero knowledge proofs.
+UNIT III
+KEY DISTRIBUTION: Key management, D-H key exchange algorithm, attacks on D-H
+algorithm, Key predistribution, MIT key agreement protocol, Key Agreement using self-certifying
+keys.
+UNIT IV
+PRACTICAL APPLICATIONS: E-MAIL security PKI, CA. X509 certificates, SSL/TLS,
+HTTPS, IPV6 and IPSEC, Proxies and Firewalls, Wireless network security.
+  : 102
+Reference Books:
+1. “Network Security Essentials (Applications and Standards)”, by William Stallings, Pearson Education.
+2. “Hack Proofing your Network” by Ryan Russell, Dan Kaminsky, Rain Forest Puppy, Joe Grand, David Ahmad,Hal Flynn Ido Dubrawsky, Steve W.Manzuik and Ryan Permeh, Wiley Dremtech
+3. “Fundamentals of Network Security” by Eric Maiwald, Dreamtech Press.
+4. “Network Security–Private Communication in a Public World” by Charlie Kaufman, Radia Perlman and Mike Speciner, Pearson/PHI.
+5. “Cryptography and Network Security”, Third edition, Stallings, PHI/Pearson.
+6. “Network Security: The Complete reference”, Robert Bragg, Mark Rhodes, TMH.
+
+Course outcomes
+At the end of the course student will be able to
+1. Identify network security threats and their preventive measures.
+2. Analyze and design encryption and authentication mechanisms.
+3. Analyze and design network security protocols.
+4. Analyze security challenges in wireless networks and their preventive measures.
+5. Analyze and design network security protocols including TLS, SSL etc.
+6. Determine firewall requirements, and configure a firewall.
+  : 103
+  : INTERNET OF THINGS
+
+
+COURSE CODE : ECPE83
+Course Title : Internet of Things
+Number of Credits : 3
+Prerequisites : ECPC42, ECPC53, ECPC72
+
+Course Type : PE
+
+
+Course Learning Objectives
+To acquaint graduating students with fundamentals of IoT paradigm and enable
+them to design IoT solutions for connected world
+
+Unit I
+
+INTRODUCTION: General Internet and Internet of Things, Web of Things, IoT
+Paradigm, elements of an IoT ecosystem, technology and business drivers,
+convergence of technologies, Typical IoT applications
+
+Unit II
+
+CONNECTIVITY AND NETWORKS: Wireless technologies, RFID, edge
+connectivity, communication protocols, sensors
+Architecture: Reference model,Design principle, standards
+
+Unit III
+PRIVACY AND SECURITY ISSUES: security, privacy, and trust in IoT data
+platforms, data aggregation
+
+Unit IV
+ANALYTICS AND CASE STUDIES: sensor body area networks, IoT in home,
+Cities, and healthcare
+
+Text/Reference Books:
+1. J. Biron, J, Follett, Foundational Elements of an IoT Solution, O’Reilly Media, 2016
+2. Francis deCosta: Rethinking the Internet of Things: A scalable approach to connecting Everything”, 1st Ed. Apress Publications, 2013
+3. Cuno Pfister, “Getting started with the Internet of Things”, O’Reilly Media, 2011, ISBN:978-4493-9357-1
+
+
+  : 104
+4. Olivier Hersent, David Boswarthick, Omar Elloumi, “The Internet of Things: Key Applications and Protocols”, Wiley Publications 2nd Ed, Jan. 2012
+
+Course outcomes
+At the end of the course student will be able to:
+1. Understand the concept of IoT
+2. Understand the application area of IoT
+3. Able to understand the revolution of Internet in mobile devices, cloud and sensor networks
+4. Understand constraints and opportunities of wireless and mobile networks for IoT
+5. IoT architecture and design constraints
+6. Able to analyse the requirements of connected world and design solutions in IoT paradigm
+  : 105
+  : ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEMS
+
+
+COURSE CODE : ECPE84
+Course Title : Artificial Intelligence and Expert
+  : Systems
+Number of Credits : 3
+Prerequisites : MAIR11, ECPC32
+
+Course Type : PE
+
+Course Learning Objectives
+  : To present the concepts of intelligent agents, searching, knowledge and reasoning,
+planning, learning neural networks and expert systems.
+
+Course Content
+
+UNIT I
+
+INTRODUCTION: Introduction to AI: Intelligent agents, Perception, Natural language
+processing, Problem Solving agents, Searching for solutions: Uniformed search strategies,
+Informed search strategies.
+
+UNIT 1I
+
+
+KNOWLEDGE AND REASONING: Adversarial search, Optimal and imperfect decisions,
+Alpha, Beta pruning, Logical agents: Propositional logic, First order logic, Syntax and semantics,
+Using first order logic, Inference in first order logic. Uncertainty, acting under uncertainty, Basic
+probability notation, Axioms of probability, Baye’s rule, Probabilistic reasoning, Making simple
+decisions.
+
+UNIT 1II
+
+
+PLANNING AND LEARNING: Planning: Planning problem, Partial order planning, Planning
+and acting in non-deterministic domains. Learning: Learning decision trees, Knowledge in
+learning, Neural networks, Reinforcement learning, Passive and active.
+  : 106
+UNIT 1V
+
+EXPERT SYSTEMS: Definition, Features of an expert system, Organization, Characteristics,
+Prospector, Knowledge Representation in expert systems. Expert system tools, MYCIN.
+
+Reference Books:
+1. Stuart Russel and Peter Norvig, Artificial Intelligence A Modern Approach, Pearson
+Education, 2nd Edition, %2003. %2. Donald A. Waterman, A Guide to Expert Systems, Pearson Education.
+3. George F. Luger, “Artificial Intelligence – Structures and Strategies for Complex Problem
+Solving, Pearson Education, 4th Edition, %2002. %4. Elain Rich and Kevin Knight, “Artificial Intelligence, Tata McGraw Hill, 2nd Edition, 1995.
+5. W. Patterson, “Introduction to Artificial Intelligence and Expert Systems, Prentice Hall of
+India, %2003. 
+Course outcomes
+At the end of the course student will be able to: %1. Explain Artificial Intelligence for solving problems. 2. Understand axioms of probability. 3. Explain the principles, concepts and operation certain and uncertain knowledge and reasoning. 4. Explain the principles, concepts of planning and learning for neural networks. 5. Explain the concepts expert systems. 6. Use expert system tools like MYCIN, EMYCIN.
+  : 107
+  : COMPUTER VISION
+
+
+COURSE CODE : ECPE85
+Course Title : Computer Vision
+Number of Credits : 3
+Prerequisites : ECPE71
+
+Course Type : PE
+
+
+Course Learning Objectives:
+The student should be able to understand and apply the various concepts of Computer Vision.
+Course Content:
+UNIT I
+
+INTRODUCTION: What is computer vision? A brief history , Image formation Geometric
+primitives and transformations, Photometric image formation, The digital camera, Point operators,
+Linear ﬁltering, More neighborhood operators, Fourier transforms, Pyramids and wavelets
+,Geometric transformations, Global optimization.
+
+UNIT II
+
+ FEATURE DETECTION AND MATCHING: Points and patches, Edges, Lines, Segmentation
+: Active contours , Split and merge, Mean shift and mode ﬁnding, Normalized cuts ,Graph cuts
+and energy-based methods, Feature-based-alignment: 2D and 3D feature-based alignment ,Pose
+estimation, Geometric intrinsic calibration, Structure from motion: Triangulation, Two-frame
+structure from motion, Factorization ,Bundle adjustment ,Constrained structure and motion.
+
+UNIT –III
+
+DENSE MOTION ESTIMATION: Translational alignment, Parametric motion, Spline-based
+motion , Optical ﬂow , Layered motion, Image stitching; Motion models, Global alignment,
+Compositing, Computational photography: Photometric calibration, High dynamic range imaging,
+Super-resolution and blur removal, Image matting and compositing, Texture analysis and
+synthesis.
+
+UNIT –IV
+
+STEREO CORRESPONDENCE: Epipolar geometry, Sparse correspondence, Dense
+correspondence, Local methods, Global optimization, Multi-view stereo, 3D-reconstruction:
+Shape from X, Active range ﬁnding, Surface representations, Point-based representations,
+Volumetric representations, Model-based reconstruction, Recovering texture maps and albedos,
+
+  : 108
+Image-based rendering: View interpolation, Layered depth images, Light ﬁelds and Lumigraphs,
+Environment mattes, Video-based rendering, Recognition: Object detection, Face recognition,
+Instance recognition, Category recognition, Context and scene understanding, Recognition
+databases and test sets.
+
+Reference Books:
+  : %1. Richard Szeliski, Computer Vision: Algorithms and Applications, Springer-Verlag
+  : London Limited, %2011.         %2. Simon J. D. Prince, Computer Vision: Models, learning and Interface, Cambridge
+  : University Press, NY, USA, %2012. 
+
+Course outcomes:
+At the end of the course student will be able to:
+1 Develop the understanding about fundamentals of computer vision.
+2 Find features of the given image.
+3 Apply matching techniques.
+4 Understand different motion techniques.
+5 Apply super-resolution on images.
+6 Construct 3D images from various image segments.
+  : 109
+  : MEMORY DESIGN
+
+
+COURSE CODE : ECPE86
+Course Title : Memory Design
+Number of Credits : 3
+Prerequisites : ECPC10
+  : ECPC30
+
+  : ECPC34
+Course Type : PE
+
+
+course learning objectives
+Course provides basic concepts of different types of Memories. It provides understanding of
+transistor based design of Memory cell and associated circuits like sense amplifiers and decoders.
+Electromagnetic compatibility of memory devices when working in high speed systems will be
+introduced.
+
+Course Content:
+UNIT I
+
+INTRODUCTION TO SEMICONDUCTOR MEMORIES AND TECHNOLOGIES:
+Internal organization of memory chips, basic memory elements, memory types, trends in SRAM
+and DRAM design, Non-volatile memory technologies. Radiation Effects-radiation types effecting
+the memory, radiation hardening techniques (EMC).
+
+UNIT II
+
+SRAM AND DRAM CELL DESIGN: basic structures-NMOS static/dynamic circuits,CMOS
+circuits, Cell design, Design parameters, read write operations.
+
+UNIT III
+
+SENSE AMPLIFIERS: Voltage and Current Sense Amplifiers; Reference VoltageGeneration;
+Voltage Converters.
+
+UNIT IV
+CACHE MEMORY DESIGN: Concept of locality in space and time, interfacing
+cachememory with CPU, associated problems-parasitic capacitances, critical timing paths,
+  : 110
+REFERENCE reference books:
+1. K. Itoh, VLSI Memory Chip Design, Springer-Verlag, 2001.
+2. B. Keeth and R. J. Baker, DRAM Circuit Design : A Tutorial, Wiley/IEEE, 2000.
+3. B. Prince, Semiconductor Memories : A Handbook of Design, Manufacture andApplication, Second Edition, Wiley, 1996.
+4. A. K. Sharma, Advanced Semiconductor Memories : Architectures, Designs andApplications, Wiley/IEEE, 2002.
+5. T. P. Haraszti, CMOS Memory Circuits, Kluwer, 2000.
+6. J. Handy, The Cache Memory Book, Second Edition, AP, 1998.
+
+Course Outcomes
+After the completion of course, the student will be competent to: %1. Clearly understand different types of memory devices. 2. Clearly understand transistor based design of Memory cell and associated circuits like
+  : sense amplifiers and decoders. %3. Clearly understand the concept of cache memory. 4. Clearly understand the concept of EMC of memory devices. 5. Acquire practical knowledge of memory devices used in industry. 6. Design and analyze memory cells for optimize performance.
+  : 111
+  : BIO SENSORS
+
+
+COURSE CODE : ECPE87
+
+Course Title : Bio Sensors
+Number of Credits : 3
+Prerequisites : CHIR11
+
+Course Type : PE
+
+
+Course Learning Objectives
+To familiarize students with biosensor technology and their application area.
+
+
+Course Content
+
+
+UNIT I
+Description of biosensor and its general principles, Biomolecules used in biosensors and
+immobilization methods, immobilization of biological materials, support materials, their types and
+properties.
+
+UNIT II
+The properties and characteristic of biosensors, performance factors in biosensors, enzymatic
+biosensors, immune-biosensors.
+
+UNIT III
+DNA biosensors, Cell basis biosensors, Electrochemical biosensors, Electrochemical biosensor,
+Optical biosensors.
+
+UNIT IV
+Other measurements methods, Biosensors in food analysis, Biosensors in environmental analysis.
+
+Reference Books %1. A.Mulchandani, K.R. Rogers, 1998. “Enzyme and Microbial Biosensors Techniques and
+  : Protocols”, Humana Press, Totowa, New Jersey. %2. J.Cooper, T.Cass, Biosensors, Oxford university press, second edition, 2004.
+
+  : 112 %3. Chen Jianrong, Miao Yuqing, He Nongyue, Wu Xiaohua, Li Sijiao, Nanotechnology and
+  : biosensors, Biotechnology Advances, Volume 22, Issue 7, September 2004, Pages 505-
+  : %518. Course outcomes
+At the end of the course student will be able to %1. Acquire knowledge about the biosensors. 2.   Understand various biomolecules used in biosensors and immobilization methods 3.   Design a biosensor. 4.   Acquire knowledge about advantages of biosensors. 5.   Understand DNA biosensors, Cell basis biosensors and Electrochemical biosensors 6.   Understanding the use of Biosensors in environmental analysis.
+  : 113
+  : RF CIRCUIT DESIGN
+
+
+COURSE CODE : ECPE88
+Course Title : RF Circuit Design
+Number of Credits : 3
+Prerequisites : ECPC30, ECPC40
+
+Course Type : PE
+
+
+Course Learning Objectives
+To familiarize students with the importance of RF circuit design techniques and their potential
+application areas.
+
+Course Content
+
+
+UNIT I
+RF systems architectures: Transmission media and reflections, Passive RLC Networks: matching,
+Passive IC Components, Interconnects and skin effect, Review of MOS Device Physics,
+Distributed Systems: Transmission lines, reflection coefficient.
+
+UNIT II
+High Frequency Amplifier Design: Bandwidth estimation,Rise-time, delay and bandwidth - Zeros
+to enhance bandwidth - Shunt-series amplifiers, tuned amplifiers - Cascaded amplifiers
+Noise : Thermal noise, flicker noise review - Noise figure.
+
+UNIT III
+LNA Design: Intrinsic MOS noise parameters, design examples & Multiplier based mixers, Mixer
+Design: Subsampling mixers.RF Power Amplifiers: Class A, AB, B, C amplifiers - Class D, E, F
+amplifiers - RF Power amplifier design examples, Voltage controlled oscillators: Resonators -
+Negative resistance oscillators.
+
+UNIT IV
+Phase locked loops: Linearized PLL models - Phase detectors, charge pumps - Loop filters, PLL
+design examples, Frequency synthesis and oscillators, Phase noise: General considerations -
+Circuit examples, Radio architectures: GSM radio architectures - CDMA, UMTS radio
+architectures.
+  : 114
+Reference Books %1. Thomas H. Lee, The Design of CMOS Radio-Frequency Integrated Circuits,
+  : Cambridge University Press, %2004. 2. Behzad Razavi, RF Microelectronics, Prentice Hall, 1997.
+
+Course outcomes
+At the end of the course student will be able to %1. Understand the basics of RF circuit design. 2. Understand the key design challenges in RF circuit design. 3. Understand the key challenges in the designing of LNA. 4. Design the various RF power amplifiers. 5. Design voltage controlled oscillators. 6. Design phase locked loops and Radio architectures.
+  : 115
+  : MICROCONTROLLERS
+
+
+COURSE CODE : ECOE80
+Course Title : MICROCONTROLLERS
+Number of Credits : 3
+Prerequisites : ECPC34
+
+Course Type : OE
+
+
+Course Learning Objectives
+Course will provide the understanding of the difference between microprocessor and
+microcontroller and basics of embedded System. Students will be able to apply the principles of
+logic design in understanding architecture and memory organization, understand different
+peripherals and their interfacing concepts with microcontroller.
+
+Course Content
+
+
+UNIT I
+INTRODUCTION: Comparing Microprocessors and Microcontrollers. Technological trends in
+Microcontrollers development, Survey of microcontrollers- 4 bit, 8 bit, 16 bit, 32 bit
+microcontrollers, Applications of microcontrollers.
+
+UNIT II
+8051 ARCHITECTURE: Block diagram, pin diagram of %8051. Functional descriptions of
+internal units, registers, PSW, internal RAM, ROM, Stack, Oscillator and Clock. I/O Pins, Ports
+and Circuits Connecting external memory, Counters and timers. Serial data interrupt. Serial data
+transmission/reception and transmission modes, Timer flag interrupt. External interrupt, software
+generated interrupts. External memory and memory space decoding, expanding I/Os, memory
+mapped I/O Reset & CLK Circuits.
+
+UNIT III
+8051 INSTRUCTION SET AND PROGRAMMING: 8051 Instruction syntax, addressing
+modes, Data transfer instructions, logical instructions, arithmetic instructions, Jump and Call
+instructions. Interrupts and interrupt handler subroutines, Writing assembly Language programs,
+Time delays, Pure S/W time delays. S/W polled timer, Pure H/W delay. Lookup tables, Serial
+data transmission using time delays and polling. Interrupt driven serial transmission and reception.
+
+UNIT IV
+8051 APPLICATIONS: Interfacing Keyboards Programs for small keyboards and matrix
+keyboards. Interfacing multiplexed displays, numeric displays and LCD displays, Measuring
+
+
+  : 116
+frequency and pulse width, Interfacing ADCs & DACs. Hardware circuits for handling multiple
+interrupts, 8051 Serial data communication modes- Mode 0, Mode 1, Mode 2 and Mode %3. 
+Reference Books:
+1. K. J. Ayala, The 8051 Microcontroller – 2nd ed. Penram International.
+2. Intel’s manual on “Embedded Microcontrollers”
+
+Course outcomes
+At the end of the course student will be able to
+1. apply knowledge of mathematics, engineering to understand concepts in microcontroller based system.
+2: analyze a problem and formulate appropriate computing solution for microcontroller based applications.
+3: design experiments in microcontrollers analyze computer based process to meet desired needs
+4: work, document and present as an individual and as a team-member to design formulate and implement experiments using modern tools.
+5: Select appropriate microcontroller for different application.
+6: Write and execute assembly language programs (software) for given application
+  : 117
+  : SENSOR TECHNOLOGY
+
+COURSE CODE : ECOE81
+Course Title : Sensor Technology
+Number of Credits : 3
+Prerequisites(Course : ECPE70
+  : code)
+Course Type : OE
+
+Course Learning Objectives
+Course will provide the understanding of the right sensors for a given application and desi
+gn basic circuit building blocks. Also help to simulate, synthesize, and layout a complete
+sensor and sensor system.
+
+Course Content
+
+
+Unit I
+Principles of Sensing, Classification and Terminology of Sensors, Measurands. Sensors ty
+pes and classification – mechanical, acoustic, magnetic, thermal, chemical, radiation and b
+iosensors.
+
+Unit II
+PHYSICAL PRINCIPLE OF SENSING: Electric charges, field and potential, capacita
+nce, magnetism and induction, resistance, piezeoelectric effect, hall effect, temperature an
+d thermal properties of materials, heat transfer, light, dynamic models of sensor elements.
+
+Unit III
+Wireless Sensors and its applications, Modeling and simulation of microsensors and actu
+ators, Sensors and smart structures. Micro-opto-electro-mechanical sensors and system, In
+terworking with IoT.
+
+Unit IV
+SENSORS IN DIFFERENT APPLICATION AREAS: occupancy and motion detector
+s, position displacement and level, velocity and acceleration, force, strain and tactile senso
+rs, pressure sensors and temperature sensors.
+  : 118
+  : Reference Books:
+
+  : %1. J. Fraden, Handbook of Modern Sensors:Physical, Designs, and Applications, AIP
+  : Press, Springer.
+  : %2. Sze S.M “Semiconductor Sensors”, John Wiley, New York, 1994.
+  : %3. Ristic L,“Sensor Technology and Devices”, Artech House, London, 1994.
+  : %4. Gerard Meijer, Kofi Makinwa, “Smart Sensor Systems: Emerging Technologies
+  : and Applications”, ISBN: 978-0-470-68600-3,April %2014. 
+
+Course outcomes
+1. understand the concept of sensors and its characteristics.
+2. understand the practical approach in design of technology based on different sensors
+3. learn various sensor materials and technology used in designing sensors
+4. synthesis and analyze wireless sensors for advanced applications
+5. understand the software and hardware designing aspects of sensors co-existing with other systems
+6. propose new applications for sensors.
+  : 119
+  : Electronics & Communication Engineering
+  : Department
+
+  : LAB COURSES
+
+
+COURSE CODE : ECLR30
+Course Title : Electronics-I Lab
+
+Number of Credits : 1
+Prerequisites : ECIR11, ECPC30
+
+Course Type : ELR
+
+Course Learning Objectives
+1. To familiarize students with measuring instruments.
+2. To describe transient response of RL, RC, RLC circuits and application of Op-amp.
+3. To demonstrate students theworking and input-output characteristics of p-n junction diode, Zener diode, BJT, JFET and MOSFET.
+4. To demonstrate students the working of single stage amplifier using BJT and MOSFETs. Course Code              : ECLR31
+
+Course Title : Digital Design Lab
+Number of Credits : 1
+Prerequisites : ECPC34
+
+Course Type : ELR
+
+Course Learning Objectives
+1. To familiarize students with the working of ICs of logic gates, MUXs, Encoder, Decoder, Flip-flops etc.
+2. To demonstrate students the realization of MUXs/De-MUX, Encoder, Decoder, Flip-flops etc. with the help of basic ICs.
+3. To enable students to realize one Flip-flop with the help of other Flip-flops.
+4. To enable the students to design counter, shift registers, adder, subtractor, multipliers etc. with the help of basic ICs. 
+
+Course Code             : ECLR32 
+Course Title            :   Instrumentation Lab 
+Number of Credits           1 
+Prerequisites           :   ECIR11
+(Course code) Course Type : ELR
+Course Learning Objectives
+1. Students will be able to develop general understanding of electronic instruments.
+2. Students will be able to monitor and use various electronic instruments.
+3. To demonstrate various Bridges &sensors using simulation and hardware set ups.
+4. An understanding of statistical data analysis. Course Code             : ECLR33
+Course Title : MATLAB Programming
+
+Number of Credits : 1
+Prerequisites : MAIR11
+
+Course Type : ELR
+Course Learning Objectives
+1. Familiarize simple program modules to implement single numerical methods and algorithms.
+2. Test program output for accuracy using hand calculations and debugging techniques.
+3. Analyze the applicability and accuracy of numerical solutions to diverse electronics & communication engineering problems.
+4. Synthesize multiple program modules into larger program packages
+
+COURSE CODE : ECLR40 
+Course Title             :       Electronics-II Lab
+
+Number of Credits : 1
+Prerequisites : ECIR11, ECPC30, ECPC40
+
+Course Type : ELR 
+
+Course Learning Objectives
+1. To familiarize students with the working principle of singe stage and multistage amplifiers and their frequency response.
+2. To demonstrate students with the designing of basic current mirrors, differential amplifier and Op-amp using MOSFETs.
+3. To demonstrate students with the designing of different types of oscillators.
+4. To demonstrate students with the designing of V-I and I-V converter, integration and differential circuit, wave shaping circuit, active filters etc.
+
+COURSE CODE : ECLR41 
+Course Title               :       Communication Lab 
+Number of Credits          :       1 
+Prerequisites              :       ECPC35
+Course Type : ELR
+
+
+Course Learning Objectives
+1. Learn to use communications test equipment’s
+2. Familiarization of all types of analog modulation / demodulation principles such as AM, DSB-SC, SSB-SC, FM
+3. Learning different types of pulse modulation schemes
+4. Recognize the importance of pre-emphasis and de-emphasis, diode detector and AGC. 
+
+Course Code                 : ECLR42
+Course Title : Embedded Systems Lab
+Number of Credits : 1
+Prerequisites : ECPC-42
+ 
+Course Type : ELR
+
+Course Learning Objectives
+1. Discuss the major components that constitute an embedded system.
+2. Implement small programs to solve well-defined problems on an embedded platform.
+3. To introduce students the basic concepts and major components of the microprocessor and microcontroller, and to provide students with knowledge     and     skills   for    solving    problems      with    the microprocessor/microcontroller.
+4. To provide students with the concepts and techniques required in designing computer hardware interfaces and embedded software for microcontrollers. 
+
+Course Code              : ECLR43
+Course Title : Object Oriented Programming Lab
+Number of Credits : 1
+Prerequisites : CSIR11, ECPE40
+
+Course Type : ELR
+
+Course Learning Objectives
+1. To perform object oriented programming solution and develop solutions to problems demonstrating usage of control structure, modularity, classes, I/O and the scope of the class members.
+2. To demonstrate adeptness of object oriented programming in developing solution to problems demonstrating usage of data abstraction, encapsulation and inheritance
+3. To demonstrate ability to implement one or more patterns involving dynamic binding and utilization of polymorphism in the solution of problems.
+4. To learn object-oriented programming and utilize it in practical applications.
+
+COURSE CODE : ECLR50
+Course Title : Digital Communication Lab
+Number of Credits : 1
+Prerequisites : ECPC53, ECPC35
+
+Course Type : ELR
+
+
+Course Learning Objectives
+1. To verify basic properties of maximal-length shift-register sequences.
+2. To verify sampling theorem and demonstrate TDM.
+3. To demonstrate PCM modulation and demodulation through experimental kits
+4. To demonstrate ASK, PSK, FSK, QPSK and MSK modulation and demodulation through experimental kits and MATLAB. 
+
+Course Code            : ECLR51
+Course Title : Digital Signal Processing Lab
+
+Number of Credits : 1
+Prerequisites : ECLR33, ECPC52
+
+
+Course Type : ELR
+
+
+Course Learning Objectives
+1. Learn to represent discrete time signals and systems.
+2. Analyze the basic concept of digital signal processing on DSP kit and MATLAB.
+3. Analyze Frequency response and design of FIR and IIR filters on DSP kit and MATLAB.
+4. The concept of Multirate DSP and applications of DSP.
+
+COURSE CODE : ECLR52 
+Course Title            :       Transmission Lines and Antenna Lab
+Number of Credits : 1
+Prerequisites : ECPC31, ECPC51
+Course Type : ELR 
+Course Learning Objectives 
+%1. The students should be able to validate the theoretical principles of
+  : Transmission Lines and Antennas through hands on experience. %2. Determine the primary (R, L, G, C) and secondary (γ, α, β , Zo) constants,
+  : reflection coefficient, SWR, Q of resonant line sections on dedicated
+  : Transmission Line design kits. Also, analyze impedance matching through
+  : Quarter-wave transformer and Stub Lines. %3. Design, measure, quantify and plot the fields radiated by various forms of
+  : antenna structures and analyze their performance. %4. Compare simulated results obtained by software and theoretical results.
+
+COURSE CODE : ECLR70
+Course Title : Microwave Lab
+
+Number of Credits : 1
+
+Prerequisites : ECPC70
+
+
+Course Type : ELR
+
+Course Learning Objectives:
+1. Familiarization of different microwave components
+2. Familiarization and characterization of different microwave solid state devices
+3. Setting of a microwave bench
+4. Different microwave measurements like VSWR, Insertion loss, power etc.
+
+COURSE CODE : ECLR71
+Course Title : HDL Lab
+Number of Credits : 1
+Prerequisites : ECPC34
+
+Course Type : ELR
+
+Course Learning Objectives
+1. To familiarize students with EDA tool and its working.
+2. To demonstrate students the simulation and synthesis of different digital circuits/systems using VHDL.
+3. To enable students to design the digital circuits with different design flow of VHDL.
+4. To enable the students to design the test-benches to verify functional and timing correctness of digital circuit/system.

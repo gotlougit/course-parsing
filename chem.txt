@@ -1,0 +1,305 @@
+---
+COURSE CODE : CHIR11 (Common for all branches)
+Course Title : Energy and Environmental Science
+Number of credits : 2(2L)
+Prerequisites (Course code) : Nil
+Course Type : EPR
+
+Course Learning Objectives:
+
+   •   To discuss the complexity of issues and challenges relating to energy and environmental
+       science
+   •   To explore the environmental impact of various energy sources and also the effects of
+       different types of pollutants.
+   •   To introduce the principal renewable energy systems.
+   •   To discuss the human impact on the environment and human exposure to environmental
+       contaminants.
+
+Course Content:
+
+UNIT 1
+Multidisciplinary nature, Ecosystems and Bio-diversity
+Environment: Definition, scope and importance; need for public awareness. Ecosystems:
+Concept, structure, function and energy flow in an ecosystem; producers, consumers and
+decomposers. Bio-diversity: Definition, value of bio-diversity, hot spots and threats to bio-
+diversity, conservation.                                                                (5L)
+
+UNIT 2
+Natural Resources
+Renewable and non-renewable resources:Natural resources and associated problems. Forest
+resources- Use and over-exploitation, deforestation, case studies. Timber extraction, mining,
+dams and their effects on forest and tribal people. Water resources- Use and over-utilization of
+surface and ground water, floods, drought, conflicts over water. Mineral resources- Use and
+exploitation, environmental effects of extracting and using mineral resources, case studies.Food
+resources-World food problems, changes caused by agriculture and overgrazing, effects of
+modern agriculture, fertilizer-pesticide problems, water logging, salinity, case studies.Energy
+resources- Present energy resources in India and its sustainability, energy demand scenario in
+India, growing energy needs, renewable and non-renewable energy sources, use of alternate
+energy sources; Power plants: Different types of conventional power plants, advantages
+&disadvantages of conventional power plants, conventional vs non-conventional power
+generation; Solar energy: Basics of solar energy, solar thermal energy, photovoltaic (PV) solar
+cells, advantages & disadvantages, environmental impacts and safety; Wind energy: Energy from
+wind turbines, India’s wind energy potential, types of wind turbines, off shore wind energy,
+environmental benefits and impacts.                                                       (8L)
+
+UNIT 3
+Environmental Pollution
+Air pollution- Sources and effects of pollutants, primary and secondary pollutants, control
+measures. Acid rain: Impacts on human communities and agriculture. Green-house effect:
+Definition, causes and consequences. Depletion of ozone layer:CFC, destruction of ozone layer
+by CFC, consequences, the effect of ozone modification, Photochemical smog, Bhopal gas
+tragedy. Water pollution- Water characteristics, water quality (WHO standard), natural water
+pollutants their origin and effects: oxygen demanding wastes, pathogens, nutrients, salts, heavy
+metals, pesticides, volatile organic compounds. River/ lake/ ground water pollution: DO, BOD,
+COD, TOC, oil &grease, pH and eutrophication.Thermal pollution-Cause, effects and control
+measures. Solid waste management- Causes, effects and control measures of urban and
+industrial wastes Nuclear hazards- Causes, effects and control measures.                    (8L)
+
+UNIT 4
+Social Issues and the Environment
+Unsustainable to sustainable development, urban problems related to energy, water conservation,
+rain water harvesting, watershed management; Environmental ethics: Issues and possible
+solutions, Environment Protection Act, Air (Prevention and Control of Pollution) Act, Water
+(Prevention and control of Pollution) Act                                                (6L)
+
+
+Course Outcomes:
+Upon successful completion of this curriculum:
+   • Students will know the environmental pollutants and their health effects, and environmental remediation and management.
+   • Students will understand the principal of renewable energy systems and explore the environmental impact of various energy sources.
+   • Students will understand interrelationships among science, technology, and environment
+   • Students will learn about the Importance of saving energy and environment.
+
+
+Reference Books
+1. Environmental Studies: A. Basak, Pearson Education; 1st edition (2009).
+2. Environmental Studies For Undergraduate Courses of all Branches of Higher Education by ErachBharucha for University Grants Commission
+3. Text Book of Environmental Studies: D. Dave and S.S. Katewa, Cenage Learning.
+4. Fundamentals of Environmental Studies: S. Somvanshi and R. Dhupper, S. K. Kataria& Sons.
+5. Environmental Chemistry: Anil K De, New Age International, 2007.
+6. Environmental Studies: R. Daniels, Wiley India Private. Ltd.
+7. Environmental Studies: Benny Joseph, McGraw-Hill Education,2nd edition.
+                                   B. Tech. 1st Semester
+                                    (2017-18 onwards)
+CourseCode : CHLR11 (Common for all branches)
+CourseTitle : Environmental Science Lab
+Numberof credits : 1(2P)
+Prerequisites(Course code) : Nil
+CourseType : ELR
+
+Course Learning Objectives:
+
+   •    To learn about laboratory skills.
+   •    To get a knowledge about some important labotatory techniques used in assessing the
+        amount of different pollutants in water and air. Laboratory Experiments %1. Determination of alkalinity in the water sample 2.  Determination of dissolved oxygen (DO) in the water sample. 3.  Determination of chemical oxygen demand (COD) in the water sample. 4.  Determination of residual chlorine in the water sample. 5.  Determination of total dissolved solids in water/effluent sample. 6.  Determination of total Ca2+ and Mg2+ hardness in water. 7.  Determination of strength of nitrite ions in water samples. 8.  Analysis of BTX through Gas-Chromatography in air samples. 9.  Analysis of heavy metal ions in industrial effluent by Atomic Absorption Spectroscopy
+       (AAS). %10. Determination of moisture and pH of soil sample.
+Reference Books 
+%1. Applied Chemistry-Theory and Practice: O. P. Virmani and A. K. Narula, New Age India Publishers, New Delhi. 2. Essentials of Experimental Engineering Chemistry: Shashi Chawla, Dhanpat Rai Publishing company Ltd., New Delhi.
+---
+COURSE CODE : CHIR12
+Course Title : Chemistry ( For CE, ME and PIE )
+Number of credits : 3(2L+1T)
+
+Prerequisites : Nil
+Course Type : EPR
+
+Course Learning Objectives:
+  • To enable the students to acquire knowledge of the principles of chemistry for engineering applications.
+  • To bring adaptability to new developments in engineering chemistry and a knowledge of contemporary issues relevant to engineering.
+  • To make them apply the knowledge of fundamental chemistry for identification, solution and analysis of complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations.
+
+Course Content:
+
+UNIT 1
+Polymers & Composites
+ Polymers-Polymerization techniques (free radical, ionic and coordination mechanisms);
+preparation, properties and technical applications of: phenol–formaldehyde resins, elastomers:
+synthetic rubbers (Buna-S, Buna-N, neoprene), inorganic polymers: silicones, adhesives: epoxy
+resins; Introduction and applications of conducting polymers (polythiophene, polyaniline) and
+biodegradable polymers (cellulose acetate, polyhydroxy urethanes)                        (4L)
+
+Composites-Introduction; Classification and basic requirements of composite materials;
+different matrix materials with examples: polymer matrix, metal matrix, ceramic matrix, carbon
+matrix, glass matrix; nano-composites for electrical, superconducting and device applications.
+                                                                                          (3L)
+
+UNIT 2
+Engineering Materials & Corrosion
+Engineering Materials- High energy materials (HEMs)-Introduction; classification
+(explosives, propellants, pyrotechnics); requirements of HEM: sensitivity, detonation
+performance, oxygen balance; Important explosives (structure, preparation, properties): Lead
+azide, DDNP, dynamites, TNT, PETN, RDX, and plastic explosives; Cement-Introduction and
+types of cement; cement composition; setting and hardening of Portland cement.    (4L) Corrosion-Introduction; corrosion mechanisms: dry corrosion and wet corrosion; types of
+corrosion: concentration/water-line corrosion, stress corrosion (caustic embrittlement in boilers
+and seasonal cracking), pitting corrosion; factors affecting the rate of corrosion; remedial
+measures against corrosion: design, cathodic protection, modification of environment, protective
+coatings (galvanizing and tinning by hot dipping, metal cladding).                         (4L)
+
+UNIT 3
+Fuels and Lubricants
+Fuels- Introduction; characteristics of good fuel; calorific value (HCV and LCV); determination
+of HCV by Bomb’s calorimeter; proximate & ultimate analysis of coal; coal liquefaction
+(Fischer-Tropsch method); coal gasification (water gas); bio-diesel, green diesel and power
+alcohol.                                                                                      (3L)
+Lubricants-Introduction; classification; mechanism of lubrication; significant properties of
+lubricants and their determination (viscosity and viscosity index, cloud and pour point, flash and
+fire point, aniline point, carbon , acid value, saponification value, iodine value); semi-solid and
+solid lubricants.                                                                              (4L)
+
+UNIT4
+Water & Phase Rule
+Water-Softening of water: zeolite process & demineralization by ion-exchange process; polished
+water; boiler problems and remedial measures; desalination: advanced reverse
+osmosis,andelectrodialysis.                                                              (4L)
+
+Phase Rule-Description of various terms (phase, component and degrees of freedom); one
+component system (water and CO2systems); two component system (Pb-Ag, KI-H2O and
+benzene-water systems); technical applications: freeze drying, solders, safety plugs and freezing
+mixtures.                                                                                   (4L)
+
+
+Course Outcomes:
+Upon successful completion of this curriculum students will be able to:
+   • Gain the basic knowledge of polymers and their applications in day to day life.
+   • Understand the basic principles of fuels and lubricants.
+   • Learn the fundamental principles of explosives, energetic properties, their applications in civil as well as military applications and safety standards for their safe use.
+Reference Books: %1. Engineering Chemistry: P.C. Jain and Monica Jain(16th edition), Dhanpat Rai Publishing Company, New Delhi. 2. A Text Book ofEngineering Chemistry: Shashi Chawla(3rd edition),Dhanpat Rai Publishing Company, New Delhi. 3. A Text Book ofEngineering Chemistry: S. S. Dara and S. S. Umare(12th edition), S. Chand Publishing Company, New Delhi. 4. Engineering Chemistry: R. Sivakumar and N. Sivakumar, Tata McGraw-Hill Publishing Company Limited, New Delhi. 5. An Introduction to Composite Materials: D. Hull and T. W. Clyne, Cambridge University Press. 6. A Text Book ofEngineering Chemistry: O. G. Palanna(4th reprint 2012), McGraw Hill, New Delhi. 7. Principles of Physical chemistry: Puri, Sharma and Pathania, W. H. Freeman and Company.
+---
+COURSE CODE : CHIR13
+Course Title : Chemistry (For ECE and EE)
+Number of credits : 3(2L+1T)
+Prerequisites (Course code) : Nil
+Course Type : EPR
+
+Course Learning Objectives:
+
+   •   To introduce the students to basic principles of batteries, fuel cell construction and the
+       importance of advanced polymers.
+   •   To make the students learn about Importance of nano and advanced materials.
+   •   To introduce the spectroscopy and applications of photochemistry.
+
+Course Content:
+
+UNIT 1
+Polymers
+Introduction to industrially important polymers: Liquid-crystal polymers (LCP), conducting
+polymers (CP), interpenetrating polymer network (IPN), smart polymers or stimuli-responsive
+polymers, polymer blends and polymer composites;Conducting Polymers:Methods of synthesis
+and properties of polyaniline (PANi), polypyrrol (PPy) and polythiophene (PTh); applications of
+these polymers in advanced technologies.                                                  (7L)
+
+UNIT 2
+Batteries
+Physical concepts; Introduction to primary, secondary and flow batteries: Zn-AgO, Nickel-metal
+hydride, Metal-acid and Lithium ion batteries-construction, working principle, operation and
+applications; Fuel cells: Methanol-Oxygen,solid oxide fuel cell (SOFC) and polymer
+electrolyte fuel cell (PEFC)- construction, working principle and applications;Solar battery-
+working principle and applications.                                                      (7L)
+
+
+UNIT 3
+Advanced Materials
+Composite materials: Introduction; different types and applications. Photovoltaic materials:
+solar cells and dye sensitized solar cells- principle and applications. Nanomaterials:Synthesis,
+characterization and applications of nano materials (fullerene, graphene, carbon nanotubes and
+quantum dots) in electronic and nano devices.                                             (8L)
+UNIT 4
+Photochemistry and Spectroscopy
+Photochemistry:Introduction; significance;laws governing light absorption; excited states,
+Jablonski       diagram;     fluorescence,      phosphorescence,     chemiluminescence      and
+photosensitisation;applications in light emitting diodes (LED), laser, photodynamic therapy and
+artificial photosynthesis.                                                                (4L)
+
+Spectroscopy: Introduction to atomic spectroscopy and molecular spectroscopy; instrumentation
+and applications of: Ultra Violet-Visible (UV-Vis), Infrared (IR) and Nuclear Magnetic
+Resonance (NMR) spectroscopy for material characterization.                            (4L)
+
+Course Outcomes:
+Upon completing this curriculum:
+   • Students will learn the significance and applications of industrially important advanced polymers.
+   • Students will be able to understand the basics of batteries and their working.
+   • Students will get knowledge in spectroscopic techniques and applications of photochemistry in engineering.
+
+
+Reference Books: 
+%1. Materials Science and Engineering: An introduction: W. D. Callister, Wiley India Pvt. Ltd., New Delhi. 2. Engineering Chemistry: P.C. Jain and Monica Jain(16th edition), Dhanpat Rai Publishing Company, New Delhi. 3. A Text Book ofEngineering Chemistry: Shashi Chawla(3rd edition),Dhanpat Rai Publishing Company, New Delhi. 4. A Text Book ofEngineering Chemistry: S. S. Dara and S. S. Umare(12th edition), S. Chand Publishing Company, New Delhi. 5. An Introduction to Composite Materials: D. Hull and T. W. Clyne, Cambridge University Press. 6. A Text Book ofEngineering Chemistry: O. G. Palanna(4th reprint 2012), McGraw Hill, New Delhi. 7. Principles of Physical chemistry: Puri, Sharma and Pathania, W. H. Freeman and Company. 8. Fundamentals of Molecular Spectroscopy: C. N. Benwell and E. M. McCash, Tata Mcgraw Hill Publishing Co. Ltd., New Delhi.
+---
+COURSE CODE : CHIR14
+Course Title : Chemistry (For CS and IT)
+Number of credits : 3(2L+1T)
+Prerequisites (Course code) : Nil
+Course Type : EPR
+
+Course Learning Objectives:
+
+       •   To introduce the students to basic principles of molecular modelling and applications
+           of computers in chemistry
+       •   To introduce the students to basic principles of batteries, fuel cell construction and the
+           importance of advanced polymers.
+       •   To give the students the knowledge of engineering materials and their applications in
+           industry.
+
+Course Content:
+
+UNIT 1
+Molecular Modelling
+Potential energy surface: Energy minimisation, geometry optimisation, conformational analysis,
+global and local minimum determination, approaches and problems, bioactive vs global minima
+conformations, automated methods of conformation search, advantages and limitations of
+available softwares.                                                                   (8 L)
+
+UNIT 2
+Engineering Materials
+Composite materials: Introduction; different types and applications. Photovoltaic materials:
+solar cells and dye sensitized solar cells- principle and applications. Nanomaterials:Synthesis,
+characterization and applications of nano materials (fullerene, graphene, carbon nanotubes and
+quantum dots) in electronic and nano devices.                                             (8L)
+
+UNIT 3
+Batteries
+Physical concepts; Introduction to primary, secondary and flow batteries: Zn-AgO, Nickel-metal
+hydride, Metal-acid and Lithium ion batteries-construction, working principle, operation and
+applications; Fuel cells: Methanol-Oxygen,solid oxide fuel cell (SOFC) andpolymer electrolyte
+fuel cell (PEFC)-construction, working principle and applications;Solar battery-working
+principle and applications.                                                              (7L)
+UNIT 4
+Polymers
+Introduction to industrially important polymers: Liquid-crystal polymers (LCP), conducting
+polymers (CP), interpenetrating polymer network (IPN), smart polymers or stimuli-responsive
+polymers, polymer blends and polymer composites;Conducting Polymers:Methods of synthesis
+and properties of polyaniline (PANi), polypyrrol (PPy) and polythiophene (PTh); applications of
+these polymers in advanced technologies.                                                  (7L)
+
+Course Outcomes:
+Upon completion of this curriculum:
+   • Students will be able to understand the principles of molecular modelling and applications of computers in chemistry
+   • Students will learn the significance and construction of batteries and fuel cells
+   • Students will get knowledge in polymers and engineering materials. Reference Books: %1. Materials Science and Engineering: An introduction: W. D. Callister, Wiley India Pvt. Ltd., New Delhi. 2. Engineering Chemistry: P.C. Jain and Monica Jain(16th edition), Dhanpat Rai Publishing Company, New Delhi. 3. A Text Book ofEngineering Chemistry: Shashi Chawla(3rd edition), Dhanpat Rai Publishing Company, New Delhi. 4. A Text Book ofEngineering Chemistry: S. S. Dara and S. S. Umare(12th edition), S. Chand Publishing Company, New Delhi. 5. An Introduction to Composite Materials: D. Hull and T. W. Clyne, Cambridge University Press. 6. A Text Book ofEngineering Chemistry: O. G. Palanna(4th reprint 2012), McGraw Hill, New Delhi. 7. Principles of Physical chemistry: Puri, Sharma and Pathania, W. H. Freeman and Company. 8. Computational Chemistry: Introduction to the Theory and Applications of Molecular and
+       Quantum Mechanics, Errol G. Lewars, Springer %2011. 9. Introduction to Computational Chemistry, Frank Jensen, Third Ed. Wiley.
+---
+COURSE CODE : CHLR12
+Course Title : Chemistry Lab(common for all)
+Number of credits : 1(2P)
+Prerequisites (Course code) : Nil
+Course Type : ELR
+
+Course Learning Objectives:
+   • To learn about laboratory skills.
+   • To get a knowledge about some important labotatory techniques used in quantitative assessment of lubricant properties.
+   • To learn about working of instruments in characterization of advanced materials. Laboratory Experiments 1) Preparationof Phenol-formaldehyde resin. 2) Determination of viscosity of lubricants by Redwood viscometer. 3) Determination of acid value of lubricant oil. 4) Determination of saponification value of lubricant oil. 5) Determination of flash and fire point of lubricant.
+                                          -1 6) Determination of the strength (gL ) of strong acid and strong base/weak acid and strong
+       base using conductometrictitration method. 7) Investigation on effects of different substitutions on electronic absorption bands of aromatic
+       compounds using UV-Vis spectroscopy. 8) Assignment of functional groups of given organic compounds(acids, esters, alcohols,
+       aldehydes, amines etc.) by IR spectroscopic technique. 9) Determination of calcium as calcium oxide volumetrically in cement extract solution. 10) Synthesis of high energy materials: (a) Tri-nitroresorcinol (b) Tri-nitrophloroglucinol and
+       their characterization by different spectroscopic techniques (UV-Vis, IR and NMR). 11) Analysis of composite solids by different characterization techniques (XRD, IR,
+       absorbance and emission spectra). 12) Investigatory project based on syllabus.
+
+Note: Eight to ten experiments out of the list shall be performed by the students.
+
+Reference Books
+1. Applied Chemistry-Theory and Practice: O. P. Virmani and A. K. Narula, New Age India
+Publishers, New Delhi.
+2. Essentials of Experimental Engineering Chemistry: Shashi Chawla, Dhanpat Rai Publishing
+company Ltd., New Delhi.
+3.A Text Book on Experiments and Calculations in Engineering Chemistry: S. S. Dara, S. Chand
+and Company Ltd., New Delhi.
