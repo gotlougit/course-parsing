@@ -19,3 +19,12 @@ No external modules are used; the standard packages are enough
 ```bash
 python savetojson.py path/to/txtfile.txt
 ```
+
+Once a JSON has been generated, use ```checkjson.py``` script to get a list of all the entries in each file that are empty. This output is printed to stderr from where you can redirect it to a file and use it as a checklist.
+A helpful summary is also printed out to stdout.
+
+To use this script, run:
+
+```bash
+python checkjson.py path/to/json/file.json path/to/another/json/file.json
+```
